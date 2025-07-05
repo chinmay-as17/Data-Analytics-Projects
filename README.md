@@ -1,96 +1,80 @@
-# 📦 Warehouse Slotting & Inventory Forecasting System
+# 💼 Data Analytics & SCM Projects – Chinmayanand Swami
 
-A smart warehouse optimization project using Python and Power BI to:
-- Improve picking speed by identifying fast-moving SKUs
-- Forecast future demand using time series modeling
-- Visualize reorder trends, stock risks, and zone assignments
-
-![Dashboard Sample](output/bar_chart.png)
+**Industrial Production Engineering student at NIT Jalandhar**, skilled at turning data into operational insights. These projects showcase my proficiency in warehouse optimization, production performance, quality, SQL reporting, and data-driven decision-making using tools like Excel, Power BI, Python, and SQL.
 
 ---
 
-## 📖 Overview
-
-This project helps warehouses improve layout, stock efficiency, and reduce manual effort. It does so by:
-- Classifying products based on picking frequency (Fast / Medium / Slow movers)
-- Assigning optimal warehouse zones (Front / Middle / Back)
-- Forecasting future inventory demand using ARIMA models
-- Building a Power BI dashboard for real-time inventory visibility
+## 📂 Project Portfolio
 
 ---
 
-## 🎯 Objectives
+### 1. 📦 Warehouse Slotting & Inventory Forecasting  
+**Tools:** Python, Pandas, ARIMA, Power BI  
+- Classified 1,000+ SKUs into Fast/Medium/Slow movers and optimized shelf placement to **improve picking efficiency by 28%**  
+- Forecasted 7-day demand using time-series, reducing overstocking by **33%** and understocking by **21%**  
+- Created an interactive Power BI dashboard, eliminating 70% of manual stock-check effort
 
-- 🏷️ Classify SKUs for better slotting
-- 🔮 Predict future inventory needs to avoid stockouts and overstocking
-- 📊 Build a live dashboard for demand monitoring and SKU management
-
----
-
-## 🛠️ Tools & Libraries
-
-- Python (NumPy, Pandas, Matplotlib, Statsmodels)
-- Power BI (for dashboard + KPI cards)
-- Excel (CSV for import/export)
+👉 [Explore Project Folder](./warehouse-slotting-forecasting)
 
 ---
 
-## 📂 Dataset
+### 2. ⏱ Production Delay & Root Cause Dashboard  
+**Tools:** Excel, Power BI  
+- Developed a dashboard tracking downtime across 3 machines, 2 shifts, analyzing 90+ job records  
+- Used Pareto and 5-Why methodologies to identify top delay causes constituting **68% of downtime**  
+- Reduced average delay per shift from **57 to 44.5 minutes (↓22%)**  
+- Enabled supervisor-level insights with slicers for machine ID and shift, improving report efficiency by **60%**
 
-| Column | Description |
-|--------|-------------|
-| `SKU` | Unique ID of the product |
-| `Daily_Picks` | Average picks per day (used for classification) |
-| `Sales` | Simulated sales history for forecasting |
-| `Dates` | Date-wise index for time series |
-
----
-
-## 🧠 Methodology
-
-### 🔹 Step 1: Load & Explore Inventory
-Load the dataset and check for missing values, stats, and structure.
-
-### 🔹 Step 2: Classify SKUs
-Use quantiles of `Daily_Picks` to classify SKUs as:
-- Fast Mover → Store at front
-- Medium Mover → Store in middle
-- Slow Mover → Store at back
-
-### 🔹 Step 3: Visualize Movement
-Bar chart + pie chart to show movement class counts
-
-### 🔹 Step 4: Slotting Plan
-Assign storage zones to each SKU using the movement class
-
-### 🔹 Step 5: Forecasting
-Used ARIMA for 7-day demand forecasting based on simulated sales
-
-### 🔹 Step 6: Power BI Dashboard
-Built a dashboard to visualize SKU movement, demand, and zone-wise distribution
+👉 [Explore Project Folder](./production-delay-analysis)
 
 ---
 
-## 📊 Dashboard Screenshots
+### 3. 🔧 Defect Yield Improvement – Cap. Manufacturing (UCL Internship)  
+**Tools:** Excel, Pareto Chart, Fishbone Analysis  
+- Analyzed 3 weeks of rejection data; found 54% of defects in sealing/welding process  
+- Designed corrective action timeline and SOP enhancements, boosting first-pass yield by **18%**
 
-| Sales Forecast | Movement Classification |
-|----------------|--------------------------|
-| ![Forecast](output/pie_chart.png) | ![Slotting](output/bar_chart.png) |
-
----
-
-## ✅ Key Results
-
-- ⏱️ Improved picking efficiency by **28%**
-- 📉 Reduced overstocking by **33%**
-- 🚨 Reduced understocking by **21%**
-- 📊 Cut manual stock checks by **70%** with Power BI
+👉 [Explore Project Folder](./capacitor-defect-analysis-universal-cables)
 
 ---
 
-## 🧪 How to Run the Project
+### 4. 🧬 Customer Churn Prediction & Retention Dashboard  
+**Tools:** Python, Pandas, Scikit-learn, Power BI  
+- Built a logistic regression model (89% accuracy) to predict at-risk customers  
+- Developed a Power BI dashboard to track churn by segment, contract type, and retention strategy impact  
+- Enabled simulation of retention scenarios, driving a predicted **23% reduction in churn**
 
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/warehouse-slotting-forecasting.git
-cd warehouse-slotting-forecasting
+👉 [Explore Project Folder](./last-mile-delivery-prediction) _[Rename accordingly]_
+
+---
+
+### 5. 💰 SQL Sales Intelligence System  
+**Tools:** MySQL, Excel, Goal Seek, Solver  
+- Engineered 15+ SQL scripts (JOINs, CTEs, window functions) for regional and product-level sales KPIs  
+- Created an Excel dashboard with slicers, pivot tables, and Solver-based revenue predictions  
+- Automated monthly reporting and reduced manual analysis time by **85%**
+
+👉 [Explore Project Folder](./salesProject) _[Rename accordingly]_
+
+---
+
+## 🌟 Key Skills & Concepts
+
+- **Analytics Tools:** Power BI, Excel (Advanced Dashboards, Solver), SQL, Python (Pandas, ARIMA, Scikit-learn)  
+- **SCM & Manufacturing:** Inventory Forecasting, Slotting, OEE, Root Cause Analysis (Pareto, 5-Why, Fishbone), Shift Analysis  
+- **Lean Tools:** ABC Classification, 5S, TPM Concepts  
+- **Dashboarding & Reporting:** KPI Dashboards, Pivot Tables, Performance Tracking
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** chinmayanandswami17@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/chinmayanand-swami-716b60248/ 
+- **GitHub:** github.com/chinmay-as17  
+
+---
+
+## 🚀 Let’s Connect!
+
+Looking forward to contributing data-driven improvements to operations and skills development in SCM, supply chain analytics, or plant efficiency roles. Feel free to reach out for detailed walk-throughs or collaboration!
