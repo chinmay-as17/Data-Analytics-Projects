@@ -1,0 +1,1201 @@
+supplier_id,name,industry,location,supplier_size,product_supplied,on_time_delivery,defect_rate,payment_delay_days,escalation_count,penalty_count,contract_duration_months,renewal_status,cost_per_unit,business_criticality,risk_score,recommended_action
+SUP-01001,Frazier-Harris,Electronics,Floydstad,Medium,Chips,77.4,2.46,3.0,1,1,34,Not Renewed,52.81,Low,91,Renew
+SUP-01002,Kennedy-Long,Pharma,West Karen,Medium,Transport Services,78.1,0.55,6.0,1,0,35,Renewed,724.78,High,29,Terminate
+SUP-01003,"Cantu, Bates and Quinn",Logistics,Lake Patricia,Medium,Vaccines,81.6,5.3,3.0,1,0,26,Renewed,846.3,Medium,63,Renegotiate
+SUP-01004,Fox-Bauer,Electronics,New Cynthiaville,Medium,Chips,68.8,2.6,6.0,3,0,24,Renewed,19.42,High,20,Renegotiate
+SUP-01005,Hernandez Group,Chemicals,Lake Alexandraside,Small,Transport Services,81.0,0.77,21.0,2,0,10,Not Renewed,711.1,High,77,Renew
+SUP-01006,Edwards-Villanueva,Automotive,Mcleanburgh,Large,Cleaning Agents,91.3,1.97,7.0,3,0,27,Not Renewed,461.25,High,25,Renegotiate
+SUP-01007,Villanueva-Miller,Pharma,Bishopstad,Medium,Vaccines,99.6,3.52,1.0,0,0,19,Renewed,649.79,High,26,Renegotiate
+SUP-01008,"Carey, Hall and Wade",Logistics,North Joshuashire,Medium,Vaccines,94.9,2.9,3.0,1,0,25,Not Renewed,437.64,High,61,Renegotiate
+SUP-01009,Miller PLC,Automotive,South Kristen,Medium,Motors,95.2,1.68,4.0,2,0,23,Not Renewed,434.67,High,72,Renew
+SUP-01010,Serrano Inc,Pharma,New Cody,Medium,Vaccines,66.2,4.67,7.0,1,0,15,Renewed,218.55,Medium,42,Terminate
+SUP-01011,"Mcguire, Clark and Taylor",Chemicals,Kathleenburgh,Large,Cleaning Agents,79.7,3.03,9.0,2,0,14,Not Renewed,930.38,Medium,21,Renegotiate
+SUP-01012,"Adams, Martin and Davis",Electronics,South Gregoryhaven,Small,Vaccines,89.8,,12.0,2,1,44,Not Renewed,301.3,Medium,43,Renew
+SUP-01013,"Oneal, Johnson and Bartlett",Chemicals,Smithshire,Medium,Cleaning Agents,93.6,3.25,,1,0,40,Renewed,97.05,Low,83,Renew
+SUP-01014,Carter Group,Logistics,New Michael,Medium,Vaccines,80.0,1.22,18.0,1,0,38,Renewed,466.69,Medium,70,Renegotiate
+SUP-01015,"Hanna, Hines and Tate",Logistics,Lake Loretta,Small,Chips,67.2,1.57,4.0,1,0,20,Not Renewed,813.39,High,79,Renew
+SUP-01016,Mosley LLC,Logistics,Reidhaven,Medium,Motors,77.9,1.11,27.0,0,1,42,Not Renewed,200.38,High,41,Renew
+SUP-01017,Barnes-Ho,Logistics,Lake Kimborough,Large,Cleaning Agents,83.4,5.87,5.0,0,0,41,Renewed,902.03,Low,28,Renew
+SUP-01018,Marsh and Sons,Electronics,Deannaburgh,Small,Vaccines,91.1,3.05,15.0,1,1,19,Renewed,577.28,Medium,39,Terminate
+SUP-01019,"Williams, Parker and Silva",Chemicals,Anneland,Medium,Vaccines,76.7,4.37,5.0,0,0,20,Renewed,811.38,High,41,Renegotiate
+SUP-01020,"Chapman, Flores and Gallagher",Pharma,Amytown,Medium,Chips,81.5,1.71,7.0,0,0,10,Renewed,742.79,Low,64,Renegotiate
+SUP-01021,Patterson-Acosta,Automotive,New Zacharyfort,Large,Vaccines,72.2,4.77,6.0,2,0,31,Renewed,865.09,High,13,Renew
+SUP-01022,Garcia LLC,Logistics,Calebmouth,Large,Chips,72.9,2.01,8.0,2,0,44,Renewed,312.35,High,67,Renew
+SUP-01023,"Reyes, Ortiz and Weber",Chemicals,Mirandaland,Medium,Transport Services,76.1,,9.0,3,1,14,Renewed,522.43,High,30,Renew
+SUP-01024,Moreno PLC,Electronics,West Tonyachester,Small,Transport Services,84.0,1.37,1.0,2,0,23,Renewed,179.2,High,88,Terminate
+SUP-01025,Compton Inc,Electronics,Kaylaland,Medium,Chips,81.6,2.72,3.0,3,0,42,Not Renewed,751.09,High,86,Renew
+SUP-01026,"Mahoney, Williams and Chen",Logistics,Danielfort,Medium,Transport Services,98.1,3.43,3.0,2,0,15,Renewed,27.21,Low,55,Terminate
+SUP-01027,"Burton, Burgess and Lawrence",Pharma,Middletonfort,Medium,Chips,83.4,2.37,4.0,0,0,14,Not Renewed,759.61,Medium,61,Renegotiate
+SUP-01028,Baker-Thompson,Electronics,New Leah,Medium,Cleaning Agents,79.3,2.1,8.0,1,1,13,Renewed,608.15,High,10,Renegotiate
+SUP-01029,"Reed, Ferguson and Giles",Chemicals,Lake Josephtown,Small,Vaccines,87.0,2.96,17.0,2,0,31,Not Renewed,48.85,High,35,Renew
+SUP-01030,Skinner-Watson,Pharma,New Jessicafurt,Medium,Motors,86.4,1.88,,0,1,28,Renewed,862.78,Medium,25,Renew
+SUP-01031,Hawkins-Perkins,Electronics,North Deborah,Large,Transport Services,90.6,2.69,,0,0,18,Not Renewed,574.82,Medium,22,Terminate
+SUP-01032,"Gonzalez, Davenport and Garcia",Chemicals,Santanaburgh,Medium,Motors,94.2,3.32,3.0,1,1,44,Not Renewed,770.21,Low,45,Renegotiate
+SUP-01033,"Hanson, Lewis and Payne",Chemicals,East Madeline,Large,Transport Services,78.7,1.6,,2,1,9,Renewed,528.5,Low,69,Renegotiate
+SUP-01034,Hatfield-Calderon,Electronics,Rosschester,Medium,Motors,77.9,5.68,9.0,1,0,31,Renewed,891.54,High,64,Renew
+SUP-01035,"Robertson, Mckee and Osborne",Electronics,North Gabriellaview,Medium,Transport Services,89.8,2.73,11.0,2,0,40,Not Renewed,179.09,Medium,39,Terminate
+SUP-01036,Cunningham Ltd,Automotive,West Joseph,Medium,Cleaning Agents,84.7,2.37,,1,0,41,Renewed,923.01,High,72,Renew
+SUP-01037,"Patel, Beasley and Gray",Automotive,West Johnton,Medium,Chips,75.2,0.53,1.0,3,1,13,Renewed,969.18,Medium,70,Renew
+SUP-01038,"Brooks, Morrison and Velasquez",Logistics,New Michelle,Medium,Chips,81.2,3.15,12.0,2,0,14,Renewed,864.17,High,77,Renew
+SUP-01039,Guzman PLC,Pharma,Gilmorechester,Large,Cleaning Agents,78.3,0.71,,0,2,47,Not Renewed,846.95,High,89,Renegotiate
+SUP-01040,Yu-Allison,Pharma,West Eduardoland,Large,Motors,75.0,,15.0,1,0,17,Not Renewed,540.77,Medium,10,Renew
+SUP-01041,White-Evans,Pharma,South Todd,Medium,Chips,95.2,3.5,11.0,2,0,16,Not Renewed,688.56,High,53,Renegotiate
+SUP-01042,Lopez Ltd,Logistics,East Samantha,Medium,Cleaning Agents,78.9,2.02,4.0,2,0,22,Not Renewed,542.16,Medium,16,Renew
+SUP-01043,Brown-Hanson,Electronics,West Sarah,Medium,Cleaning Agents,99.4,3.19,4.0,3,0,26,Not Renewed,404.99,Medium,74,Renew
+SUP-01044,Houston PLC,Automotive,Davidfort,Medium,Transport Services,77.5,4.32,4.0,1,1,16,Renewed,340.98,Medium,24,Renew
+SUP-01045,"Gonzales, Evans and Perez",Automotive,Markmouth,Medium,Vaccines,87.9,3.58,11.0,0,0,33,Not Renewed,276.04,High,76,Renew
+SUP-01046,"Adams, Miller and Davenport",Automotive,Westchester,Small,Vaccines,72.0,,7.0,1,0,25,Not Renewed,423.47,Low,27,Renew
+SUP-01047,Benson-Mccullough,Automotive,Angelastad,Medium,Cleaning Agents,99.5,0.51,5.0,0,0,11,Renewed,804.65,High,55,Renew
+SUP-01048,Smith-Campbell,Logistics,Johnfurt,Small,Cleaning Agents,87.5,1.34,5.0,2,1,11,Not Renewed,561.05,High,56,Renew
+SUP-01049,Mcdowell-Snyder,Automotive,North Colleen,Medium,Cleaning Agents,98.3,4.86,3.0,0,1,17,Not Renewed,460.63,Low,23,Renew
+SUP-01050,Zuniga PLC,Automotive,Lake Daniellestad,Small,Transport Services,,3.2,9.0,0,0,40,Not Renewed,592.9,Low,20,Renegotiate
+SUP-01051,"Woods, Schmitt and Barnes",Electronics,West Rachaelmouth,Medium,Cleaning Agents,81.2,2.24,1.0,0,0,8,Not Renewed,124.79,Medium,39,Renegotiate
+SUP-01052,"Dean, Garcia and Thompson",Chemicals,Lake Dustin,Medium,Cleaning Agents,83.8,0.92,5.0,1,0,14,Renewed,82.95,Medium,12,Renegotiate
+SUP-01053,Duran-Winters,Pharma,Contrerasmouth,Large,Motors,88.9,1.77,6.0,0,1,36,Renewed,991.44,Medium,91,Renew
+SUP-01054,Barnett-Levine,Chemicals,Richardmouth,Medium,Cleaning Agents,82.1,2.68,13.0,0,0,41,Not Renewed,884.2,Low,24,Renew
+SUP-01055,Daugherty PLC,Logistics,East Stephanie,Large,Cleaning Agents,78.0,3.83,2.0,0,1,7,Renewed,770.87,Medium,24,Renegotiate
+SUP-01056,Pacheco-Lyons,Automotive,South Matthewborough,Medium,Cleaning Agents,74.6,3.27,14.0,0,1,25,Renewed,850.44,Low,33,Renew
+SUP-01057,"Russo, Brown and White",Automotive,Melaniechester,Medium,Vaccines,87.1,0.33,4.0,1,0,31,Renewed,742.87,High,36,Renew
+SUP-01058,Edwards-Morris,Automotive,Lake Jenniferberg,Small,Cleaning Agents,79.2,0.4,16.0,1,1,37,Not Renewed,442.75,Medium,17,Renegotiate
+SUP-01059,"Evans, Wells and Knight",Logistics,Edwinville,Small,Vaccines,82.9,3.92,16.0,2,0,37,Not Renewed,440.66,High,32,Renew
+SUP-01060,Buck PLC,Pharma,East Michaelchester,Large,Cleaning Agents,71.9,3.56,,1,0,28,Renewed,534.22,High,21,Renew
+SUP-01061,Lindsey-Garner,Automotive,Mcconnelltown,Medium,Chips,75.2,3.34,1.0,2,1,44,Not Renewed,477.64,High,13,Renew
+SUP-01062,Huber-Wyatt,Electronics,Frybury,Medium,Cleaning Agents,84.4,4.55,0.0,1,1,43,Renewed,326.88,High,31,Terminate
+SUP-01063,Kelly Ltd,Electronics,Dianafort,Medium,Cleaning Agents,89.6,1.68,3.0,2,1,28,Not Renewed,846.48,Medium,37,Renegotiate
+SUP-01064,"Strong, Montoya and Bush",Electronics,Bishopshire,Medium,Cleaning Agents,68.7,0.84,6.0,0,1,19,Renewed,229.81,Low,76,Renegotiate
+SUP-01065,Valdez PLC,Logistics,New Robertton,Small,Motors,96.2,1.04,7.0,1,1,39,Not Renewed,654.77,High,44,Renegotiate
+SUP-01066,Mccormick-Dixon,Pharma,Singhside,Small,Cleaning Agents,84.7,,2.0,2,1,35,Not Renewed,301.34,Medium,82,Renegotiate
+SUP-01067,"Nguyen, Lopez and Wells",Pharma,Courtneyville,Large,Motors,92.1,2.81,19.0,0,0,29,Not Renewed,386.24,High,91,Renew
+SUP-01068,Armstrong-Morgan,Pharma,Meadowsland,Medium,Motors,89.7,2.12,7.0,0,0,12,Renewed,510.8,Low,43,Renegotiate
+SUP-01069,Allen-Nelson,Pharma,Port Micheleberg,Medium,Vaccines,82.9,2.16,11.0,2,1,18,Renewed,461.45,Medium,59,Renew
+SUP-01070,Mcgee-Bishop,Automotive,South Jeffrey,Medium,Vaccines,90.8,1.98,3.0,2,2,29,Renewed,369.22,Low,11,Renew
+SUP-01071,Boyd-Phillips,Chemicals,North Jamesstad,Large,Chips,90.5,1.11,5.0,1,0,14,Renewed,484.83,Medium,86,Renew
+SUP-01072,Cooper-Johnson,Logistics,Kathleenview,Medium,Transport Services,78.9,1.25,16.0,1,0,25,Renewed,100.24,Low,22,Renew
+SUP-01073,Horne Inc,Pharma,East Alisonburgh,Medium,Motors,93.9,2.38,21.0,1,0,27,Not Renewed,433.28,Medium,40,Renew
+SUP-01074,Williams PLC,Pharma,Gregoryburgh,Medium,Vaccines,72.7,1.77,2.0,2,0,9,Renewed,122.51,Low,56,Renegotiate
+SUP-01075,Hamilton LLC,Electronics,Lake Katelyn,Medium,Cleaning Agents,72.1,0.77,2.0,0,0,37,Renewed,46.05,Medium,71,Renew
+SUP-01076,"Miller, Edwards and Smith",Chemicals,West Luischester,Large,Cleaning Agents,89.8,2.24,10.0,0,1,34,Not Renewed,718.94,Low,12,Terminate
+SUP-01077,Turner-Carey,Chemicals,South Jenniferbury,Small,Motors,85.7,0.21,8.0,1,0,10,Not Renewed,838.98,Medium,73,Renew
+SUP-01078,"Mosley, Davis and Rojas",Pharma,Frankfort,Medium,Vaccines,82.8,5.04,7.0,1,0,13,Renewed,814.82,Medium,59,Terminate
+SUP-01079,"Jones, Hayes and Lewis",Chemicals,Harrisonmouth,Small,Chips,96.6,2.12,9.0,2,1,36,Renewed,903.14,High,10,Renegotiate
+SUP-01080,Brown-Hanson,Electronics,Thomasstad,Large,Cleaning Agents,90.5,2.33,7.0,2,1,32,Renewed,488.56,Low,25,Renew
+SUP-01081,"Bates, Hodges and Jackson",Logistics,New Chadberg,Large,Cleaning Agents,74.6,0.55,5.0,2,0,46,Renewed,135.01,Low,92,Renew
+SUP-01082,Shaffer-Rivas,Pharma,North Jessica,Small,Cleaning Agents,89.2,1.71,3.0,1,0,43,Renewed,497.69,Low,46,Renew
+SUP-01083,Riley-Steele,Logistics,South Karen,Small,Chips,82.1,3.69,4.0,2,0,16,Renewed,419.42,High,17,Terminate
+SUP-01084,Page Inc,Automotive,West Joshuatown,Medium,Transport Services,70.8,,4.0,0,0,19,Not Renewed,421.18,High,39,Renegotiate
+SUP-01085,"Francis, Stephens and Santiago",Chemicals,New Patriciabury,Medium,Vaccines,87.6,2.93,15.0,2,1,8,Not Renewed,168.52,High,20,Renegotiate
+SUP-01086,"Salazar, Christian and Miller",Automotive,East Jacob,Large,Cleaning Agents,92.1,5.63,8.0,1,0,12,Renewed,883.07,High,88,Renew
+SUP-01087,Wagner Group,Chemicals,West Amy,Small,Cleaning Agents,85.9,2.99,3.0,1,0,40,Renewed,880.42,Medium,22,Renew
+SUP-01088,"Howard, Gordon and Hartman",Chemicals,Lake Dominic,Medium,Cleaning Agents,70.2,1.01,8.0,0,0,7,Renewed,378.9,High,65,Renegotiate
+SUP-01089,Yu Ltd,Chemicals,Port Cassandraberg,Small,Vaccines,92.9,5.07,2.0,1,1,23,Not Renewed,984.19,High,68,Renegotiate
+SUP-01090,Sampson-Perez,Pharma,Davisland,Medium,Transport Services,88.2,1.38,8.0,1,0,19,Renewed,598.8,Low,85,Renew
+SUP-01091,"Brown, Olsen and Garcia",Pharma,Ginashire,Medium,Chips,86.9,0.1,23.0,2,0,41,Renewed,151.14,Low,44,Renew
+SUP-01092,Collins Group,Chemicals,Lake Kelly,Medium,Chips,82.5,2.37,3.0,0,0,13,Renewed,69.73,Medium,14,Renegotiate
+SUP-01093,"Carlson, Harper and Green",Electronics,Jodiview,Medium,Cleaning Agents,85.1,2.96,2.0,1,1,29,Not Renewed,406.43,Medium,37,Renegotiate
+SUP-01094,Nguyen-Castillo,Automotive,North Alejandroberg,Large,Chips,,,1.0,1,1,20,Renewed,137.59,High,73,Renegotiate
+SUP-01095,"Schultz, Johnston and Parks",Logistics,New Johnfurt,Small,Transport Services,84.5,1.66,11.0,0,0,47,Renewed,411.42,Medium,32,Terminate
+SUP-01096,Chambers-Patel,Pharma,West David,Medium,Motors,97.2,3.37,2.0,2,0,25,Renewed,233.15,Low,34,Renew
+SUP-01097,"Goodwin, Ramsey and Ho",Logistics,Tannerport,Medium,Transport Services,68.8,3.41,12.0,0,0,30,Not Renewed,582.62,High,66,Renew
+SUP-01098,Nelson-Rios,Electronics,Vincentport,Medium,Cleaning Agents,86.5,2.01,16.0,3,1,45,Not Renewed,67.15,Medium,71,Renew
+SUP-01099,"Burton, Robinson and Davis",Logistics,Janetborough,Large,Transport Services,100.6,3.0,10.0,0,1,16,Renewed,308.73,Medium,47,Renew
+SUP-01100,"Young, Becker and Roberts",Automotive,Michelefort,Medium,Cleaning Agents,94.1,1.77,,1,0,30,Renewed,156.26,Medium,82,Renew
+SUP-01101,"Graham, Hall and Flores",Chemicals,Brianabury,Large,Motors,89.6,1.8,2.0,0,0,39,Renewed,893.29,High,76,Renegotiate
+SUP-01102,Anderson-Hawkins,Automotive,East Elizabethmouth,Small,Transport Services,86.1,1.49,3.0,0,0,31,Not Renewed,871.92,High,88,Renew
+SUP-01103,"Whitehead, Garcia and Patterson",Pharma,New Karen,Large,Transport Services,92.6,3.09,4.0,2,1,29,Not Renewed,967.61,High,18,Terminate
+SUP-01104,"Johnson, Guzman and Mccarthy",Chemicals,Thomastown,Small,Cleaning Agents,85.8,,8.0,0,0,8,Renewed,470.03,Medium,34,Renegotiate
+SUP-01105,Wright Ltd,Automotive,Adamston,Medium,Vaccines,93.3,1.22,11.0,4,1,45,Not Renewed,188.38,High,24,Terminate
+SUP-01106,Lloyd and Sons,Logistics,North Ericstad,Large,Motors,72.4,0.32,16.0,0,1,21,Renewed,441.01,High,24,Renegotiate
+SUP-01107,Baker Group,Chemicals,Lisaside,Large,Motors,80.6,3.75,1.0,0,0,29,Renewed,865.11,Medium,14,Terminate
+SUP-01108,"Martinez, Adams and Espinoza",Chemicals,North Angelatown,Medium,Transport Services,98.4,2.52,18.0,0,0,43,Not Renewed,990.31,Low,73,Renew
+SUP-01109,"Rodriguez, Robinson and Hernandez",Automotive,West Reneestad,Medium,Transport Services,81.8,4.29,3.0,2,0,40,Renewed,67.84,Medium,45,Renew
+SUP-01110,Morse-Harris,Pharma,Susanstad,Medium,Motors,87.7,0.37,14.0,1,1,38,Renewed,332.41,High,87,Terminate
+SUP-01111,Morales PLC,Logistics,Hoffmanmouth,Large,Motors,75.7,2.75,6.0,2,1,19,Renewed,874.88,Medium,36,Renew
+SUP-01112,Odonnell Ltd,Electronics,South Kristina,Medium,Transport Services,98.4,3.29,2.0,0,1,24,Renewed,294.11,High,55,Renew
+SUP-01113,Wells Inc,Pharma,Port Stephaniemouth,Small,Cleaning Agents,81.5,2.6,1.0,0,1,22,Not Renewed,860.22,Low,20,Renew
+SUP-01114,Williams-Spencer,Electronics,East Jessica,Small,Vaccines,80.3,3.0,25.0,2,1,22,Renewed,18.45,Medium,75,Terminate
+SUP-01115,Porter-Rojas,Chemicals,New Courtney,Medium,Transport Services,97.2,3.18,3.0,0,0,19,Not Renewed,606.63,Medium,47,Renegotiate
+SUP-01116,Smith Group,Logistics,South Kristin,Medium,Transport Services,72.3,2.48,4.0,2,1,43,Renewed,90.64,Medium,14,Renew
+SUP-01117,Small-Larson,Automotive,Websterburgh,Small,Motors,84.5,3.17,10.0,1,1,47,Not Renewed,129.49,High,30,Terminate
+SUP-01118,Jensen-Marquez,Pharma,West Colinstad,Small,Motors,83.5,2.88,4.0,2,0,43,Not Renewed,936.81,Medium,52,Renew
+SUP-01119,Gonzalez LLC,Pharma,South Nicoleshire,Small,Vaccines,91.8,3.22,5.0,0,0,36,Renewed,688.9,High,70,Renew
+SUP-01120,Lewis and Sons,Chemicals,Lake Michaelbury,Medium,Transport Services,92.8,1.9,6.0,1,0,24,Renewed,886.66,Low,79,Renew
+SUP-01121,"Miller, Grant and Smith",Automotive,Ponceburgh,Small,Vaccines,82.6,3.07,18.0,0,1,10,Renewed,758.23,Low,35,Terminate
+SUP-01122,Zavala-Powell,Automotive,North Robert,Medium,Vaccines,90.8,0.35,11.0,0,0,12,Renewed,214.56,High,62,Renew
+SUP-01123,"Adams, Harris and Schaefer",Pharma,South Vanessafort,Medium,Cleaning Agents,76.5,6.13,15.0,2,0,34,Not Renewed,504.94,Medium,32,Renew
+SUP-01124,Cruz and Sons,Chemicals,New Rachelhaven,Large,Chips,78.3,,,1,0,22,Renewed,356.1,High,92,Renegotiate
+SUP-01125,Kennedy-Taylor,Automotive,Jeffreyville,Medium,Cleaning Agents,90.2,3.7,14.0,1,0,24,Not Renewed,390.06,Medium,36,Renew
+SUP-01126,Greene PLC,Automotive,Port Kevin,Small,Transport Services,86.0,5.37,,0,0,9,Renewed,403.92,High,45,Renew
+SUP-01127,Brock Inc,Automotive,West Brian,Medium,Motors,82.8,2.85,20.0,4,0,45,Renewed,460.89,Medium,15,Renegotiate
+SUP-01128,Smith LLC,Electronics,West Jessica,Medium,Transport Services,79.9,4.19,1.0,1,0,17,Renewed,46.91,Low,92,Renew
+SUP-01129,"Weeks, Walker and Miller",Pharma,Jenniferfort,Medium,Motors,73.1,4.45,1.0,0,1,36,Renewed,684.21,Low,71,Terminate
+SUP-01130,"Harding, Mayer and Burnett",Pharma,Janeland,Medium,Motors,88.3,1.4,18.0,1,0,30,Not Renewed,196.51,High,60,Renegotiate
+SUP-01131,"Cross, Sanchez and Lang",Electronics,Savannahchester,Medium,Motors,77.1,2.7,16.0,2,1,29,Not Renewed,293.97,High,77,Renew
+SUP-01132,Castaneda-Munoz,Chemicals,North Stanley,Small,Motors,81.8,1.57,17.0,2,0,29,Renewed,458.3,High,64,Renegotiate
+SUP-01133,Li-Torres,Electronics,Carterburgh,Medium,Motors,91.6,0.47,14.0,0,0,32,Not Renewed,657.32,Medium,68,Renew
+SUP-01134,"Perez, Barton and Porter",Electronics,East Maryborough,Large,Motors,88.6,3.09,10.0,1,0,37,Renewed,313.09,Medium,77,Renew
+SUP-01135,Watts-Bauer,Automotive,Nicoleburgh,Large,Cleaning Agents,64.1,0.97,6.0,1,0,28,Not Renewed,63.37,Medium,69,Renegotiate
+SUP-01136,"Ellis, Peterson and Wagner",Pharma,Samanthaberg,Medium,Motors,68.5,1.37,13.0,3,1,27,Renewed,317.77,High,50,Terminate
+SUP-01137,Watson-Brown,Logistics,Lake Gregory,Medium,Chips,68.6,1.92,23.0,1,1,40,Not Renewed,847.76,High,51,Renew
+SUP-01138,Nunez-Soto,Pharma,West Rickymouth,Large,Vaccines,82.7,2.52,17.0,1,0,45,Renewed,902.86,Medium,51,Renegotiate
+SUP-01139,Pitts-Beck,Electronics,Benjaminfort,Small,Motors,82.7,2.97,9.0,0,1,45,Not Renewed,390.84,High,64,Renew
+SUP-01140,Anderson Ltd,Chemicals,New Jefferyfurt,Large,Motors,81.7,0.39,6.0,2,1,33,Not Renewed,763.22,Medium,70,Renew
+SUP-01141,Randall-Summers,Electronics,Hollyborough,Large,Chips,89.4,0.81,6.0,2,0,31,Renewed,177.78,Medium,59,Renew
+SUP-01142,"Wong, Walsh and Contreras",Pharma,West Javier,Small,Chips,91.0,3.3,16.0,2,0,46,Not Renewed,165.6,Low,40,Renew
+SUP-01143,Oconnor-Rowland,Automotive,Davisside,Small,Chips,85.0,2.53,0.0,0,0,15,Renewed,231.72,High,25,Renegotiate
+SUP-01144,Gomez-Livingston,Electronics,New Anthonybury,Medium,Transport Services,80.8,3.57,5.0,0,0,29,Renewed,315.62,Low,54,Renew
+SUP-01145,Wyatt-Brown,Logistics,Morenomouth,Small,Chips,92.6,2.62,7.0,1,0,13,Renewed,606.38,High,39,Renew
+SUP-01146,Gomez-Lamb,Electronics,Melanieberg,Medium,Motors,84.9,1.81,9.0,0,2,20,Renewed,20.34,Medium,52,Renew
+SUP-01147,Walker and Sons,Automotive,Port Sarahberg,Large,Chips,81.5,2.28,4.0,1,1,24,Not Renewed,688.7,High,91,Renew
+SUP-01148,Brooks Group,Chemicals,South Andrewland,Small,Vaccines,69.8,1.63,9.0,1,0,22,Renewed,647.91,Medium,16,Renegotiate
+SUP-01149,Brown-Moody,Chemicals,Myersville,Medium,Cleaning Agents,98.6,0.17,17.0,2,1,23,Renewed,545.17,Medium,40,Terminate
+SUP-01150,Powell PLC,Electronics,North Steven,Medium,Motors,86.8,1.74,23.0,2,1,33,Renewed,116.25,Medium,34,Renegotiate
+SUP-01151,Davila LLC,Logistics,Port Wendyton,Medium,Motors,83.1,2.08,13.0,2,0,12,Not Renewed,124.67,Low,91,Renew
+SUP-01152,"Collins, Hardy and Stewart",Automotive,West James,Small,Chips,102.3,2.82,9.0,1,1,39,Renewed,480.06,High,63,Renew
+SUP-01153,"Jones, Graham and Brown",Chemicals,South Dylanberg,Medium,Chips,72.1,2.36,5.0,0,0,34,Renewed,393.04,Low,12,Renew
+SUP-01154,Anderson PLC,Logistics,Port Janice,Medium,Motors,81.5,2.15,3.0,1,0,26,Renewed,703.41,Medium,17,Renew
+SUP-01155,"Hess, Bowman and Robinson",Electronics,Amandaton,Small,Motors,86.9,1.53,2.0,0,1,8,Not Renewed,732.19,High,68,Renew
+SUP-01156,Stein-Barnes,Electronics,Villaside,Large,Chips,74.7,4.4,3.0,1,0,41,Renewed,637.0,High,49,Terminate
+SUP-01157,Brown-Jones,Pharma,Jasonhaven,Small,Cleaning Agents,96.7,1.31,19.0,0,0,45,Renewed,572.41,Low,37,Renew
+SUP-01158,Lopez PLC,Pharma,Torresside,Medium,Chips,92.6,2.51,13.0,4,0,12,Not Renewed,835.96,High,80,Renegotiate
+SUP-01159,"Rice, Scott and Melendez",Chemicals,Gilbertfort,Small,Motors,82.4,1.47,6.0,1,1,10,Renewed,588.08,High,27,Renew
+SUP-01160,Thompson-Terrell,Electronics,East Philipstad,Large,Transport Services,92.1,2.0,7.0,1,0,6,Not Renewed,639.59,Low,78,Renegotiate
+SUP-01161,"Thomas, Jordan and Joseph",Electronics,Port Amanda,Small,Vaccines,,2.38,2.0,4,1,45,Not Renewed,97.85,Low,55,Renew
+SUP-01162,Acosta-Tucker,Chemicals,East Alisonchester,Small,Vaccines,89.3,2.28,13.0,0,0,13,Not Renewed,615.55,Medium,25,Renew
+SUP-01163,Watson-Kane,Electronics,East Margaret,Medium,Chips,90.7,2.19,12.0,2,0,18,Not Renewed,903.22,Medium,76,Renegotiate
+SUP-01164,Snyder Group,Chemicals,Rogerburgh,Small,Chips,105.5,1.65,24.0,0,0,11,Not Renewed,194.81,Medium,94,Renew
+SUP-01165,Williams Ltd,Logistics,Lindseyville,Small,Chips,52.5,1.49,6.0,1,1,36,Renewed,875.1,High,57,Renew
+SUP-01166,"Jones, Gardner and Randolph",Logistics,Lake Alicia,Medium,Chips,96.1,2.25,2.0,0,0,12,Not Renewed,405.35,Medium,35,Renegotiate
+SUP-01167,Wheeler Group,Pharma,East Matthewfort,Medium,Motors,77.2,2.58,3.0,1,0,21,Not Renewed,100.67,Medium,76,Renew
+SUP-01168,Andrade-Wallace,Automotive,Port Theresaburgh,Small,Vaccines,70.9,2.8,23.0,0,0,31,Renewed,21.05,High,92,Renegotiate
+SUP-01169,"Underwood, Glover and Valdez",Logistics,North Williambury,Small,Motors,78.4,0.97,,0,1,44,Not Renewed,839.57,High,86,Renew
+SUP-01170,"Watson, Guerrero and Sherman",Electronics,South Michael,Small,Cleaning Agents,83.3,1.01,,1,0,21,Not Renewed,965.46,Medium,25,Renew
+SUP-01171,"Miller, Rose and Fields",Automotive,South Jamie,Medium,Vaccines,95.3,1.06,1.0,0,1,24,Not Renewed,81.33,Low,70,Renegotiate
+SUP-01172,"Davis, Blankenship and Graves",Chemicals,East Paulburgh,Medium,Vaccines,85.5,4.99,4.0,1,0,36,Not Renewed,552.3,Low,30,Renegotiate
+SUP-01173,Poole Group,Logistics,Lake Courtney,Medium,Motors,83.5,1.48,8.0,3,1,42,Not Renewed,729.39,High,81,Renegotiate
+SUP-01174,White-Thomas,Pharma,West Tracieport,Small,Transport Services,86.7,3.92,0.0,0,0,37,Not Renewed,168.98,Medium,71,Terminate
+SUP-01175,Lyons-Irwin,Automotive,Garciafurt,Small,Cleaning Agents,95.9,1.95,9.0,2,0,27,Renewed,839.14,High,67,Terminate
+SUP-01176,"Silva, Ball and Oneal",Logistics,Guzmanstad,Small,Vaccines,83.8,0.17,5.0,0,0,41,Renewed,476.99,High,61,Renegotiate
+SUP-01177,"Murray, Wolf and Park",Logistics,Reedstad,Small,Transport Services,86.2,,13.0,1,1,23,Renewed,499.36,Medium,10,Renew
+SUP-01178,"Brown, Walters and Lee",Chemicals,Port Davidchester,Large,Chips,,4.49,11.0,1,1,25,Not Renewed,940.56,Medium,11,Renegotiate
+SUP-01179,Vasquez PLC,Electronics,North Michellestad,Small,Vaccines,66.5,1.58,5.0,1,1,15,Not Renewed,43.1,Medium,90,Renew
+SUP-01180,Ortiz LLC,Logistics,North Paulborough,Small,Cleaning Agents,85.1,1.86,19.0,1,1,38,Renewed,850.16,Medium,84,Renegotiate
+SUP-01181,"Smith, Larson and Lester",Automotive,Freemanland,Medium,Motors,90.8,1.19,3.0,0,0,27,Not Renewed,799.73,High,12,Renew
+SUP-01182,"Acosta, Johnson and Combs",Pharma,Brittanyton,Large,Chips,72.9,1.23,1.0,1,1,27,Renewed,366.6,High,36,Renew
+SUP-01183,Hernandez and Sons,Automotive,Port Cynthia,Small,Vaccines,97.1,5.05,,1,0,41,Renewed,481.34,Medium,24,Renegotiate
+SUP-01184,Drake and Sons,Pharma,Jonesside,Medium,Cleaning Agents,,2.04,7.0,1,0,9,Not Renewed,926.03,Low,78,Renegotiate
+SUP-01185,Vincent Inc,Pharma,North Heather,Small,Motors,75.7,4.92,4.0,0,0,13,Renewed,756.69,High,66,Renew
+SUP-01186,Simmons PLC,Pharma,Arnoldborough,Small,Chips,90.7,2.58,9.0,1,0,24,Renewed,356.67,High,82,Renew
+SUP-01187,"Briggs, Travis and Miles",Automotive,West Donna,Medium,Chips,96.8,3.67,9.0,0,0,14,Not Renewed,982.21,High,15,Renew
+SUP-01188,"Garcia, Salazar and Dickerson",Chemicals,North Beth,Medium,Vaccines,80.8,2.23,1.0,1,0,37,Not Renewed,562.99,High,63,Renew
+SUP-01189,Martin Group,Pharma,Jerryland,Medium,Chips,83.6,1.88,3.0,1,0,11,Not Renewed,855.04,High,25,Renegotiate
+SUP-01190,"Gonzalez, Strickland and Lucas",Logistics,Russellbury,Medium,Transport Services,75.5,3.17,4.0,1,0,42,Renewed,998.08,Low,61,Renegotiate
+SUP-01191,"Hodge, Scott and Delgado",Logistics,Ryanhaven,Large,Motors,86.4,3.42,5.0,1,0,46,Not Renewed,248.21,Medium,86,Terminate
+SUP-01192,Kelley LLC,Chemicals,South Johnburgh,Medium,Chips,79.9,4.09,,2,1,31,Not Renewed,683.51,High,60,Renegotiate
+SUP-01193,Lloyd PLC,Logistics,Port Benjamin,Medium,Chips,89.6,5.66,17.0,2,1,20,Not Renewed,433.23,Medium,48,Renew
+SUP-01194,Curry-Martinez,Chemicals,New Mallory,Large,Vaccines,76.7,0.3,9.0,1,1,47,Renewed,802.97,High,83,Renegotiate
+SUP-01195,"Aguirre, Gutierrez and Johnson",Pharma,Kyleborough,Large,Chips,,2.1,11.0,1,0,42,Renewed,194.21,High,81,Terminate
+SUP-01196,Ortiz Inc,Automotive,Gonzalezchester,Small,Cleaning Agents,100.1,2.54,6.0,0,0,35,Renewed,632.45,High,13,Renew
+SUP-01197,Adkins Ltd,Logistics,West Kelly,Large,Cleaning Agents,100.0,1.78,7.0,1,0,21,Renewed,690.29,High,38,Renew
+SUP-01198,Baker and Sons,Chemicals,West Deborahshire,Small,Transport Services,82.6,4.41,6.0,0,0,8,Renewed,874.39,Low,34,Renegotiate
+SUP-01199,Nguyen LLC,Electronics,North Kimberlyport,Medium,Cleaning Agents,67.1,5.06,10.0,1,0,36,Renewed,838.78,Medium,45,Renegotiate
+SUP-01200,Chase and Sons,Chemicals,Port Zachary,Small,Motors,81.8,2.92,14.0,1,0,39,Renewed,946.02,Medium,42,Renew
+SUP-01201,"Sampson, Lewis and Lawrence",Logistics,East Timothy,Small,Motors,,2.43,1.0,1,0,19,Renewed,506.12,Low,41,Renegotiate
+SUP-01202,Hunt-Fisher,Automotive,Port Sonyaville,Small,Motors,88.3,3.5,7.0,1,0,36,Renewed,791.98,High,62,Renegotiate
+SUP-01203,"Simpson, Garrison and Obrien",Chemicals,Hoffmanview,Small,Vaccines,93.1,1.08,3.0,0,1,20,Renewed,355.07,Medium,78,Terminate
+SUP-01204,Webster-Moore,Electronics,Jonathanport,Small,Motors,81.7,3.35,14.0,0,0,22,Not Renewed,151.44,Low,35,Renew
+SUP-01205,Meyers Inc,Automotive,Taylorberg,Medium,Chips,87.3,3.42,,1,0,25,Not Renewed,250.59,Low,64,Renew
+SUP-01206,Bishop-Craig,Chemicals,South Aliciamouth,Small,Motors,89.3,0.33,4.0,0,0,9,Not Renewed,100.29,Low,89,Renew
+SUP-01207,"Gonzalez, Ayala and Ellis",Automotive,Bowmanport,Medium,Cleaning Agents,74.7,1.56,19.0,3,0,15,Not Renewed,687.73,Low,43,Renew
+SUP-01208,"Simmons, Vargas and Molina",Automotive,North Gail,Large,Transport Services,93.5,2.65,3.0,1,2,18,Not Renewed,277.55,Medium,36,Renew
+SUP-01209,West-Fisher,Automotive,Joefurt,Medium,Cleaning Agents,,0.64,13.0,0,0,10,Not Renewed,545.22,Medium,25,Terminate
+SUP-01210,"Whitaker, Bennett and Romero",Electronics,North Samanthahaven,Medium,Motors,72.9,4.88,18.0,0,1,7,Not Renewed,296.8,Low,43,Renegotiate
+SUP-01211,"Johnston, Hamilton and Brown",Electronics,Brandyshire,Large,Cleaning Agents,89.7,0.61,6.0,0,1,26,Not Renewed,176.99,Medium,75,Renegotiate
+SUP-01212,"Duncan, Lane and Abbott",Electronics,Hernandezchester,Large,Chips,94.4,2.91,0.0,2,1,22,Renewed,73.63,Low,11,Renegotiate
+SUP-01213,Sutton PLC,Automotive,Tracyview,Medium,Transport Services,74.6,0.06,18.0,1,0,36,Not Renewed,767.72,High,67,Renegotiate
+SUP-01214,Ferguson LLC,Pharma,North Christianberg,Small,Vaccines,85.3,3.59,13.0,2,0,26,Not Renewed,912.24,Low,41,Renegotiate
+SUP-01215,"Johnson, Miller and Shepard",Chemicals,Tylershire,Medium,Motors,87.7,2.04,10.0,0,0,46,Not Renewed,546.16,Medium,39,Terminate
+SUP-01216,"Matthews, Taylor and Anderson",Logistics,Jeremyborough,Large,Chips,85.9,1.51,11.0,2,1,24,Not Renewed,989.91,High,79,Renew
+SUP-01217,Holder-Soto,Chemicals,Benjaminberg,Medium,Motors,89.1,3.68,2.0,0,1,28,Renewed,760.63,Medium,46,Renew
+SUP-01218,Long-Armstrong,Electronics,Dawnbury,Medium,Transport Services,87.2,2.1,2.0,1,0,35,Renewed,749.01,High,40,Renew
+SUP-01219,Murphy LLC,Electronics,South Johnchester,Small,Cleaning Agents,79.9,2.41,9.0,1,0,22,Renewed,409.27,High,32,Renegotiate
+SUP-01220,Anderson-Stewart,Automotive,New Annafort,Small,Transport Services,95.1,2.28,,0,0,32,Not Renewed,586.35,Medium,47,Renegotiate
+SUP-01221,Duncan PLC,Chemicals,Kathyton,Medium,Motors,70.4,3.39,11.0,2,0,13,Renewed,551.06,High,74,Renegotiate
+SUP-01222,Booker-Perry,Pharma,West Gabrielview,Large,Cleaning Agents,90.8,2.09,,2,0,28,Renewed,960.32,High,71,Renew
+SUP-01223,"Murphy, Lyons and Oconnor",Electronics,Jensenmouth,Medium,Chips,84.0,4.15,10.0,0,0,23,Not Renewed,500.74,High,70,Renew
+SUP-01224,"Best, Howard and Phillips",Electronics,Samanthaberg,Small,Chips,97.0,2.67,14.0,0,0,33,Renewed,142.86,High,23,Renew
+SUP-01225,"Tate, Smith and Flores",Electronics,Ramirezborough,Medium,Vaccines,83.7,2.16,4.0,1,1,18,Renewed,765.12,Medium,34,Renegotiate
+SUP-01226,Mccoy-Walker,Logistics,Sanfordstad,Medium,Transport Services,72.6,2.56,8.0,2,0,17,Not Renewed,605.0,High,92,Renegotiate
+SUP-01227,Price and Sons,Electronics,New Juanstad,Small,Cleaning Agents,96.0,2.1,9.0,0,1,33,Not Renewed,454.5,Low,19,Renegotiate
+SUP-01228,"Carter, King and Rodriguez",Chemicals,Diazbury,Medium,Transport Services,90.3,2.54,6.0,3,0,8,Renewed,310.69,Medium,52,Renew
+SUP-01229,Gregory-Sanchez,Chemicals,West Kennethfurt,Small,Vaccines,106.5,3.25,15.0,0,0,38,Renewed,161.96,Medium,79,Renew
+SUP-01230,"Guzman, Castro and Perez",Pharma,North Darrell,Medium,Cleaning Agents,77.9,1.41,19.0,0,1,9,Renewed,71.37,High,75,Renegotiate
+SUP-01231,Banks and Sons,Automotive,South Phillip,Small,Cleaning Agents,88.8,1.75,12.0,0,0,37,Renewed,675.58,High,57,Renegotiate
+SUP-01232,Carter Ltd,Electronics,Peterton,Medium,Motors,74.0,2.21,7.0,2,0,42,Renewed,237.27,High,24,Renew
+SUP-01233,Collier-Weaver,Pharma,South Zoe,Medium,Vaccines,81.9,3.95,7.0,1,0,26,Not Renewed,328.2,Medium,34,Renew
+SUP-01234,"Stone, Smith and Hernandez",Pharma,East Kendra,Medium,Vaccines,82.9,3.2,1.0,1,1,32,Renewed,201.82,Medium,42,Renegotiate
+SUP-01235,Dunn PLC,Chemicals,North Christinafurt,Small,Motors,95.3,1.26,,0,2,32,Not Renewed,644.46,Medium,21,Renegotiate
+SUP-01236,Booth-Allison,Chemicals,South Suzanne,Small,Vaccines,86.0,2.77,11.0,2,0,9,Not Renewed,174.48,Medium,36,Renegotiate
+SUP-01237,"Lee, Cook and Rhodes",Automotive,Larrymouth,Medium,Vaccines,84.7,1.2,4.0,1,0,12,Renewed,189.23,High,77,Terminate
+SUP-01238,"Graham, Salazar and Hansen",Electronics,Lake Michaelshire,Large,Vaccines,72.7,2.74,3.0,0,0,30,Renewed,87.11,Medium,94,Renew
+SUP-01239,"Myers, Meyer and King",Electronics,Lake Devinfurt,Small,Chips,87.7,3.69,27.0,1,1,38,Renewed,400.35,Medium,26,Renew
+SUP-01240,Barrera-Webb,Logistics,Wendyborough,Medium,Motors,97.0,1.25,1.0,0,0,22,Not Renewed,367.91,Low,34,Renew
+SUP-01241,Conner Inc,Chemicals,New Andrew,Medium,Chips,83.3,4.44,18.0,1,1,17,Renewed,337.86,Low,54,Renew
+SUP-01242,Garcia-Lester,Pharma,Shawnburgh,Small,Cleaning Agents,104.4,3.75,7.0,0,0,22,Not Renewed,885.96,High,60,Terminate
+SUP-01243,"Wilson, Turner and Carrillo",Pharma,West Jennifer,Large,Cleaning Agents,82.5,3.03,19.0,0,0,20,Renewed,478.44,High,83,Renegotiate
+SUP-01244,Adams-Rhodes,Logistics,Beckmouth,Medium,Motors,84.1,3.84,13.0,2,1,44,Not Renewed,158.36,Medium,42,Renew
+SUP-01245,Foster-Martin,Automotive,Kristiland,Medium,Vaccines,89.2,0.75,4.0,1,0,18,Not Renewed,401.75,High,70,Renegotiate
+SUP-01246,Morgan PLC,Pharma,Port Melanie,Small,Chips,101.3,1.79,11.0,0,1,20,Not Renewed,809.8,Medium,52,Renew
+SUP-01247,Perez-Austin,Electronics,Port Michelle,Large,Motors,84.4,3.06,18.0,0,0,22,Not Renewed,860.26,Medium,70,Renew
+SUP-01248,Taylor-Meyer,Electronics,Mackchester,Medium,Cleaning Agents,81.3,2.54,16.0,1,1,6,Not Renewed,123.71,Low,50,Renew
+SUP-01249,"Green, Miller and Peck",Automotive,Mossside,Medium,Motors,65.7,1.18,7.0,2,0,25,Renewed,423.96,Medium,90,Renew
+SUP-01250,"Morris, Terry and Martin",Logistics,Hartside,Small,Motors,78.7,,22.0,1,2,7,Renewed,574.21,Low,91,Renegotiate
+SUP-01251,Sanchez LLC,Electronics,Coxbury,Medium,Motors,,4.11,22.0,4,0,13,Renewed,55.46,High,87,Renegotiate
+SUP-01252,"Allen, Ayala and Roberts",Logistics,Mckenzieberg,Small,Transport Services,84.2,1.83,4.0,1,2,22,Renewed,435.95,Low,69,Renew
+SUP-01253,Smith-Pierce,Pharma,Campbellborough,Small,Cleaning Agents,76.6,1.29,2.0,1,0,42,Not Renewed,694.03,High,88,Renew
+SUP-01254,"Boyd, Howell and Collins",Pharma,Port Robert,Medium,Cleaning Agents,80.1,2.66,3.0,0,2,21,Not Renewed,789.47,High,91,Renew
+SUP-01255,Pierce and Sons,Automotive,Heathermouth,Medium,Vaccines,97.1,0.35,7.0,1,0,7,Renewed,136.13,Medium,89,Renegotiate
+SUP-01256,"Good, Barnett and Taylor",Logistics,East Sheilafort,Medium,Chips,92.3,3.2,17.0,1,0,8,Not Renewed,126.88,High,31,Renegotiate
+SUP-01257,Farmer-Caldwell,Automotive,New Johnberg,Small,Chips,107.3,2.68,10.0,1,0,33,Not Renewed,554.15,Low,67,Renegotiate
+SUP-01258,"Fox, Strickland and Drake",Automotive,New Chadhaven,Medium,Transport Services,77.7,4.14,,1,0,21,Renewed,900.17,Medium,33,Renegotiate
+SUP-01259,Cooper-Allison,Pharma,East Ronald,Small,Cleaning Agents,84.2,1.16,6.0,3,1,14,Renewed,902.46,High,62,Renegotiate
+SUP-01260,Macias-Hart,Logistics,North Kaylee,Medium,Cleaning Agents,87.2,3.73,5.0,0,0,25,Renewed,650.1,Medium,23,Renegotiate
+SUP-01261,"Tyler, Campbell and Rhodes",Pharma,West Robinborough,Small,Vaccines,84.4,0.09,14.0,1,0,45,Renewed,408.45,Medium,75,Renew
+SUP-01262,Logan PLC,Electronics,South Ronald,Small,Transport Services,70.7,,16.0,1,1,39,Not Renewed,642.54,Medium,32,Renew
+SUP-01263,"Schneider, Keith and Page",Pharma,Davidstad,Medium,Chips,72.3,,8.0,1,0,38,Renewed,307.58,Low,32,Renew
+SUP-01264,"Stewart, Phillips and Sandoval",Electronics,Cortezside,Medium,Motors,70.5,2.12,13.0,4,0,40,Not Renewed,124.67,High,49,Renew
+SUP-01265,Gray-King,Chemicals,West Thomas,Small,Cleaning Agents,88.2,3.95,3.0,0,0,17,Renewed,42.29,Medium,74,Renegotiate
+SUP-01266,"Taylor, King and Mcdonald",Logistics,Ashleytown,Medium,Cleaning Agents,79.7,3.37,5.0,1,0,12,Not Renewed,455.5,High,81,Renew
+SUP-01267,Mcdonald-Harris,Electronics,North Donna,Medium,Cleaning Agents,77.5,0.97,6.0,2,1,20,Not Renewed,25.93,Medium,10,Renegotiate
+SUP-01268,"Spencer, Barrett and Huff",Electronics,Lake Ricky,Large,Vaccines,84.6,3.62,5.0,1,0,24,Not Renewed,896.06,Medium,66,Renew
+SUP-01269,Holt-Hale,Chemicals,South Danatown,Small,Motors,85.3,4.75,17.0,2,0,42,Not Renewed,147.65,Medium,48,Renegotiate
+SUP-01270,Miller-Solomon,Logistics,Tiffanyville,Large,Transport Services,92.2,1.04,7.0,0,0,27,Not Renewed,611.2,Medium,84,Renegotiate
+SUP-01271,Mosley LLC,Pharma,Robinsonburgh,Small,Vaccines,78.3,0.85,6.0,1,0,17,Not Renewed,921.02,High,14,Terminate
+SUP-01272,"Sanders, Brennan and Torres",Pharma,Port Shane,Small,Motors,99.6,3.42,7.0,1,0,35,Not Renewed,323.87,High,15,Renew
+SUP-01273,Gonzalez and Sons,Electronics,Tamarafort,Small,Transport Services,96.1,1.41,3.0,3,1,34,Renewed,10.28,Medium,11,Renew
+SUP-01274,Oliver and Sons,Chemicals,East Heatherfort,Small,Vaccines,82.1,2.8,5.0,0,0,19,Renewed,423.12,Low,29,Terminate
+SUP-01275,Morgan-Bishop,Chemicals,Lisatown,Large,Motors,100.1,0.02,5.0,1,0,12,Not Renewed,469.54,Low,20,Renegotiate
+SUP-01276,"Waters, Jones and Wilson",Chemicals,North Dalton,Medium,Motors,76.6,2.84,1.0,2,0,10,Renewed,725.94,Medium,39,Terminate
+SUP-01277,"Brown, Powers and Woodard",Chemicals,Patelton,Small,Vaccines,86.9,2.9,11.0,1,0,45,Renewed,821.78,Medium,55,Renegotiate
+SUP-01278,"Elliott, Watts and Burns",Logistics,Harperstad,Small,Transport Services,99.4,3.24,5.0,1,0,12,Not Renewed,262.01,High,29,Renegotiate
+SUP-01279,"Butler, Brooks and Bradford",Electronics,Lake Amandaborough,Medium,Chips,75.2,,1.0,0,1,26,Renewed,129.73,High,50,Terminate
+SUP-01280,Pacheco-Combs,Automotive,Port Bryan,Medium,Chips,102.7,1.84,1.0,1,1,44,Renewed,224.21,Medium,62,Terminate
+SUP-01281,"Green, Waters and Smith",Chemicals,Tammyside,Medium,Vaccines,100.3,2.11,10.0,2,1,27,Renewed,516.98,Medium,35,Renegotiate
+SUP-01282,"Cummings, Riddle and Cooper",Chemicals,Coleborough,Medium,Vaccines,103.1,,16.0,1,0,11,Renewed,631.94,Medium,74,Renegotiate
+SUP-01283,Berg-Baker,Chemicals,Lake Cheyenne,Medium,Transport Services,77.2,5.07,7.0,1,0,26,Renewed,250.11,High,93,Renew
+SUP-01284,"Romero, Hansen and Harris",Logistics,Port Rebecca,Small,Vaccines,62.5,4.16,7.0,0,0,22,Not Renewed,773.39,High,23,Renew
+SUP-01285,Smith-Garcia,Pharma,North Heather,Large,Transport Services,91.9,0.02,7.0,0,0,37,Not Renewed,28.02,High,52,Renegotiate
+SUP-01286,Huerta Inc,Pharma,Marymouth,Large,Cleaning Agents,80.0,5.24,18.0,0,1,10,Renewed,916.03,Low,36,Renegotiate
+SUP-01287,"Hart, Craig and Allen",Chemicals,Meyerburgh,Small,Chips,101.3,0.13,4.0,1,1,40,Renewed,100.59,Medium,37,Renew
+SUP-01288,Marks Inc,Automotive,North Kaylaton,Medium,Transport Services,101.1,3.13,4.0,1,0,9,Renewed,473.4,Medium,51,Renegotiate
+SUP-01289,"Gilmore, Dougherty and Herrera",Chemicals,Port Debra,Small,Vaccines,111.1,2.65,1.0,1,0,43,Not Renewed,265.69,Medium,25,Renew
+SUP-01290,Harvey-Warren,Automotive,Bartonberg,Small,Chips,73.7,2.69,33.0,1,0,10,Not Renewed,688.66,High,26,Renegotiate
+SUP-01291,White PLC,Automotive,Moranchester,Small,Cleaning Agents,89.1,1.83,29.0,1,1,43,Renewed,940.4,High,29,Renew
+SUP-01292,Alvarez Group,Logistics,Caseyborough,Small,Chips,89.9,1.82,12.0,1,0,22,Renewed,487.19,Low,22,Renew
+SUP-01293,Ortiz-Allison,Chemicals,Annatown,Medium,Cleaning Agents,83.1,1.5,23.0,0,1,45,Not Renewed,329.42,Medium,28,Renew
+SUP-01294,Henson and Sons,Pharma,Contrerasmouth,Medium,Cleaning Agents,62.4,2.02,2.0,0,1,34,Not Renewed,283.13,High,13,Renegotiate
+SUP-01295,"Brown, Gonzalez and Rhodes",Electronics,Port Jackborough,Medium,Chips,90.0,1.6,20.0,1,1,47,Renewed,392.73,Low,91,Renegotiate
+SUP-01296,"Sexton, Bridges and Hernandez",Automotive,Rogerschester,Small,Vaccines,91.6,2.63,5.0,1,1,32,Renewed,893.76,High,44,Renegotiate
+SUP-01297,"Ward, Snyder and Foster",Logistics,Ninachester,Medium,Vaccines,102.5,1.6,2.0,4,1,42,Renewed,293.49,Low,56,Renew
+SUP-01298,"Sanchez, Mcguire and Riley",Electronics,Emilybury,Large,Cleaning Agents,100.8,0.56,6.0,0,0,46,Renewed,69.89,Medium,44,Terminate
+SUP-01299,"Taylor, Reed and Rogers",Logistics,Christopherstad,Large,Motors,84.4,5.55,5.0,0,1,8,Renewed,142.55,Medium,54,Renew
+SUP-01300,Gibson Inc,Logistics,Bobbyburgh,Medium,Chips,94.1,1.14,11.0,3,0,44,Renewed,268.49,High,30,Renew
+SUP-01301,Richardson Inc,Pharma,Ronaldfurt,Medium,Cleaning Agents,86.4,2.92,14.0,2,0,38,Not Renewed,411.27,Low,78,Renew
+SUP-01302,"Smith, Velazquez and Ruiz",Chemicals,Port Deborah,Small,Transport Services,81.6,1.14,0.0,1,0,33,Not Renewed,989.55,Medium,31,Renegotiate
+SUP-01303,"Mills, Thornton and Decker",Electronics,Fostermouth,Large,Vaccines,87.8,,3.0,0,0,31,Renewed,916.92,High,90,Renegotiate
+SUP-01304,Jenkins Group,Chemicals,Martinstad,Medium,Cleaning Agents,74.5,4.65,5.0,1,0,43,Renewed,341.33,High,17,Renew
+SUP-01305,Jackson and Sons,Electronics,Stevenview,Medium,Transport Services,89.5,2.42,12.0,1,0,6,Renewed,11.7,Medium,76,Renegotiate
+SUP-01306,Reyes Ltd,Logistics,West Dennisville,Medium,Chips,95.3,1.26,1.0,1,0,6,Renewed,299.22,Medium,46,Renew
+SUP-01307,"Rodriguez, Mcmillan and Lowe",Chemicals,Joymouth,Small,Chips,78.2,1.06,22.0,0,0,7,Not Renewed,639.91,High,11,Renegotiate
+SUP-01308,"Wright, Thompson and Young",Automotive,Carolport,Medium,Vaccines,63.4,1.69,6.0,1,0,14,Not Renewed,402.63,High,25,Renegotiate
+SUP-01309,Jones-Lewis,Pharma,Schultzbury,Large,Vaccines,85.8,4.78,15.0,2,1,21,Not Renewed,628.07,Medium,79,Renew
+SUP-01310,"Johnson, Martinez and Nolan",Electronics,Donaldhaven,Medium,Motors,80.5,3.34,10.0,1,1,8,Renewed,876.18,Medium,77,Terminate
+SUP-01311,Cameron-Duke,Chemicals,Sanchezberg,Small,Cleaning Agents,75.2,1.65,3.0,0,0,34,Not Renewed,241.93,High,11,Renew
+SUP-01312,"Nelson, Jones and Ashley",Pharma,West Josephview,Small,Motors,83.9,1.46,5.0,1,1,26,Not Renewed,240.91,Low,85,Renew
+SUP-01313,Townsend Ltd,Automotive,West Tammy,Small,Vaccines,71.7,2.96,2.0,1,0,18,Renewed,402.02,Medium,55,Renegotiate
+SUP-01314,Robinson Inc,Logistics,Fishermouth,Small,Vaccines,71.4,2.0,8.0,0,0,22,Not Renewed,662.26,Medium,40,Renew
+SUP-01315,"Richard, Richmond and Murphy",Automotive,Dudleyberg,Small,Chips,83.1,5.38,14.0,1,0,44,Not Renewed,246.27,High,91,Renew
+SUP-01316,Olson Inc,Automotive,Lindamouth,Medium,Vaccines,96.7,3.61,10.0,0,1,7,Renewed,876.97,High,25,Renew
+SUP-01317,"Howard, Griffin and Morgan",Pharma,Ginachester,Large,Chips,75.7,2.46,0.0,1,1,35,Renewed,558.73,Low,56,Terminate
+SUP-01318,Hayden Group,Logistics,Port Brandonberg,Medium,Vaccines,72.7,0.55,9.0,0,0,31,Not Renewed,926.32,High,62,Renegotiate
+SUP-01319,Duffy-Nguyen,Automotive,West Taylorshire,Small,Transport Services,89.1,2.54,6.0,1,0,23,Renewed,984.94,High,30,Renew
+SUP-01320,"Estrada, Daniels and Perez",Automotive,Shieldsborough,Small,Vaccines,85.1,2.24,0.0,4,1,35,Renewed,533.1,High,33,Renegotiate
+SUP-01321,Jackson-Watkins,Logistics,Lake Wesleyside,Medium,Chips,89.5,4.45,5.0,1,0,10,Not Renewed,878.04,Medium,87,Renew
+SUP-01322,Duncan-Petty,Pharma,Emilyhaven,Large,Cleaning Agents,,3.5,10.0,0,0,21,Renewed,298.6,Medium,67,Renew
+SUP-01323,Taylor-Wade,Chemicals,Port Shawnaview,Medium,Motors,,0.55,4.0,1,0,15,Renewed,843.35,Medium,79,Renew
+SUP-01324,Zavala LLC,Automotive,Port Pamela,Small,Motors,98.7,2.89,9.0,1,1,38,Not Renewed,385.59,Low,46,Renew
+SUP-01325,"Lopez, King and Ruiz",Pharma,Lake Christian,Medium,Cleaning Agents,84.9,1.91,3.0,0,0,10,Renewed,568.96,Medium,27,Terminate
+SUP-01326,Scott-Elliott,Automotive,Marcushaven,Medium,Cleaning Agents,80.1,3.96,20.0,0,1,14,Not Renewed,671.28,High,13,Renegotiate
+SUP-01327,Snow Inc,Chemicals,West Kelseychester,Medium,Motors,85.3,3.47,8.0,2,0,26,Not Renewed,672.43,Low,29,Renegotiate
+SUP-01328,Carr PLC,Pharma,Port Derrickfort,Large,Chips,90.1,1.57,7.0,0,0,33,Renewed,840.09,High,66,Renegotiate
+SUP-01329,Little-Lee,Pharma,North Brendan,Medium,Cleaning Agents,101.4,4.13,15.0,1,1,23,Renewed,442.63,Low,23,Renew
+SUP-01330,"Meadows, Lopez and Burns",Pharma,Cynthiamouth,Medium,Motors,107.7,3.16,13.0,1,0,7,Not Renewed,85.44,High,17,Renegotiate
+SUP-01331,Bishop PLC,Logistics,Port Darryltown,Small,Vaccines,80.2,1.73,6.0,1,1,43,Not Renewed,681.43,High,19,Terminate
+SUP-01332,Hutchinson LLC,Chemicals,Port Lorifort,Medium,Chips,86.3,0.27,6.0,0,0,40,Renewed,887.2,Medium,35,Renew
+SUP-01333,Lopez LLC,Pharma,Pettyberg,Large,Motors,94.3,3.14,3.0,1,0,42,Renewed,744.22,Medium,41,Renew
+SUP-01334,Garrison-Willis,Electronics,Marieborough,Large,Chips,80.9,0.75,9.0,2,0,38,Renewed,607.59,High,69,Renegotiate
+SUP-01335,Stevens Inc,Chemicals,Lake Thomas,Small,Vaccines,81.7,,,1,1,34,Renewed,858.51,High,16,Renegotiate
+SUP-01336,Moss Inc,Electronics,Mcfarlandmouth,Small,Cleaning Agents,68.8,4.81,5.0,0,1,38,Not Renewed,703.88,Medium,34,Terminate
+SUP-01337,Evans PLC,Automotive,Hansenborough,Small,Cleaning Agents,89.1,1.18,18.0,2,0,29,Not Renewed,466.93,High,31,Renegotiate
+SUP-01338,Mccoy and Sons,Chemicals,East Brian,Medium,Transport Services,89.3,,11.0,0,1,35,Not Renewed,211.09,High,58,Renew
+SUP-01339,Perry-Carson,Pharma,Lopezburgh,Medium,Motors,86.5,1.93,0.0,2,0,33,Renewed,424.61,High,58,Renegotiate
+SUP-01340,"White, Harris and Murphy",Electronics,West Brian,Medium,Transport Services,80.7,3.83,1.0,4,0,29,Not Renewed,751.18,Low,64,Renew
+SUP-01341,Richardson Group,Logistics,Robertbury,Large,Chips,86.7,1.92,10.0,1,0,27,Not Renewed,344.11,High,31,Renew
+SUP-01342,Riddle Ltd,Logistics,Lake Kennethtown,Small,Cleaning Agents,83.3,3.96,15.0,0,0,17,Renewed,151.93,High,47,Renegotiate
+SUP-01343,Padilla-Turner,Logistics,Port Shelleyburgh,Medium,Motors,87.5,1.89,6.0,2,2,14,Renewed,356.99,Low,44,Renew
+SUP-01344,Quinn LLC,Automotive,Matthewstad,Medium,Motors,73.8,2.41,4.0,1,2,45,Renewed,240.32,Medium,74,Renew
+SUP-01345,"Padilla, Wilson and Jackson",Electronics,West Johnton,Small,Cleaning Agents,75.6,1.02,7.0,1,0,45,Not Renewed,429.68,High,68,Renew
+SUP-01346,"Douglas, Hanson and Le",Chemicals,Marksville,Medium,Vaccines,77.2,0.86,3.0,1,0,19,Not Renewed,68.06,Low,65,Renew
+SUP-01347,Rodriguez and Sons,Logistics,Rebeccaton,Medium,Cleaning Agents,88.8,2.97,5.0,0,2,47,Renewed,634.56,High,36,Renew
+SUP-01348,Thomas Inc,Chemicals,Port Davidshire,Medium,Motors,75.9,2.55,17.0,2,0,17,Renewed,482.64,Low,25,Terminate
+SUP-01349,Rojas Ltd,Pharma,Wilsonview,Small,Transport Services,90.3,1.76,26.0,1,0,15,Renewed,477.94,High,63,Terminate
+SUP-01350,Adams-Harris,Electronics,Sanchezside,Medium,Motors,95.0,3.67,3.0,2,0,23,Renewed,851.67,Medium,61,Renegotiate
+SUP-01351,Carter Inc,Chemicals,South Jennifershire,Large,Motors,88.7,3.48,10.0,2,0,26,Renewed,249.16,Low,48,Renew
+SUP-01352,"Anderson, Robbins and Miller",Chemicals,South Tiffanymouth,Medium,Cleaning Agents,88.3,3.28,17.0,0,0,33,Renewed,186.45,High,43,Renew
+SUP-01353,Johnson PLC,Logistics,New Gerald,Large,Cleaning Agents,87.9,3.62,4.0,2,1,24,Renewed,125.79,Low,50,Renegotiate
+SUP-01354,Dickerson PLC,Automotive,Lake Jeremyberg,Small,Motors,63.2,4.25,15.0,0,0,21,Renewed,646.91,Low,53,Renew
+SUP-01355,"Boyd, Houston and Martin",Electronics,East Jose,Medium,Chips,81.2,3.31,4.0,1,0,39,Renewed,746.93,Low,37,Terminate
+SUP-01356,Butler and Sons,Pharma,South Sheila,Medium,Cleaning Agents,102.0,,11.0,0,0,27,Renewed,835.06,Low,45,Renew
+SUP-01357,Taylor Inc,Automotive,Cookville,Medium,Vaccines,106.8,3.46,2.0,0,0,44,Renewed,325.15,Medium,82,Renegotiate
+SUP-01358,Clark PLC,Chemicals,Russellville,Medium,Cleaning Agents,81.2,3.81,8.0,1,0,17,Renewed,609.0,High,54,Renew
+SUP-01359,Evans-Smith,Electronics,Taraland,Small,Chips,91.0,4.63,10.0,0,1,38,Renewed,137.86,Medium,31,Renew
+SUP-01360,Kelly LLC,Logistics,North Miguelport,Large,Cleaning Agents,94.3,2.27,13.0,1,0,30,Renewed,596.04,High,91,Renegotiate
+SUP-01361,Duran-Little,Automotive,North Kimberlyfort,Small,Chips,79.3,2.37,13.0,0,0,35,Not Renewed,862.15,High,83,Renegotiate
+SUP-01362,"Morris, Hull and Jones",Electronics,Port Ashley,Small,Chips,86.2,2.73,1.0,1,0,38,Not Renewed,599.37,Medium,77,Renegotiate
+SUP-01363,"Richards, Wright and Taylor",Automotive,North Ericaside,Large,Cleaning Agents,86.2,0.41,11.0,2,1,29,Renewed,843.6,Medium,72,Renew
+SUP-01364,"Hamilton, Moore and Greene",Automotive,New Scott,Large,Chips,88.8,0.57,12.0,2,1,45,Renewed,604.58,Medium,84,Renew
+SUP-01365,Shaw Inc,Chemicals,South Joshuamouth,Small,Chips,79.2,1.94,8.0,1,0,45,Not Renewed,815.37,Medium,12,Renew
+SUP-01366,Jones-Smith,Logistics,Port Pamelaview,Small,Motors,77.2,3.17,22.0,1,0,6,Renewed,798.13,Medium,67,Terminate
+SUP-01367,"Lewis, Jefferson and Reynolds",Electronics,Sierraside,Small,Cleaning Agents,87.2,1.02,3.0,0,1,12,Not Renewed,367.07,Medium,33,Renew
+SUP-01368,Carrillo-Weeks,Pharma,Patrickberg,Medium,Vaccines,78.9,1.99,2.0,1,0,17,Not Renewed,490.8,Medium,57,Renew
+SUP-01369,"Jones, Ramos and Ball",Pharma,West Kevin,Small,Cleaning Agents,74.1,2.23,8.0,1,0,28,Not Renewed,260.13,Low,36,Renegotiate
+SUP-01370,Fry LLC,Electronics,Rileyshire,Small,Chips,85.9,4.5,8.0,1,0,30,Renewed,509.95,Medium,84,Renew
+SUP-01371,"Sexton, Campbell and Miller",Chemicals,Port Thomasport,Small,Vaccines,99.0,0.78,,2,0,35,Renewed,801.27,High,65,Terminate
+SUP-01372,Curtis-Lee,Logistics,Robertview,Medium,Motors,73.5,1.13,8.0,0,1,47,Renewed,618.66,Medium,44,Terminate
+SUP-01373,Oneal-Adams,Logistics,Hannahtown,Large,Vaccines,80.1,0.31,3.0,1,0,42,Renewed,633.83,High,24,Renegotiate
+SUP-01374,Hill PLC,Electronics,South Markborough,Medium,Motors,93.1,1.43,13.0,0,0,12,Renewed,337.24,Medium,22,Renew
+SUP-01375,Adams-Hernandez,Electronics,East Mary,Small,Chips,83.6,2.27,7.0,3,2,26,Renewed,938.16,High,16,Renew
+SUP-01376,Miller-Potter,Electronics,West Jamesbury,Small,Chips,86.8,3.26,7.0,0,0,25,Renewed,100.82,Low,26,Renew
+SUP-01377,"Dorsey, Anderson and James",Automotive,Joseberg,Large,Motors,81.6,4.29,5.0,0,0,29,Renewed,754.62,High,54,Renegotiate
+SUP-01378,Miller Ltd,Electronics,Susanbury,Large,Vaccines,103.2,,2.0,1,0,46,Renewed,10.81,High,17,Renew
+SUP-01379,Jenkins-Fuller,Automotive,North Jeremyshire,Large,Vaccines,85.4,3.61,8.0,1,1,6,Not Renewed,349.65,High,80,Renegotiate
+SUP-01380,Carpenter Group,Logistics,South Richard,Medium,Cleaning Agents,79.7,3.0,0.0,1,0,46,Renewed,958.57,High,66,Renegotiate
+SUP-01381,"Garcia, Jones and Johnson",Automotive,South Amy,Small,Motors,68.8,0.98,21.0,1,2,26,Not Renewed,91.94,High,62,Renegotiate
+SUP-01382,Thompson-Costa,Chemicals,Brettmouth,Small,Cleaning Agents,82.7,2.07,12.0,1,0,43,Not Renewed,968.41,High,13,Renegotiate
+SUP-01383,"Castro, Young and Green",Electronics,West Samanthaton,Small,Transport Services,74.9,4.1,6.0,1,1,40,Renewed,808.05,High,49,Renegotiate
+SUP-01384,"Yoder, Medina and Strickland",Chemicals,South Jordan,Medium,Transport Services,88.0,3.6,7.0,1,0,39,Renewed,675.71,Medium,53,Renegotiate
+SUP-01385,"Blake, Ford and Collins",Automotive,West Michael,Small,Cleaning Agents,87.8,3.83,5.0,0,1,6,Not Renewed,145.05,Medium,46,Renew
+SUP-01386,Hendrix-Young,Electronics,Kaylaton,Medium,Chips,,4.24,15.0,2,1,27,Renewed,962.78,Medium,40,Renew
+SUP-01387,Norris-Welch,Electronics,Lake Kristina,Medium,Transport Services,93.3,4.59,8.0,2,1,32,Not Renewed,705.71,Medium,20,Renew
+SUP-01388,Pena-Miller,Logistics,Campbelltown,Small,Motors,69.5,0.43,4.0,1,0,20,Not Renewed,148.43,High,44,Terminate
+SUP-01389,Christian and Sons,Automotive,North Joshua,Small,Chips,98.3,1.21,19.0,0,0,46,Renewed,617.06,High,27,Renew
+SUP-01390,"Smith, Jackson and Vasquez",Chemicals,Owenstown,Medium,Cleaning Agents,78.3,2.6,3.0,0,0,32,Not Renewed,372.76,High,22,Renegotiate
+SUP-01391,Ward-Carpenter,Automotive,New Keithborough,Small,Motors,84.4,3.28,1.0,2,1,13,Renewed,122.93,Medium,18,Renew
+SUP-01392,"Wright, Waller and Gardner",Logistics,Grahamfort,Small,Chips,91.3,2.25,21.0,1,0,47,Renewed,80.29,Low,33,Renegotiate
+SUP-01393,"King, Ross and Young",Chemicals,Romeromouth,Medium,Motors,64.7,3.9,11.0,1,0,46,Renewed,458.07,Medium,62,Renegotiate
+SUP-01394,"Owens, Delgado and Richardson",Chemicals,New Gregory,Medium,Motors,78.1,3.38,12.0,1,0,17,Not Renewed,296.59,Medium,41,Renegotiate
+SUP-01395,"Clark, Mendez and Romero",Logistics,Port Jose,Small,Cleaning Agents,79.9,5.32,8.0,0,0,9,Renewed,264.23,High,45,Terminate
+SUP-01396,Lee-Lane,Automotive,Stephaniefurt,Large,Transport Services,74.3,0.22,23.0,2,1,18,Not Renewed,51.93,High,37,Renew
+SUP-01397,Mcgee and Sons,Logistics,Angelatown,Small,Cleaning Agents,99.6,3.25,17.0,2,0,15,Renewed,915.47,High,16,Renew
+SUP-01398,"Schultz, Evans and Watkins",Electronics,Harrisonburgh,Medium,Motors,86.6,1.78,9.0,2,0,36,Renewed,619.24,High,41,Renegotiate
+SUP-01399,"Baker, Baker and Ballard",Automotive,Lake Elizabethberg,Small,Cleaning Agents,85.8,1.15,10.0,0,0,15,Renewed,990.19,Low,48,Terminate
+SUP-01400,Morris Group,Electronics,Gouldshire,Medium,Cleaning Agents,96.5,2.98,12.0,4,0,13,Not Renewed,41.49,Low,41,Renegotiate
+SUP-01401,Black-Townsend,Automotive,Kennedyfort,Medium,Cleaning Agents,105.0,3.12,12.0,1,0,7,Renewed,741.36,High,70,Terminate
+SUP-01402,"Reed, Walls and Alvarez",Pharma,Zacharyfort,Small,Transport Services,98.1,2.38,9.0,1,0,39,Renewed,989.53,Low,54,Terminate
+SUP-01403,Gardner-Valenzuela,Pharma,East Kathleenmouth,Medium,Chips,81.9,2.07,19.0,3,0,33,Renewed,94.48,Medium,77,Renew
+SUP-01404,"Mills, Allen and Simpson",Automotive,North Nicole,Small,Transport Services,83.0,3.7,4.0,1,0,34,Renewed,288.18,Medium,54,Renew
+SUP-01405,Blackburn PLC,Pharma,Kellyside,Medium,Vaccines,75.5,3.15,1.0,0,0,8,Renewed,89.68,Medium,88,Renew
+SUP-01406,"Walters, Henderson and Williams",Logistics,North Michaela,Medium,Transport Services,82.5,1.22,3.0,0,0,7,Not Renewed,51.13,Medium,31,Renew
+SUP-01407,"Ramirez, Boyer and Duarte",Logistics,Holtberg,Medium,Cleaning Agents,92.6,1.05,2.0,1,0,47,Not Renewed,157.2,Low,88,Renegotiate
+SUP-01408,"Anderson, Francis and Snyder",Chemicals,South Cindyborough,Medium,Cleaning Agents,,4.7,7.0,0,0,16,Renewed,369.72,Medium,47,Renew
+SUP-01409,Jones-Jones,Electronics,Haileyland,Small,Transport Services,109.9,4.53,1.0,1,0,17,Renewed,684.06,High,45,Renegotiate
+SUP-01410,Acosta PLC,Pharma,South Christopher,Medium,Vaccines,86.3,3.31,7.0,0,0,33,Renewed,535.51,Medium,44,Renegotiate
+SUP-01411,Myers Group,Automotive,South Cindy,Small,Cleaning Agents,69.0,1.13,7.0,2,1,13,Not Renewed,992.75,Medium,75,Renew
+SUP-01412,Scott-Page,Logistics,South Matthewmouth,Small,Vaccines,87.9,0.25,5.0,2,0,37,Renewed,231.84,High,22,Terminate
+SUP-01413,Burton-Peterson,Electronics,South Andrew,Medium,Cleaning Agents,76.4,0.89,1.0,1,0,30,Renewed,520.71,High,39,Renew
+SUP-01414,Miller Group,Automotive,Kimberlyborough,Small,Cleaning Agents,87.3,0.51,2.0,0,0,8,Renewed,728.22,High,70,Renegotiate
+SUP-01415,Wyatt Inc,Pharma,North Jennifer,Small,Chips,80.8,1.78,18.0,3,1,12,Not Renewed,847.09,High,94,Renew
+SUP-01416,"Thomas, Bryant and Moreno",Electronics,West Stevenland,Small,Motors,99.2,3.17,21.0,2,0,22,Renewed,560.68,High,44,Terminate
+SUP-01417,Park-Williams,Chemicals,Madelinestad,Large,Motors,81.5,2.29,11.0,0,0,30,Not Renewed,430.87,Low,88,Renew
+SUP-01418,"Lambert, Thompson and Riley",Pharma,Robinmouth,Medium,Chips,82.1,4.04,,2,0,9,Renewed,917.68,High,45,Renew
+SUP-01419,"Sanchez, Knapp and Foster",Logistics,Hollandfurt,Medium,Motors,99.7,2.84,6.0,4,1,7,Not Renewed,747.33,Low,94,Renegotiate
+SUP-01420,Miller-Smith,Electronics,Kevinmouth,Medium,Cleaning Agents,84.8,3.63,4.0,2,0,31,Renewed,660.19,Medium,51,Renew
+SUP-01421,Johnson-Russell,Logistics,West Leah,Medium,Cleaning Agents,81.8,3.08,9.0,0,0,35,Renewed,103.42,High,40,Renew
+SUP-01422,Hernandez Inc,Automotive,Juliamouth,Large,Vaccines,83.9,1.67,10.0,1,1,30,Not Renewed,361.23,Medium,85,Renegotiate
+SUP-01423,"Diaz, Reyes and Gonzales",Logistics,South Kevin,Medium,Vaccines,90.2,2.6,6.0,0,0,29,Not Renewed,157.58,High,59,Renew
+SUP-01424,"Downs, Chan and Austin",Chemicals,Port Williamtown,Small,Cleaning Agents,70.1,2.66,16.0,1,0,11,Not Renewed,732.9,Medium,41,Renew
+SUP-01425,Small and Sons,Logistics,Port Derrickville,Small,Cleaning Agents,104.8,3.68,15.0,1,1,28,Renewed,375.79,High,72,Renegotiate
+SUP-01426,"Hogan, Carter and Bradley",Electronics,Alexandermouth,Large,Motors,85.5,1.63,7.0,0,0,31,Renewed,927.35,Medium,30,Terminate
+SUP-01427,"Perez, Brown and Williamson",Automotive,Clarkland,Medium,Chips,77.8,3.67,4.0,2,0,44,Renewed,776.61,Low,61,Renew
+SUP-01428,Mills and Sons,Chemicals,Lake Lukeland,Small,Motors,91.0,2.81,1.0,0,1,37,Renewed,240.77,High,84,Renew
+SUP-01429,Kelly LLC,Pharma,Muellerberg,Medium,Vaccines,75.9,2.83,5.0,1,0,24,Not Renewed,768.16,High,69,Renew
+SUP-01430,Petersen LLC,Chemicals,Timothymouth,Small,Chips,97.7,1.12,6.0,2,0,21,Renewed,858.65,High,77,Renew
+SUP-01431,"Perez, Guzman and Grant",Logistics,Hansenport,Medium,Vaccines,84.6,2.72,20.0,0,1,12,Not Renewed,232.93,Medium,76,Renew
+SUP-01432,"Garcia, Mack and Lopez",Automotive,Kimburgh,Medium,Transport Services,76.3,2.9,6.0,1,0,43,Renewed,402.98,High,33,Renew
+SUP-01433,Delacruz LLC,Electronics,East Kellyport,Medium,Chips,83.4,0.15,,1,0,40,Renewed,57.54,Medium,23,Terminate
+SUP-01434,Woods and Sons,Logistics,Paulville,Medium,Vaccines,68.8,1.05,12.0,2,0,21,Not Renewed,165.7,High,30,Terminate
+SUP-01435,"Frey, Fox and Jones",Chemicals,Jacquelinetown,Large,Transport Services,87.0,2.76,4.0,1,0,25,Renewed,394.21,Medium,50,Renegotiate
+SUP-01436,"Parker, Schultz and Fitzgerald",Electronics,Lake Stephen,Medium,Transport Services,68.5,2.69,3.0,0,0,33,Renewed,85.07,Medium,77,Renew
+SUP-01437,Lee PLC,Electronics,Stephensmouth,Large,Cleaning Agents,84.8,3.79,,1,0,34,Renewed,984.32,Medium,84,Renew
+SUP-01438,Bailey LLC,Automotive,Seanfort,Small,Cleaning Agents,,1.34,12.0,2,1,23,Not Renewed,148.09,Medium,92,Renew
+SUP-01439,Brown-Hawkins,Logistics,Michaelmouth,Small,Cleaning Agents,70.2,2.6,11.0,0,0,6,Renewed,881.16,Medium,81,Renew
+SUP-01440,Hernandez-Hayes,Electronics,Lake Suzannebury,Large,Chips,90.8,2.7,8.0,0,0,38,Not Renewed,402.75,Medium,34,Renew
+SUP-01441,Johnson-Fields,Chemicals,East Curtisfurt,Small,Vaccines,,1.86,12.0,0,1,12,Renewed,451.81,High,46,Renew
+SUP-01442,Jones LLC,Automotive,Sandraberg,Medium,Motors,93.4,3.61,1.0,1,0,34,Renewed,928.61,Medium,46,Renew
+SUP-01443,Stephenson Ltd,Automotive,Khanland,Medium,Motors,,,11.0,4,0,40,Renewed,796.22,Medium,34,Terminate
+SUP-01444,"Decker, Smith and Pittman",Electronics,West Troy,Medium,Cleaning Agents,79.3,1.08,11.0,0,0,30,Not Renewed,302.86,Low,11,Renegotiate
+SUP-01445,"Holloway, Tran and Bentley",Electronics,Aaronbury,Small,Cleaning Agents,86.6,3.52,19.0,0,0,33,Renewed,461.16,High,82,Renew
+SUP-01446,Wolf PLC,Pharma,North Douglas,Large,Chips,66.9,2.47,12.0,2,1,42,Renewed,599.64,Medium,69,Terminate
+SUP-01447,Taylor-Walters,Pharma,South Michaelland,Medium,Chips,70.9,3.67,8.0,1,0,42,Not Renewed,59.89,Medium,90,Terminate
+SUP-01448,Russo PLC,Automotive,North Pamela,Small,Chips,86.2,2.84,4.0,4,0,35,Not Renewed,677.09,Medium,51,Renew
+SUP-01449,Raymond and Sons,Automotive,Howardville,Medium,Vaccines,77.5,1.76,1.0,1,1,13,Not Renewed,579.87,Medium,56,Renegotiate
+SUP-01450,Rice-Smith,Chemicals,South Ericview,Medium,Motors,86.8,0.84,18.0,1,0,32,Renewed,583.52,High,55,Renegotiate
+SUP-01451,Griffin-White,Electronics,Thomaston,Small,Transport Services,85.7,2.98,8.0,0,0,10,Not Renewed,609.74,Medium,83,Renew
+SUP-01452,Evans-Gutierrez,Pharma,North Jacquelineland,Medium,Transport Services,83.1,3.08,3.0,1,1,18,Renewed,39.22,High,38,Renegotiate
+SUP-01453,Drake Group,Automotive,Port Mark,Small,Cleaning Agents,95.4,1.73,17.0,0,0,15,Not Renewed,855.89,Medium,18,Renew
+SUP-01454,"Peters, Wilson and Bruce",Chemicals,Janetfurt,Medium,Vaccines,112.8,1.79,8.0,1,0,18,Not Renewed,768.54,High,56,Renegotiate
+SUP-01455,"George, Savage and Ochoa",Logistics,New Haroldchester,Small,Chips,72.5,0.24,0.0,0,0,28,Renewed,321.48,Medium,16,Renew
+SUP-01456,Williams Inc,Pharma,New Evanville,Small,Motors,92.2,2.44,31.0,1,0,27,Not Renewed,505.08,Medium,87,Renew
+SUP-01457,Wyatt LLC,Chemicals,South Haleyfurt,Medium,Transport Services,87.0,1.72,14.0,3,0,37,Renewed,77.41,Medium,84,Renew
+SUP-01458,"Rogers, Pena and Castro",Automotive,Patrickhaven,Small,Transport Services,77.5,4.52,17.0,3,1,6,Renewed,306.01,High,56,Renew
+SUP-01459,Sanders-Olson,Chemicals,Parkerbury,Small,Vaccines,111.2,2.32,,0,0,38,Not Renewed,773.45,Low,73,Renegotiate
+SUP-01460,"Edwards, Grant and Reed",Electronics,Lindaton,Medium,Chips,92.4,3.77,6.0,1,0,32,Not Renewed,664.14,Low,17,Renegotiate
+SUP-01461,Martin Group,Automotive,Port Jennifer,Medium,Transport Services,87.0,2.76,,1,1,19,Renewed,420.67,Medium,38,Renegotiate
+SUP-01462,"Davis, Moore and Calhoun",Chemicals,Brenttown,Large,Vaccines,75.7,5.36,16.0,3,0,6,Not Renewed,516.22,High,15,Terminate
+SUP-01463,"Parker, Shaffer and Lang",Chemicals,Mooreland,Large,Vaccines,91.1,3.85,,3,0,44,Renewed,116.4,High,86,Terminate
+SUP-01464,"Brooks, Palmer and Campbell",Chemicals,Toddport,Small,Cleaning Agents,80.6,1.2,18.0,0,0,46,Renewed,770.3,Low,52,Renegotiate
+SUP-01465,Martinez-Morgan,Pharma,Lake Frankhaven,Medium,Chips,99.7,0.99,4.0,0,0,31,Not Renewed,306.88,Medium,61,Terminate
+SUP-01466,"Perez, Watts and Wright",Chemicals,Tiffanyport,Medium,Cleaning Agents,110.7,2.67,10.0,0,0,8,Renewed,904.2,High,30,Renegotiate
+SUP-01467,"Munoz, Jackson and Shelton",Chemicals,Sanchezton,Small,Chips,83.6,3.27,10.0,0,1,26,Renewed,713.14,High,60,Renegotiate
+SUP-01468,Jenkins PLC,Pharma,Stewartview,Medium,Chips,81.6,3.72,1.0,0,0,30,Renewed,769.92,Low,46,Renew
+SUP-01469,"Reed, Barnes and Lowe",Electronics,Smithstad,Medium,Vaccines,76.4,5.76,20.0,1,0,25,Renewed,352.51,Medium,89,Renegotiate
+SUP-01470,"Dodson, Higgins and Smith",Logistics,South Brian,Small,Motors,86.8,3.1,1.0,0,1,18,Renewed,199.88,Medium,89,Renew
+SUP-01471,Taylor-Lewis,Automotive,Lake Heather,Small,Motors,90.3,4.38,24.0,1,0,34,Renewed,408.72,High,94,Renew
+SUP-01472,Dominguez-Thompson,Automotive,West Sandra,Small,Cleaning Agents,82.1,1.56,3.0,1,1,38,Renewed,121.73,Medium,66,Terminate
+SUP-01473,Castillo PLC,Electronics,Mitchellberg,Large,Chips,85.0,1.9,14.0,0,0,41,Renewed,150.03,Low,21,Terminate
+SUP-01474,Sullivan-Jones,Logistics,New Jessechester,Medium,Transport Services,74.6,3.41,7.0,0,0,14,Renewed,898.7,Medium,74,Renegotiate
+SUP-01475,Jensen PLC,Electronics,Alyssaport,Large,Cleaning Agents,90.7,1.62,1.0,0,0,6,Renewed,182.53,Low,46,Renew
+SUP-01476,Griffin LLC,Electronics,Port Sandra,Medium,Motors,88.5,0.53,19.0,0,1,38,Renewed,196.07,Medium,50,Renegotiate
+SUP-01477,Richardson and Sons,Automotive,Smithfurt,Medium,Vaccines,80.1,5.1,17.0,0,0,46,Not Renewed,710.97,Low,67,Renegotiate
+SUP-01478,Saunders PLC,Logistics,Brownbury,Small,Chips,89.7,3.83,2.0,1,1,26,Not Renewed,521.99,High,28,Renew
+SUP-01479,"Gomez, Lopez and Jackson",Automotive,Reynoldsfort,Medium,Vaccines,74.6,4.14,1.0,1,0,9,Renewed,564.89,Medium,41,Renew
+SUP-01480,"Blanchard, Patterson and Griffin",Electronics,East Cindy,Medium,Transport Services,69.9,3.17,3.0,1,0,45,Renewed,226.16,High,10,Renew
+SUP-01481,Cannon Ltd,Pharma,Millerborough,Medium,Vaccines,,2.29,4.0,2,0,44,Not Renewed,593.41,Medium,18,Renegotiate
+SUP-01482,Smith-Morris,Electronics,East Jenny,Medium,Transport Services,84.5,0.26,13.0,0,1,37,Renewed,972.95,Medium,88,Renew
+SUP-01483,Moore PLC,Chemicals,Jamesstad,Medium,Chips,84.6,2.53,19.0,3,0,46,Renewed,223.95,Low,84,Renew
+SUP-01484,Cohen PLC,Electronics,Josephmouth,Large,Motors,72.1,1.56,12.0,0,1,11,Renewed,642.45,Medium,57,Renegotiate
+SUP-01485,"Allen, Frost and Young",Chemicals,Lake Cassandraberg,Medium,Motors,64.6,2.88,6.0,2,0,38,Renewed,493.16,Medium,68,Renegotiate
+SUP-01486,Espinoza-Huff,Pharma,West Alvinfurt,Small,Motors,75.7,1.94,,0,1,16,Not Renewed,408.56,Medium,22,Renew
+SUP-01487,Williams Ltd,Chemicals,Port Christina,Small,Vaccines,78.8,0.79,15.0,3,0,44,Renewed,99.58,Medium,23,Renegotiate
+SUP-01488,Thompson-Wyatt,Automotive,Jasonport,Medium,Transport Services,84.6,,6.0,1,1,15,Not Renewed,610.53,High,85,Renegotiate
+SUP-01489,Parker and Sons,Electronics,Christinamouth,Small,Cleaning Agents,99.6,3.56,15.0,0,1,40,Renewed,626.13,High,53,Renew
+SUP-01490,Nolan Ltd,Chemicals,Youngbury,Large,Chips,77.6,2.28,9.0,1,0,15,Renewed,508.26,Low,76,Renew
+SUP-01491,Taylor-French,Automotive,East Michelle,Large,Chips,79.2,1.44,4.0,0,0,27,Renewed,682.06,Medium,86,Renegotiate
+SUP-01492,Taylor-Taylor,Logistics,Palmerbury,Small,Motors,,0.34,6.0,0,1,31,Renewed,552.23,Low,92,Renew
+SUP-01493,Sullivan Inc,Electronics,West Christopher,Medium,Cleaning Agents,86.5,3.1,16.0,1,0,46,Renewed,98.23,Low,94,Renegotiate
+SUP-01494,"Perez, Lang and Watkins",Chemicals,Edwinbury,Small,Vaccines,78.0,3.93,4.0,1,1,10,Not Renewed,397.23,High,45,Renew
+SUP-01495,Cohen PLC,Automotive,Petersonview,Medium,Vaccines,99.7,,9.0,0,0,41,Renewed,402.49,Medium,31,Renew
+SUP-01496,Rodriguez-Wheeler,Electronics,East Carol,Medium,Chips,94.0,2.43,10.0,0,0,21,Renewed,109.34,Medium,94,Renegotiate
+SUP-01497,Bennett-Barnett,Logistics,Tinaland,Small,Cleaning Agents,92.6,3.38,5.0,1,0,34,Not Renewed,704.33,Medium,78,Renegotiate
+SUP-01498,"Sims, Boyle and Robinson",Chemicals,East Rachael,Large,Transport Services,87.2,3.6,5.0,3,1,42,Not Renewed,420.74,High,43,Renew
+SUP-01499,Kennedy and Sons,Electronics,Carterton,Medium,Cleaning Agents,96.5,1.5,1.0,0,1,15,Not Renewed,208.81,High,71,Renegotiate
+SUP-01500,Paul-Owen,Chemicals,East Caitlinland,Medium,Cleaning Agents,89.4,1.76,9.0,0,0,21,Renewed,104.46,Medium,56,Renew
+SUP-01501,Arroyo-Marsh,Electronics,Lake Justinside,Large,Transport Services,91.6,,8.0,3,0,28,Not Renewed,787.97,Low,47,Renegotiate
+SUP-01502,Gillespie Group,Pharma,South Ashley,Medium,Motors,90.3,3.48,19.0,1,1,31,Not Renewed,266.35,Medium,55,Renew
+SUP-01503,Berger-Alvarez,Automotive,South Johnburgh,Large,Cleaning Agents,,0.94,3.0,1,0,10,Not Renewed,317.68,High,49,Renew
+SUP-01504,Hernandez Inc,Logistics,East Donnastad,Medium,Transport Services,84.5,3.36,8.0,1,0,27,Renewed,976.45,High,78,Renew
+SUP-01505,Mills PLC,Electronics,Bakerhaven,Medium,Transport Services,89.0,3.61,,1,0,19,Renewed,391.08,Medium,53,Renegotiate
+SUP-01506,Pierce PLC,Chemicals,Josephtown,Medium,Transport Services,70.8,2.38,2.0,2,0,36,Renewed,250.83,Low,66,Renew
+SUP-01507,Andersen LLC,Logistics,East Vanessa,Medium,Cleaning Agents,74.3,1.56,1.0,4,0,25,Not Renewed,38.55,High,21,Renew
+SUP-01508,Miller Group,Pharma,Millerport,Large,Transport Services,91.0,1.24,0.0,3,0,13,Not Renewed,670.56,Low,13,Renew
+SUP-01509,"Frey, Brown and Stanton",Pharma,East Colinville,Large,Motors,98.4,2.03,11.0,2,0,43,Not Renewed,869.71,High,54,Renew
+SUP-01510,Brown and Sons,Pharma,Romeromouth,Small,Chips,80.3,4.34,16.0,0,0,20,Renewed,295.6,Low,57,Renegotiate
+SUP-01511,Rodriguez-Duncan,Pharma,Toddport,Small,Transport Services,86.6,3.58,4.0,0,0,45,Renewed,14.58,Medium,37,Renew
+SUP-01512,Roberts-Anderson,Automotive,West Ryanchester,Medium,Motors,104.3,2.02,7.0,2,0,15,Renewed,972.4,Low,13,Renegotiate
+SUP-01513,Mercado-Krueger,Automotive,West Amberfurt,Medium,Transport Services,85.1,1.56,16.0,0,0,27,Renewed,415.12,Medium,64,Renew
+SUP-01514,"Lee, Robertson and Marshall",Electronics,Geraldview,Large,Cleaning Agents,77.4,2.42,4.0,0,1,40,Not Renewed,678.15,Medium,34,Terminate
+SUP-01515,Williams and Sons,Logistics,Jenniferport,Medium,Motors,96.5,1.3,5.0,1,0,43,Renewed,704.14,Medium,41,Renew
+SUP-01516,"Smith, Moore and Best",Chemicals,Michellechester,Medium,Motors,85.7,2.74,32.0,1,1,28,Not Renewed,415.64,High,56,Renegotiate
+SUP-01517,"Jones, Duncan and Johnson",Electronics,West Melissa,Small,Transport Services,95.1,0.81,8.0,0,0,11,Renewed,628.79,High,37,Renew
+SUP-01518,Clark PLC,Automotive,Vanessahaven,Large,Motors,87.8,2.6,6.0,1,0,31,Renewed,106.56,Low,83,Terminate
+SUP-01519,"Collier, Wyatt and Moore",Logistics,Wallport,Medium,Vaccines,92.2,4.01,15.0,0,0,31,Renewed,34.51,Low,33,Renew
+SUP-01520,Turner-Grant,Logistics,West David,Small,Chips,86.7,3.04,9.0,0,0,17,Renewed,776.7,Medium,26,Renew
+SUP-01521,Morales-Lopez,Automotive,East Sonya,Large,Chips,74.5,4.09,6.0,0,0,16,Not Renewed,132.19,High,65,Renew
+SUP-01522,Mccoy-Hunter,Pharma,Markstad,Medium,Motors,74.0,2.41,10.0,1,0,42,Renewed,979.23,Medium,56,Renew
+SUP-01523,Freeman-Mercer,Electronics,West Eduardobury,Medium,Vaccines,75.7,4.07,23.0,3,0,44,Renewed,282.96,Low,65,Renegotiate
+SUP-01524,"Hinton, Mullins and Long",Chemicals,Doyleport,Large,Cleaning Agents,85.7,5.34,9.0,0,1,44,Not Renewed,973.79,Medium,56,Renegotiate
+SUP-01525,Green LLC,Pharma,Shawnstad,Large,Chips,93.6,5.35,4.0,0,0,9,Not Renewed,662.11,High,69,Terminate
+SUP-01526,Carey Ltd,Electronics,East Jorge,Medium,Motors,73.6,3.44,29.0,2,0,24,Renewed,282.51,High,84,Renew
+SUP-01527,Landry Group,Chemicals,New Kimberlyfort,Medium,Vaccines,104.3,2.64,6.0,2,0,30,Renewed,276.13,Medium,13,Renegotiate
+SUP-01528,Guerrero-Jackson,Automotive,East Jane,Medium,Cleaning Agents,79.3,3.79,14.0,1,0,42,Renewed,279.26,Medium,33,Renegotiate
+SUP-01529,Weeks-Thompson,Logistics,Kimchester,Medium,Transport Services,,3.63,9.0,0,0,46,Renewed,147.85,High,72,Renew
+SUP-01530,Davidson-Hoover,Electronics,Browntown,Small,Chips,88.0,3.81,20.0,1,1,46,Not Renewed,712.17,Low,31,Renew
+SUP-01531,Nixon and Sons,Pharma,South Gary,Large,Cleaning Agents,87.6,2.9,11.0,1,2,9,Renewed,122.22,High,76,Renegotiate
+SUP-01532,"Hale, Gray and Rodriguez",Chemicals,Lake Heathermouth,Small,Cleaning Agents,85.7,1.46,33.0,0,0,19,Renewed,383.6,High,34,Renegotiate
+SUP-01533,Simpson-Ramos,Logistics,Munozville,Medium,Cleaning Agents,82.7,2.49,3.0,2,1,23,Not Renewed,325.85,Medium,21,Renew
+SUP-01534,"Santana, Dickerson and Cook",Automotive,Lake Jacqueline,Medium,Cleaning Agents,83.1,3.9,11.0,0,0,9,Renewed,247.64,Medium,48,Renew
+SUP-01535,Roberts-Baker,Automotive,Jeffreyborough,Large,Vaccines,86.9,3.38,1.0,0,0,22,Not Renewed,13.99,Low,42,Renew
+SUP-01536,"Mann, Ingram and Johnson",Logistics,Timothystad,Medium,Cleaning Agents,90.8,2.41,7.0,0,0,38,Renewed,69.75,Low,86,Renegotiate
+SUP-01537,Barrett-Fox,Chemicals,Thomastown,Small,Transport Services,80.3,,18.0,0,0,39,Renewed,778.29,High,53,Renegotiate
+SUP-01538,Hall-Wilson,Automotive,Atkinsonport,Large,Vaccines,79.9,2.68,6.0,0,0,8,Renewed,982.71,High,17,Renegotiate
+SUP-01539,"Ballard, Green and Barker",Automotive,Foxmouth,Small,Chips,79.4,3.47,5.0,0,0,37,Not Renewed,253.79,Medium,45,Renew
+SUP-01540,Chandler-Keller,Automotive,Maryside,Medium,Cleaning Agents,,1.39,2.0,0,1,47,Renewed,611.12,High,31,Terminate
+SUP-01541,Shelton-Davenport,Electronics,Weissberg,Medium,Chips,,2.94,16.0,2,2,36,Renewed,208.71,High,64,Terminate
+SUP-01542,Watts Group,Automotive,Maryborough,Large,Vaccines,84.1,4.91,4.0,1,1,33,Renewed,674.1,Low,32,Renew
+SUP-01543,Owens-Murphy,Electronics,Browntown,Medium,Vaccines,73.3,0.52,1.0,0,0,26,Not Renewed,263.69,Medium,78,Renew
+SUP-01544,"Ford, Harris and Mason",Electronics,New Jennifer,Medium,Motors,79.5,2.96,,1,0,20,Renewed,297.37,Medium,93,Renew
+SUP-01545,"Robinson, Cooper and Johnson",Logistics,Guzmanland,Small,Transport Services,92.8,2.69,,0,0,38,Not Renewed,355.03,Low,18,Renew
+SUP-01546,"Lopez, Garza and George",Chemicals,New Kimchester,Large,Cleaning Agents,89.0,0.57,11.0,1,2,18,Not Renewed,744.29,Low,30,Renew
+SUP-01547,Proctor Group,Logistics,Stacyside,Large,Transport Services,82.7,1.47,4.0,2,0,34,Renewed,287.69,Low,75,Renew
+SUP-01548,Young-Dougherty,Pharma,Taylorborough,Medium,Cleaning Agents,88.6,,17.0,2,0,20,Not Renewed,117.35,Low,66,Renew
+SUP-01549,Cox LLC,Chemicals,Lake Nicole,Medium,Chips,56.4,0.72,16.0,0,0,41,Not Renewed,926.82,High,84,Renegotiate
+SUP-01550,Bowman-Cervantes,Automotive,South Shellyborough,Small,Chips,99.9,1.35,28.0,2,0,6,Renewed,506.14,Low,21,Terminate
+SUP-01551,Matthews Group,Logistics,North Rhonda,Medium,Vaccines,78.6,,16.0,2,0,7,Not Renewed,552.1,High,86,Renew
+SUP-01552,Macdonald-Gonzales,Logistics,Wilsonfurt,Medium,Motors,79.5,2.22,,4,0,12,Renewed,594.58,High,17,Renew
+SUP-01553,"Boyer, Lopez and Strickland",Electronics,West Jacob,Small,Vaccines,89.2,3.46,5.0,0,1,18,Not Renewed,545.24,Medium,36,Renew
+SUP-01554,Perez-Jones,Electronics,New Emily,Small,Vaccines,76.3,3.77,5.0,2,0,23,Renewed,424.18,Medium,27,Renegotiate
+SUP-01555,Myers Inc,Automotive,Nicholasside,Medium,Cleaning Agents,74.9,3.23,6.0,1,1,15,Renewed,726.9,Medium,47,Renegotiate
+SUP-01556,Gonzalez-Rivera,Logistics,South Lydiamouth,Medium,Cleaning Agents,80.8,0.3,8.0,1,0,34,Not Renewed,239.29,High,84,Renegotiate
+SUP-01557,Sanders Ltd,Pharma,Denniston,Large,Vaccines,75.4,2.23,10.0,2,0,34,Not Renewed,847.71,Medium,38,Renew
+SUP-01558,Perez and Sons,Logistics,Lopezmouth,Large,Vaccines,76.2,1.43,2.0,0,0,24,Renewed,840.52,Low,79,Renegotiate
+SUP-01559,"Bryant, Cole and Adams",Pharma,South Jodiville,Medium,Transport Services,91.8,3.49,16.0,1,0,9,Renewed,623.82,Medium,80,Renegotiate
+SUP-01560,Martin PLC,Automotive,Lorraineberg,Medium,Chips,75.0,3.29,12.0,0,2,43,Not Renewed,463.46,High,48,Renew
+SUP-01561,Miller Inc,Electronics,East Joseport,Large,Chips,84.1,0.25,2.0,0,1,29,Not Renewed,837.05,High,14,Renegotiate
+SUP-01562,"Weber, Cooper and Diaz",Electronics,Port Paul,Small,Cleaning Agents,80.0,4.34,7.0,0,2,46,Renewed,575.18,Medium,35,Renew
+SUP-01563,Hayes Inc,Pharma,New Henrymouth,Medium,Chips,78.0,1.73,5.0,2,0,21,Not Renewed,350.63,Low,22,Renew
+SUP-01564,Butler-Collins,Logistics,New Natalie,Small,Motors,83.7,2.96,7.0,0,0,7,Renewed,700.91,Medium,29,Terminate
+SUP-01565,"Baldwin, Scott and Johnson",Electronics,East Debramouth,Medium,Transport Services,89.2,0.61,1.0,0,0,28,Not Renewed,419.62,High,87,Renew
+SUP-01566,"Walker, Reed and Petersen",Electronics,East Valerie,Large,Transport Services,77.8,2.35,18.0,2,1,35,Not Renewed,687.54,High,84,Renew
+SUP-01567,Douglas and Sons,Electronics,North Brandi,Medium,Vaccines,94.0,2.86,3.0,0,2,11,Not Renewed,257.1,High,50,Renegotiate
+SUP-01568,Bryant-Phillips,Logistics,Townsendfurt,Small,Vaccines,97.7,4.21,1.0,0,0,8,Renewed,433.18,Low,82,Renew
+SUP-01569,"Cooper, Lozano and White",Pharma,South Markport,Medium,Cleaning Agents,97.3,2.19,,1,1,37,Renewed,299.64,High,71,Renew
+SUP-01570,Mcgee Ltd,Electronics,Howellstad,Medium,Motors,95.6,3.88,3.0,0,1,36,Renewed,952.34,High,81,Renew
+SUP-01571,Williams Inc,Pharma,Lake Heatherbury,Medium,Transport Services,60.1,,13.0,1,0,12,Renewed,557.86,Medium,52,Terminate
+SUP-01572,Cook-Bauer,Logistics,Veronicaborough,Medium,Vaccines,73.6,1.28,10.0,2,2,43,Renewed,121.22,Low,84,Terminate
+SUP-01573,"Knapp, Harris and Mata",Chemicals,North Lukeview,Medium,Motors,92.6,1.92,18.0,0,1,7,Renewed,866.45,Medium,41,Renegotiate
+SUP-01574,Valenzuela Inc,Electronics,Lake James,Medium,Motors,,1.04,22.0,0,0,28,Renewed,301.53,High,16,Renegotiate
+SUP-01575,Estrada Group,Chemicals,Toddside,Small,Motors,85.4,2.47,10.0,0,0,24,Not Renewed,118.26,High,42,Renegotiate
+SUP-01576,Stevens-Henderson,Pharma,Port Justinton,Medium,Vaccines,84.2,1.74,,1,0,27,Not Renewed,748.21,Low,86,Renew
+SUP-01577,Raymond and Sons,Pharma,Mercertown,Medium,Vaccines,95.0,4.16,12.0,2,0,33,Renewed,162.57,Medium,72,Renew
+SUP-01578,"Myers, Moore and Hill",Chemicals,South Benjamin,Small,Vaccines,85.7,4.27,6.0,1,0,18,Not Renewed,126.96,Medium,79,Renew
+SUP-01579,"Jefferson, Harris and Stevens",Chemicals,North Marytown,Large,Vaccines,95.1,4.25,13.0,3,0,8,Not Renewed,778.14,High,63,Renew
+SUP-01580,Davis Ltd,Pharma,Brittanyside,Medium,Transport Services,97.7,0.49,6.0,3,0,22,Renewed,858.91,Medium,38,Terminate
+SUP-01581,"Moss, Moore and Daniels",Electronics,Craigport,Large,Chips,81.4,2.19,4.0,0,0,28,Not Renewed,919.38,Medium,49,Renew
+SUP-01582,Allen Inc,Chemicals,Lake Heatherfurt,Small,Transport Services,80.8,2.71,12.0,2,1,16,Renewed,948.66,High,85,Renegotiate
+SUP-01583,James-Wood,Electronics,South Jeffreystad,Small,Transport Services,77.5,3.7,1.0,3,1,41,Not Renewed,884.18,Medium,38,Renegotiate
+SUP-01584,Smith and Sons,Electronics,Hallview,Medium,Vaccines,83.4,2.61,7.0,1,0,44,Not Renewed,369.21,High,25,Renew
+SUP-01585,White Inc,Electronics,North Rebecca,Medium,Vaccines,90.1,2.22,6.0,1,0,26,Renewed,123.33,High,50,Renew
+SUP-01586,Ray-Marks,Chemicals,Isaacstad,Medium,Cleaning Agents,74.1,1.42,2.0,0,2,7,Renewed,357.4,High,38,Renew
+SUP-01587,Montgomery LLC,Electronics,South Melanie,Small,Cleaning Agents,76.0,4.69,10.0,0,0,29,Not Renewed,127.75,Medium,42,Terminate
+SUP-01588,Adams-Lopez,Electronics,Lawrencehaven,Small,Cleaning Agents,70.0,1.52,6.0,0,0,38,Not Renewed,215.92,High,27,Renegotiate
+SUP-01589,Olsen Ltd,Chemicals,Port Melissa,Medium,Chips,110.0,2.29,2.0,0,0,38,Not Renewed,428.73,Low,51,Renew
+SUP-01590,"Ramos, Barton and Cochran",Automotive,New Tiffanyshire,Medium,Transport Services,100.2,3.61,9.0,1,2,30,Not Renewed,966.07,Medium,18,Renew
+SUP-01591,Wade-Patel,Electronics,Frenchmouth,Medium,Motors,96.7,2.46,4.0,5,0,13,Renewed,261.89,Low,45,Renegotiate
+SUP-01592,Lee Group,Pharma,Greenberg,Small,Cleaning Agents,61.7,2.83,19.0,0,0,47,Not Renewed,609.14,Medium,30,Renegotiate
+SUP-01593,Zimmerman-Craig,Logistics,Alicefort,Medium,Transport Services,71.5,2.48,12.0,1,0,10,Not Renewed,100.35,High,77,Renegotiate
+SUP-01594,Garcia-Peters,Pharma,South Johnmouth,Large,Motors,78.2,2.71,22.0,2,0,45,Not Renewed,602.19,High,24,Renew
+SUP-01595,"Thompson, Grimes and Rodgers",Automotive,Port Todd,Medium,Transport Services,80.1,3.41,11.0,1,0,19,Renewed,938.33,High,48,Renew
+SUP-01596,Moody-Ashley,Logistics,South Julie,Medium,Motors,76.4,,17.0,2,0,31,Not Renewed,124.08,Medium,29,Terminate
+SUP-01597,Bishop-Carr,Chemicals,West Cory,Medium,Transport Services,69.6,1.95,19.0,0,0,20,Not Renewed,837.13,Medium,42,Renegotiate
+SUP-01598,Hill PLC,Chemicals,East Victoria,Large,Cleaning Agents,79.3,0.24,10.0,0,2,23,Renewed,247.06,Low,67,Renew
+SUP-01599,Rodriguez-Benjamin,Electronics,North Brandon,Medium,Chips,76.4,0.95,10.0,1,1,11,Renewed,766.93,High,22,Terminate
+SUP-01600,Ortiz-Ryan,Chemicals,East Raymondfurt,Medium,Vaccines,88.8,5.32,8.0,2,1,41,Renewed,400.03,High,38,Renew
+SUP-01601,"Daniel, Meza and Parker",Electronics,Johnsonburgh,Medium,Motors,90.1,5.56,4.0,1,0,38,Renewed,494.24,High,39,Renegotiate
+SUP-01602,"Chapman, Edwards and Evans",Automotive,Cardenashaven,Small,Transport Services,78.7,1.41,2.0,3,0,21,Renewed,391.94,Low,38,Renew
+SUP-01603,Briggs and Sons,Automotive,West Misty,Small,Vaccines,81.3,4.15,3.0,0,0,22,Renewed,640.45,Medium,29,Renegotiate
+SUP-01604,"Cook, Small and Roberts",Electronics,West Michael,Small,Cleaning Agents,70.2,3.83,1.0,2,0,22,Not Renewed,904.48,Medium,34,Renew
+SUP-01605,"Kemp, Mills and Webb",Chemicals,Jackside,Medium,Vaccines,79.6,1.75,5.0,2,1,26,Renewed,911.64,High,42,Renew
+SUP-01606,"Zamora, Stewart and Brown",Electronics,East Emmabury,Medium,Motors,89.3,,7.0,0,0,46,Not Renewed,760.59,High,59,Renew
+SUP-01607,Brown Ltd,Pharma,Rivasfurt,Medium,Cleaning Agents,82.7,3.24,5.0,1,0,8,Not Renewed,465.53,Low,32,Renegotiate
+SUP-01608,Pacheco Group,Logistics,Yeseniabury,Small,Vaccines,86.1,,8.0,2,1,10,Not Renewed,231.62,High,40,Renegotiate
+SUP-01609,Riggs-Bowen,Logistics,New Jeffrey,Small,Vaccines,79.3,4.68,19.0,2,1,17,Renewed,553.3,Medium,92,Renew
+SUP-01610,Carter PLC,Logistics,Patriciashire,Small,Chips,78.2,,1.0,0,0,34,Renewed,922.21,Low,58,Renew
+SUP-01611,Stewart-Hale,Electronics,South Kathrynside,Small,Cleaning Agents,87.6,4.14,6.0,0,1,20,Renewed,680.23,Medium,60,Renegotiate
+SUP-01612,Johnson-Jimenez,Chemicals,Port Davidfurt,Small,Motors,87.4,2.44,9.0,1,2,31,Renewed,570.47,Low,72,Renew
+SUP-01613,Hardin-Cruz,Electronics,Hernandezhaven,Large,Chips,91.4,,3.0,1,1,12,Renewed,512.38,Medium,83,Renew
+SUP-01614,Thompson PLC,Automotive,Vasquezfurt,Large,Chips,84.9,3.49,10.0,0,0,12,Renewed,787.91,High,55,Renew
+SUP-01615,Perry PLC,Electronics,New Kelseyside,Medium,Transport Services,,0.86,20.0,1,0,39,Not Renewed,74.21,Medium,36,Renegotiate
+SUP-01616,"Wilson, Baker and Robertson",Pharma,Mccannview,Small,Motors,85.2,3.29,8.0,0,0,28,Not Renewed,689.1,High,67,Renegotiate
+SUP-01617,"Munoz, Navarro and Rasmussen",Chemicals,New Andrea,Small,Motors,94.2,3.77,2.0,1,0,25,Renewed,784.03,Medium,64,Renegotiate
+SUP-01618,Robertson Inc,Electronics,Melanieside,Medium,Chips,79.2,5.4,9.0,1,0,17,Not Renewed,302.3,High,87,Renew
+SUP-01619,Watkins-Norris,Electronics,East Cameronshire,Large,Chips,83.6,1.92,10.0,1,0,41,Renewed,502.23,Medium,81,Terminate
+SUP-01620,Dorsey-Ellis,Automotive,Lake Davidfort,Small,Cleaning Agents,80.0,3.06,7.0,0,1,41,Not Renewed,438.59,Medium,59,Terminate
+SUP-01621,"Reed, Alvarado and Little",Electronics,Christopherview,Medium,Transport Services,75.1,0.83,11.0,1,2,40,Renewed,271.14,Low,27,Renegotiate
+SUP-01622,"Brown, Estrada and Jackson",Chemicals,East Debrabury,Medium,Chips,87.9,2.99,13.0,0,1,17,Not Renewed,184.73,High,48,Renew
+SUP-01623,Riley LLC,Automotive,Andersonburgh,Medium,Vaccines,93.1,2.11,5.0,1,1,23,Renewed,771.38,Low,15,Renegotiate
+SUP-01624,Ross PLC,Chemicals,Amandamouth,Small,Vaccines,,4.04,9.0,2,0,30,Not Renewed,604.59,High,65,Renew
+SUP-01625,Burton-Meyer,Logistics,Stephanieville,Large,Cleaning Agents,76.4,1.39,10.0,0,0,40,Renewed,73.42,High,23,Renew
+SUP-01626,Romero Group,Pharma,South Deborah,Large,Motors,79.0,3.11,23.0,1,0,41,Renewed,202.96,Medium,47,Renew
+SUP-01627,Lawrence-Garcia,Chemicals,Palmerstad,Medium,Vaccines,82.8,2.34,20.0,0,2,17,Renewed,616.67,Medium,85,Renew
+SUP-01628,"Dalton, Williams and Hayes",Logistics,Lake Gabriela,Small,Vaccines,75.1,3.32,,1,0,6,Not Renewed,125.23,Low,27,Renew
+SUP-01629,"Montoya, Clark and Smith",Chemicals,Lake Williamfort,Medium,Chips,68.6,1.76,3.0,2,0,46,Renewed,663.46,Medium,52,Renew
+SUP-01630,Roberts PLC,Electronics,North Elizabethton,Small,Motors,97.2,0.21,6.0,1,0,39,Not Renewed,933.54,Medium,75,Renegotiate
+SUP-01631,Smith-Hernandez,Automotive,North Elizabethfurt,Medium,Cleaning Agents,70.8,0.78,20.0,1,0,42,Renewed,929.52,Low,63,Renegotiate
+SUP-01632,"Brown, Lowe and Carter",Electronics,East Williamstad,Small,Cleaning Agents,70.3,2.93,24.0,0,1,16,Not Renewed,999.47,Medium,16,Renew
+SUP-01633,"Powell, Davis and Taylor",Automotive,Richardsport,Small,Motors,82.8,2.9,3.0,1,1,34,Not Renewed,943.09,High,40,Renegotiate
+SUP-01634,"Martin, Smith and Ferguson",Pharma,Joshuaside,Small,Vaccines,,1.32,2.0,2,0,39,Renewed,644.46,High,40,Renew
+SUP-01635,Howard-Poole,Logistics,Davidborough,Small,Chips,85.9,4.42,3.0,1,1,21,Renewed,63.32,Medium,55,Renegotiate
+SUP-01636,Brooks Ltd,Chemicals,Saraland,Small,Cleaning Agents,80.0,2.76,7.0,1,1,13,Renewed,696.29,High,35,Renew
+SUP-01637,Jones PLC,Logistics,South Ravenborough,Medium,Vaccines,84.8,3.55,7.0,1,0,45,Not Renewed,502.59,Medium,47,Renegotiate
+SUP-01638,Hicks-Nguyen,Logistics,Matthewfort,Medium,Cleaning Agents,86.0,0.78,6.0,1,1,31,Renewed,529.14,High,71,Renew
+SUP-01639,"Cox, Hunter and Harrison",Automotive,Sonyaport,Medium,Motors,87.6,3.07,14.0,0,2,37,Renewed,63.74,Medium,52,Renew
+SUP-01640,Herrera-Dillon,Electronics,Thomasmouth,Large,Cleaning Agents,110.4,0.25,11.0,0,1,40,Renewed,841.41,High,58,Renew
+SUP-01641,Brown-Brown,Logistics,East Katelynside,Large,Cleaning Agents,81.6,1.03,4.0,2,0,22,Not Renewed,206.42,Medium,58,Renegotiate
+SUP-01642,Galvan LLC,Automotive,West Johnhaven,Small,Motors,96.2,3.69,1.0,0,1,24,Renewed,695.06,Medium,62,Renegotiate
+SUP-01643,"Simon, Fischer and Walters",Chemicals,Pamelamouth,Large,Motors,83.5,6.4,17.0,0,1,33,Not Renewed,649.76,Low,67,Renew
+SUP-01644,Pittman-Thompson,Logistics,Thompsontown,Small,Transport Services,114.0,3.59,6.0,0,0,12,Not Renewed,545.07,Medium,12,Terminate
+SUP-01645,Peterson-Davies,Chemicals,New Melissa,Small,Motors,95.9,2.7,11.0,3,1,37,Renewed,435.65,Medium,20,Renegotiate
+SUP-01646,Taylor Group,Logistics,Port Carrie,Medium,Transport Services,85.5,4.94,7.0,1,1,43,Not Renewed,433.69,High,43,Renew
+SUP-01647,Gutierrez and Sons,Chemicals,Matthewville,Medium,Motors,70.1,0.83,5.0,1,0,45,Renewed,413.15,Medium,93,Renew
+SUP-01648,Love Inc,Automotive,East Phillip,Medium,Cleaning Agents,93.3,4.04,15.0,1,1,34,Not Renewed,929.7,High,76,Renegotiate
+SUP-01649,Davis-Young,Chemicals,Michelefort,Medium,Cleaning Agents,86.2,2.75,,2,0,30,Not Renewed,595.56,Low,51,Renew
+SUP-01650,"Pineda, Roberts and Mora",Chemicals,New Connie,Medium,Vaccines,87.9,4.22,6.0,1,0,36,Renewed,392.6,Low,11,Renegotiate
+SUP-01651,Jacobson-Davis,Logistics,Melissaland,Medium,Cleaning Agents,81.3,0.43,16.0,0,1,40,Not Renewed,482.4,High,78,Renegotiate
+SUP-01652,Williams-Mckenzie,Pharma,Reidchester,Medium,Motors,81.6,2.35,22.0,1,0,15,Not Renewed,854.79,Low,51,Renew
+SUP-01653,"Robinson, White and Carter",Pharma,Seanchester,Small,Motors,71.7,1.68,14.0,1,1,31,Renewed,546.84,Medium,88,Renegotiate
+SUP-01654,Banks and Sons,Automotive,Jonesside,Medium,Motors,76.7,3.25,5.0,1,0,38,Not Renewed,574.4,Medium,64,Renew
+SUP-01655,"Welch, Holloway and Barnes",Automotive,New Paulchester,Small,Chips,77.1,5.64,,1,1,30,Renewed,583.63,Low,43,Renew
+SUP-01656,"Hanna, Welch and Anthony",Logistics,New Maryport,Medium,Chips,59.1,3.61,11.0,1,0,15,Not Renewed,354.08,High,28,Renew
+SUP-01657,"Lambert, Perez and Walls",Electronics,Hallchester,Small,Vaccines,98.2,2.8,0.0,1,1,33,Renewed,757.28,Low,36,Renegotiate
+SUP-01658,"Glenn, Williams and Gray",Automotive,Lake Emmastad,Small,Motors,86.9,3.2,6.0,0,0,23,Not Renewed,446.09,Medium,46,Renew
+SUP-01659,"Lopez, Thompson and Mcclure",Electronics,New Scott,Medium,Cleaning Agents,80.2,2.36,11.0,0,1,35,Renewed,246.25,Low,94,Renegotiate
+SUP-01660,"Curtis, Higgins and Porter",Automotive,North Carlaview,Medium,Cleaning Agents,87.1,3.14,0.0,1,0,23,Renewed,903.5,High,89,Renew
+SUP-01661,"Johnson, Cohen and Mccoy",Pharma,Lake Elizabethfort,Medium,Motors,89.3,3.42,6.0,0,0,27,Not Renewed,35.12,Low,15,Renew
+SUP-01662,"Figueroa, Taylor and Stewart",Chemicals,West Adrian,Medium,Transport Services,102.9,1.33,11.0,1,1,45,Not Renewed,271.8,High,65,Renew
+SUP-01663,Jones PLC,Electronics,Warrenstad,Medium,Transport Services,69.2,1.18,22.0,1,0,44,Not Renewed,534.59,Medium,26,Renegotiate
+SUP-01664,"Powell, Davis and Weaver",Chemicals,East Jeffrey,Large,Motors,98.7,2.1,,3,1,36,Renewed,928.2,Low,59,Renegotiate
+SUP-01665,"Perry, White and Lewis",Logistics,Port Lynn,Large,Motors,59.3,5.01,17.0,0,1,19,Not Renewed,134.51,High,72,Terminate
+SUP-01666,Hill-Baldwin,Electronics,North Megan,Medium,Motors,59.0,2.28,19.0,1,0,27,Renewed,446.47,High,21,Renegotiate
+SUP-01667,Weber-Mcfarland,Logistics,Priceport,Small,Chips,65.4,0.52,14.0,2,0,44,Renewed,837.67,Medium,28,Renew
+SUP-01668,"Parker, Patton and Garcia",Pharma,Randallland,Small,Cleaning Agents,,4.25,0.0,4,1,28,Renewed,459.94,Medium,16,Renew
+SUP-01669,Rollins Group,Electronics,East Maryfort,Large,Cleaning Agents,89.8,,0.0,0,0,7,Renewed,873.81,High,21,Renew
+SUP-01670,"Ford, Stokes and Morgan",Electronics,Elizabethshire,Medium,Motors,115.0,6.14,6.0,1,1,29,Renewed,824.34,Low,80,Renew
+SUP-01671,"Collins, Lamb and Cohen",Electronics,Branditon,Medium,Transport Services,92.0,0.62,8.0,2,1,14,Renewed,423.21,Low,85,Renegotiate
+SUP-01672,"White, Rodriguez and Brown",Electronics,Danashire,Small,Transport Services,98.8,2.36,3.0,0,0,42,Not Renewed,639.28,High,67,Renegotiate
+SUP-01673,"Thompson, Potter and Higgins",Pharma,West Vickie,Small,Cleaning Agents,66.9,0.55,20.0,2,0,46,Renewed,861.72,Medium,59,Renegotiate
+SUP-01674,Mullins-Kim,Chemicals,New Seth,Medium,Motors,88.3,5.35,6.0,0,1,10,Renewed,993.42,Medium,72,Renegotiate
+SUP-01675,Charles-Young,Automotive,Cowanfurt,Medium,Chips,86.6,1.4,2.0,1,0,28,Renewed,82.3,High,75,Renew
+SUP-01676,"Carpenter, Blake and Smith",Automotive,New Marc,Medium,Motors,89.8,2.74,3.0,2,1,28,Not Renewed,604.07,Medium,40,Renew
+SUP-01677,Brooks-Gibson,Logistics,East Rickyshire,Medium,Motors,77.0,1.48,7.0,3,0,40,Renewed,239.72,Low,20,Terminate
+SUP-01678,Willis Group,Chemicals,Andersonshire,Medium,Cleaning Agents,72.2,2.11,17.0,1,0,35,Not Renewed,940.12,Medium,65,Renegotiate
+SUP-01679,"Ramos, Baxter and Jacobs",Electronics,Johnberg,Medium,Cleaning Agents,76.6,1.18,2.0,1,0,22,Not Renewed,179.6,High,63,Renew
+SUP-01680,Hahn-Sweeney,Chemicals,Tylerbury,Medium,Transport Services,65.6,2.17,8.0,1,0,24,Renewed,544.83,High,82,Renew
+SUP-01681,Shaffer and Sons,Chemicals,Austinstad,Small,Motors,77.0,3.47,21.0,2,0,46,Not Renewed,455.57,Medium,69,Renew
+SUP-01682,"Harvey, James and Campbell",Chemicals,Port Christopher,Small,Transport Services,88.7,3.42,8.0,1,1,20,Renewed,976.0,Medium,45,Renegotiate
+SUP-01683,Roman-Flores,Chemicals,Lake Colleenchester,Medium,Chips,81.3,1.5,1.0,1,0,35,Not Renewed,711.52,Medium,69,Renew
+SUP-01684,Calderon-Crawford,Automotive,Jeffreyfort,Medium,Motors,82.9,1.57,5.0,0,0,43,Not Renewed,674.28,Medium,26,Renew
+SUP-01685,Le-Medina,Automotive,Lake Bradleyfort,Medium,Cleaning Agents,83.2,4.61,4.0,1,0,23,Not Renewed,864.39,Medium,13,Renegotiate
+SUP-01686,Smith and Sons,Electronics,Micheleport,Small,Motors,92.3,4.15,12.0,1,1,13,Renewed,522.93,Medium,80,Renegotiate
+SUP-01687,"Simpson, Baker and Rich",Electronics,West Brandiville,Large,Vaccines,79.0,3.79,10.0,1,1,12,Renewed,288.19,High,37,Renew
+SUP-01688,Blair-Robles,Logistics,East Amandaburgh,Medium,Vaccines,81.8,3.32,6.0,0,1,17,Renewed,502.8,Medium,90,Renegotiate
+SUP-01689,Woodward-Collins,Electronics,Port Erinside,Medium,Cleaning Agents,102.2,1.89,10.0,1,1,13,Not Renewed,130.13,Low,31,Renew
+SUP-01690,Tran-Kelley,Chemicals,Mitchellberg,Medium,Transport Services,80.8,1.91,0.0,2,0,24,Not Renewed,125.44,Low,16,Terminate
+SUP-01691,"Winters, Allen and Cooper",Pharma,New Mariaville,Large,Vaccines,88.2,0.27,7.0,1,1,29,Not Renewed,953.84,High,56,Renegotiate
+SUP-01692,"Lewis, Hall and Thompson",Automotive,Staceytown,Large,Transport Services,83.2,0.2,15.0,1,1,38,Renewed,137.71,High,68,Renew
+SUP-01693,Martin and Sons,Electronics,South Stacietown,Medium,Transport Services,84.4,3.95,8.0,1,0,32,Renewed,20.45,Medium,32,Renew
+SUP-01694,Patel-Price,Pharma,Nolanmouth,Medium,Motors,79.0,2.1,9.0,0,1,42,Not Renewed,314.91,High,73,Renegotiate
+SUP-01695,Pierce LLC,Automotive,Danielland,Medium,Transport Services,93.7,3.68,19.0,3,0,47,Renewed,373.01,Medium,14,Renegotiate
+SUP-01696,Davis Ltd,Pharma,East Susanmouth,Large,Vaccines,76.4,0.27,7.0,2,0,16,Renewed,956.28,Medium,58,Renegotiate
+SUP-01697,Farmer Ltd,Pharma,Hansonport,Medium,Cleaning Agents,86.7,3.55,16.0,3,0,14,Renewed,288.67,High,39,Renegotiate
+SUP-01698,"Taylor, Martinez and Rocha",Chemicals,Danielmouth,Small,Vaccines,75.3,3.57,3.0,4,1,44,Renewed,331.82,Low,63,Renegotiate
+SUP-01699,"Lopez, Smith and Gonzales",Chemicals,East Lisa,Large,Transport Services,92.2,2.06,11.0,2,2,29,Renewed,45.24,High,92,Renew
+SUP-01700,Castro-Harrell,Chemicals,Greenfort,Small,Chips,66.0,2.62,4.0,0,1,43,Not Renewed,525.2,Medium,64,Renew
+SUP-01701,Johnson-Moore,Logistics,East Jamesbury,Medium,Motors,60.9,0.09,,0,0,25,Renewed,281.29,Medium,17,Renegotiate
+SUP-01702,Valencia Ltd,Pharma,Lake David,Medium,Chips,93.3,4.37,0.0,1,0,15,Renewed,196.01,Medium,85,Renew
+SUP-01703,Bailey-Williams,Logistics,East William,Medium,Vaccines,86.3,3.84,6.0,0,1,15,Not Renewed,12.57,High,53,Renew
+SUP-01704,Weaver Inc,Electronics,North Stevenshire,Medium,Transport Services,82.7,3.78,9.0,0,1,12,Renewed,736.07,Medium,33,Terminate
+SUP-01705,Parks Ltd,Electronics,New Ruth,Medium,Motors,85.5,1.1,9.0,1,0,10,Not Renewed,403.93,High,51,Renew
+SUP-01706,Hansen-Gordon,Automotive,North Priscillahaven,Medium,Vaccines,87.1,3.64,11.0,0,0,19,Renewed,452.78,High,66,Renew
+SUP-01707,Moreno-Harris,Logistics,Harpermouth,Medium,Transport Services,74.5,1.68,10.0,2,0,11,Renewed,829.26,High,43,Renew
+SUP-01708,Tanner Group,Automotive,Davisside,Small,Cleaning Agents,81.3,1.62,3.0,0,0,24,Renewed,162.3,Low,53,Renew
+SUP-01709,"Riley, Steele and Jimenez",Electronics,Port Elizabethton,Small,Cleaning Agents,92.5,4.83,3.0,0,0,27,Renewed,113.39,High,19,Terminate
+SUP-01710,Krause PLC,Logistics,West Rebeccaland,Medium,Chips,80.9,3.48,8.0,0,0,37,Renewed,949.43,Medium,61,Terminate
+SUP-01711,"Love, Jimenez and Glenn",Pharma,Hodgeborough,Medium,Motors,86.6,3.22,6.0,1,1,19,Renewed,443.0,High,91,Renegotiate
+SUP-01712,Allen-Nelson,Logistics,Lake Brendashire,Medium,Transport Services,98.0,2.82,9.0,0,0,27,Not Renewed,33.06,Medium,11,Terminate
+SUP-01713,Saunders Ltd,Electronics,Blackbury,Medium,Motors,83.7,3.91,10.0,0,0,15,Renewed,800.93,High,43,Terminate
+SUP-01714,"Chung, Rodriguez and Tate",Electronics,Alexburgh,Medium,Chips,82.4,2.59,,2,0,35,Not Renewed,213.33,Medium,31,Terminate
+SUP-01715,Dean-Russell,Logistics,Brittanymouth,Large,Vaccines,69.2,3.15,24.0,2,1,44,Renewed,93.57,Low,43,Renew
+SUP-01716,Dixon-Hays,Electronics,Ashleyshire,Medium,Vaccines,95.5,3.02,8.0,1,0,31,Renewed,245.14,Medium,59,Renegotiate
+SUP-01717,Gonzalez-Parker,Electronics,East Richard,Small,Motors,99.6,3.56,2.0,1,1,16,Not Renewed,134.47,Medium,83,Renew
+SUP-01718,"Hill, Chapman and Graham",Chemicals,Wilsonchester,Small,Transport Services,80.3,1.1,,1,0,27,Renewed,220.48,High,91,Renegotiate
+SUP-01719,Salas and Sons,Pharma,Port William,Large,Transport Services,89.5,4.07,,0,1,24,Renewed,951.55,Medium,87,Terminate
+SUP-01720,Jenkins Ltd,Logistics,East Kimberly,Medium,Motors,89.3,1.86,16.0,1,0,14,Not Renewed,875.88,High,70,Renegotiate
+SUP-01721,"Price, Smith and Castaneda",Chemicals,Port Mark,Small,Cleaning Agents,85.9,3.53,22.0,1,1,42,Renewed,630.71,Medium,20,Renegotiate
+SUP-01722,Howe-Jordan,Automotive,North Laurenburgh,Medium,Motors,85.1,2.45,2.0,0,0,36,Renewed,32.58,Medium,48,Renew
+SUP-01723,"Morrison, Reed and Fletcher",Logistics,Port Peterborough,Medium,Cleaning Agents,68.9,4.62,14.0,0,0,15,Renewed,503.14,Medium,85,Renegotiate
+SUP-01724,"Hanson, Frost and Cordova",Chemicals,West Jasmin,Medium,Cleaning Agents,111.7,1.49,17.0,0,0,10,Not Renewed,140.44,High,28,Terminate
+SUP-01725,King Inc,Automotive,New Denisemouth,Small,Cleaning Agents,80.4,0.85,5.0,2,0,42,Renewed,683.85,Low,23,Renegotiate
+SUP-01726,"Finley, Watson and Burnett",Logistics,East Joseph,Medium,Cleaning Agents,77.7,1.76,3.0,0,0,45,Not Renewed,262.1,Medium,50,Renew
+SUP-01727,Mueller and Sons,Logistics,Ruizberg,Small,Cleaning Agents,91.0,2.84,27.0,2,1,10,Not Renewed,813.87,High,72,Renew
+SUP-01728,Ponce Ltd,Logistics,South Kristinville,Small,Cleaning Agents,88.9,0.15,12.0,2,0,26,Renewed,43.65,Low,92,Renew
+SUP-01729,Johnson Inc,Electronics,Amandafort,Medium,Vaccines,93.6,3.44,,0,0,28,Not Renewed,667.17,Low,26,Renew
+SUP-01730,"Brown, Anderson and Robinson",Pharma,West Tonymouth,Medium,Chips,,1.13,14.0,0,1,44,Not Renewed,727.06,High,13,Renegotiate
+SUP-01731,Raymond Inc,Automotive,New Aaronmouth,Small,Vaccines,77.7,2.68,2.0,3,0,28,Renewed,506.07,High,84,Renew
+SUP-01732,Villegas-Carrillo,Pharma,West Timothy,Medium,Chips,88.2,3.75,5.0,1,2,8,Not Renewed,947.48,High,10,Renew
+SUP-01733,"Smith, Orr and Turner",Automotive,Roberttown,Medium,Transport Services,73.5,3.58,12.0,5,0,9,Renewed,27.39,Medium,36,Renegotiate
+SUP-01734,Marshall Inc,Pharma,Maciaschester,Medium,Vaccines,70.5,5.51,5.0,1,0,17,Renewed,814.95,High,86,Renew
+SUP-01735,Mendoza-Rodriguez,Chemicals,Angelamouth,Small,Transport Services,108.2,4.2,7.0,1,1,33,Not Renewed,763.86,High,53,Renegotiate
+SUP-01736,Kennedy-Jimenez,Automotive,North Katherine,Medium,Transport Services,85.6,4.0,13.0,1,0,11,Renewed,41.08,Medium,85,Renegotiate
+SUP-01737,Wood-Richard,Logistics,Johnnyville,Small,Chips,75.0,2.1,6.0,1,1,35,Renewed,321.46,Low,18,Renegotiate
+SUP-01738,"Joseph, Bailey and Davis",Automotive,Jenniferport,Small,Motors,99.6,2.93,0.0,0,0,27,Not Renewed,815.05,Medium,40,Renegotiate
+SUP-01739,Dorsey-Deleon,Automotive,East Pamela,Medium,Cleaning Agents,81.6,0.08,26.0,1,1,41,Renewed,586.24,Medium,13,Renew
+SUP-01740,Martinez-Gonzalez,Automotive,Lake Zacharymouth,Medium,Motors,86.3,2.48,1.0,0,0,31,Renewed,147.08,High,47,Renew
+SUP-01741,"Nolan, Wallace and Vaughan",Automotive,Priscillaton,Small,Transport Services,86.3,3.02,12.0,0,2,9,Renewed,565.87,Medium,64,Terminate
+SUP-01742,Maldonado LLC,Logistics,Port Angelicahaven,Small,Vaccines,91.6,3.04,32.0,1,0,10,Renewed,959.07,High,57,Renegotiate
+SUP-01743,"Nixon, Davis and Meadows",Chemicals,North Johnville,Large,Cleaning Agents,93.6,0.39,6.0,0,0,47,Not Renewed,259.56,Medium,75,Renegotiate
+SUP-01744,Thomas-Carpenter,Electronics,Lake Markview,Medium,Transport Services,88.2,0.72,3.0,0,0,10,Renewed,610.14,High,34,Renegotiate
+SUP-01745,Kelly-Kelly,Pharma,Keithberg,Small,Cleaning Agents,81.0,,5.0,0,0,20,Renewed,77.06,Medium,32,Terminate
+SUP-01746,"Prince, Anderson and Hill",Pharma,Kimberlybury,Small,Cleaning Agents,88.9,2.99,11.0,0,0,30,Not Renewed,294.0,Medium,43,Terminate
+SUP-01747,"Sanchez, Johnson and Gonzalez",Automotive,Rosalestown,Medium,Transport Services,95.9,1.82,10.0,0,0,21,Not Renewed,976.29,High,68,Renegotiate
+SUP-01748,White-Jones,Chemicals,Morganborough,Large,Motors,109.4,3.59,2.0,0,0,35,Not Renewed,846.29,Medium,90,Renew
+SUP-01749,Guzman-Sanchez,Automotive,Michaelshire,Medium,Vaccines,89.2,4.24,17.0,1,0,40,Not Renewed,367.04,Medium,21,Terminate
+SUP-01750,"Robinson, Morales and Anderson",Pharma,Port Lindatown,Small,Motors,78.3,2.14,23.0,2,0,9,Renewed,961.55,High,89,Renew
+SUP-01751,Perkins-Wilson,Logistics,Nicholechester,Medium,Chips,92.0,3.69,4.0,1,0,22,Not Renewed,581.91,High,47,Renegotiate
+SUP-01752,Gibson-Cole,Chemicals,Lake Annamouth,Medium,Chips,87.9,4.15,1.0,1,1,41,Not Renewed,258.13,Medium,40,Renegotiate
+SUP-01753,"Hendrix, Jones and Snow",Logistics,West Thomas,Small,Motors,69.7,3.57,3.0,1,0,21,Renewed,651.53,High,44,Renew
+SUP-01754,Mullins-Brown,Logistics,South Zacharyville,Medium,Vaccines,101.4,1.23,18.0,2,1,13,Not Renewed,230.62,High,85,Terminate
+SUP-01755,"Harrington, Norton and Lopez",Chemicals,Lake Sonya,Medium,Motors,88.5,3.4,7.0,0,0,6,Renewed,860.37,Medium,77,Terminate
+SUP-01756,"Haley, Hernandez and Perez",Electronics,South Carlos,Large,Chips,94.8,2.02,16.0,1,0,14,Renewed,587.06,High,92,Renegotiate
+SUP-01757,"Morris, Thomas and King",Electronics,Lake Gregory,Medium,Cleaning Agents,91.7,2.25,1.0,1,0,24,Not Renewed,997.81,Medium,10,Renegotiate
+SUP-01758,Farmer-Bennett,Logistics,North Nicolemouth,Large,Cleaning Agents,74.6,4.39,4.0,0,0,34,Renewed,781.41,High,79,Renew
+SUP-01759,"Orozco, Mason and James",Chemicals,Greenberg,Medium,Cleaning Agents,94.1,2.25,10.0,0,0,10,Not Renewed,41.62,Low,21,Renew
+SUP-01760,Stark-Ross,Automotive,North Jillianhaven,Large,Transport Services,85.0,3.3,1.0,0,0,35,Renewed,555.62,High,14,Renegotiate
+SUP-01761,"Smith, Rosales and Miller",Automotive,Kelleyport,Medium,Cleaning Agents,,3.17,10.0,0,1,12,Not Renewed,60.79,High,11,Renegotiate
+SUP-01762,Crane-Ingram,Electronics,Alexanderland,Small,Vaccines,76.0,0.24,17.0,0,0,18,Renewed,454.6,High,24,Renew
+SUP-01763,Harper-Martinez,Electronics,Stephenmouth,Medium,Cleaning Agents,,1.63,10.0,1,0,38,Renewed,499.5,Medium,65,Renegotiate
+SUP-01764,Beck LLC,Pharma,Deannafurt,Medium,Motors,105.8,,3.0,0,0,10,Renewed,535.78,High,29,Renegotiate
+SUP-01765,Morales-Garcia,Electronics,East Edwardland,Medium,Transport Services,77.4,0.26,4.0,4,0,17,Not Renewed,61.24,Medium,18,Renegotiate
+SUP-01766,Pierce Ltd,Chemicals,Georgeberg,Small,Motors,106.1,2.75,18.0,1,0,18,Not Renewed,971.8,High,36,Renew
+SUP-01767,Martinez Ltd,Chemicals,Erichaven,Small,Motors,85.4,2.88,1.0,0,1,28,Not Renewed,758.52,Medium,33,Renegotiate
+SUP-01768,Lambert Inc,Pharma,Lake Anthonyville,Large,Cleaning Agents,91.4,0.11,0.0,3,1,44,Renewed,458.64,Medium,81,Renew
+SUP-01769,Moore PLC,Logistics,Carlport,Large,Chips,70.8,2.74,19.0,1,0,21,Not Renewed,464.94,High,34,Renew
+SUP-01770,Warren-Ray,Electronics,South Cody,Medium,Motors,74.9,3.87,1.0,0,0,30,Renewed,113.33,High,40,Renegotiate
+SUP-01771,Moody LLC,Logistics,Lake Rodneyville,Large,Transport Services,86.7,4.39,8.0,1,0,33,Renewed,784.76,Medium,56,Terminate
+SUP-01772,Johnson-Williams,Pharma,Lake Theresa,Small,Cleaning Agents,104.1,0.98,11.0,4,0,30,Renewed,310.02,Low,53,Renew
+SUP-01773,Anderson-Jimenez,Logistics,Conradmouth,Small,Cleaning Agents,,1.53,1.0,0,1,19,Renewed,855.2,High,54,Renew
+SUP-01774,"York, Hernandez and Tucker",Pharma,South Georgehaven,Large,Vaccines,87.3,0.78,20.0,1,1,16,Renewed,123.11,Medium,93,Renew
+SUP-01775,Simpson LLC,Pharma,South Saratown,Medium,Transport Services,73.2,3.96,1.0,1,1,46,Renewed,428.51,Medium,87,Terminate
+SUP-01776,Bowman-Fox,Electronics,Waltermouth,Medium,Transport Services,78.6,2.19,11.0,1,1,20,Renewed,514.46,Low,67,Renegotiate
+SUP-01777,Sanchez Inc,Automotive,South Tiffanyside,Medium,Cleaning Agents,89.7,3.18,2.0,0,0,30,Renewed,578.48,Medium,61,Renew
+SUP-01778,Johnson LLC,Chemicals,Kellyside,Medium,Motors,67.7,4.35,3.0,1,0,41,Not Renewed,759.77,High,13,Renew
+SUP-01779,Gordon PLC,Electronics,Caldwellberg,Large,Transport Services,94.4,3.54,15.0,2,0,39,Not Renewed,25.87,Medium,36,Renegotiate
+SUP-01780,Chen LLC,Logistics,West Bradley,Small,Vaccines,90.9,3.66,2.0,0,0,45,Renewed,345.86,High,81,Renegotiate
+SUP-01781,"Dunn, Moore and Lynch",Automotive,Lake Dawn,Medium,Chips,82.1,1.37,5.0,2,1,10,Not Renewed,490.27,Medium,83,Renegotiate
+SUP-01782,Pugh-Castro,Automotive,North Luisborough,Medium,Transport Services,82.1,1.38,16.0,1,0,46,Renewed,347.2,High,11,Renew
+SUP-01783,Briggs Inc,Logistics,Blakemouth,Medium,Cleaning Agents,90.9,,5.0,0,0,44,Renewed,937.15,Medium,24,Renew
+SUP-01784,Smith Ltd,Electronics,Terrellchester,Medium,Motors,94.6,1.32,15.0,0,0,6,Renewed,228.45,Medium,74,Renegotiate
+SUP-01785,George-Chase,Electronics,Margaretview,Medium,Motors,92.3,2.49,3.0,0,1,29,Renewed,214.05,Medium,48,Renew
+SUP-01786,"Hendricks, Steele and Pitts",Automotive,West Crystal,Small,Vaccines,100.5,2.15,22.0,1,1,41,Renewed,936.23,Low,28,Renew
+SUP-01787,Velazquez Group,Chemicals,Sherrifurt,Small,Transport Services,87.3,2.95,26.0,1,0,17,Not Renewed,815.22,Medium,43,Terminate
+SUP-01788,Evans-Allen,Chemicals,Lake Todd,Large,Chips,61.1,1.01,7.0,1,0,22,Not Renewed,55.65,Medium,48,Renegotiate
+SUP-01789,Juarez-Solis,Logistics,Crosstown,Medium,Vaccines,,2.7,5.0,2,1,15,Renewed,758.65,High,20,Renew
+SUP-01790,Wagner PLC,Electronics,Mccallshire,Small,Motors,79.1,2.36,8.0,0,0,9,Renewed,838.14,High,68,Renegotiate
+SUP-01791,Whitaker Group,Electronics,Burchfort,Medium,Motors,93.5,1.84,10.0,3,0,34,Not Renewed,667.2,High,27,Renegotiate
+SUP-01792,Daniels Inc,Automotive,Kochview,Small,Cleaning Agents,76.0,2.41,13.0,1,1,10,Not Renewed,656.61,Medium,17,Renew
+SUP-01793,Mendez-Henry,Pharma,New Joseph,Large,Motors,85.3,1.42,6.0,1,0,11,Renewed,368.9,Medium,34,Terminate
+SUP-01794,Johnson-Fernandez,Logistics,Laurenstad,Small,Motors,79.3,0.68,11.0,0,0,12,Not Renewed,959.77,Medium,27,Renew
+SUP-01795,Graves-Malone,Automotive,North Gary,Large,Vaccines,73.4,3.84,6.0,0,0,32,Renewed,183.27,High,92,Renew
+SUP-01796,Adams Ltd,Electronics,Sarahside,Large,Transport Services,79.9,2.57,6.0,2,0,26,Not Renewed,682.79,High,10,Renew
+SUP-01797,"Soto, Page and Turner",Logistics,South Amy,Large,Motors,84.6,0.44,5.0,0,0,23,Not Renewed,926.11,Medium,37,Renew
+SUP-01798,Wade-Williams,Pharma,Pamelamouth,Medium,Chips,101.4,0.51,2.0,1,0,15,Not Renewed,628.28,High,80,Renew
+SUP-01799,"Smith, Espinoza and Patterson",Logistics,Josephton,Large,Transport Services,80.5,2.87,6.0,1,0,28,Renewed,962.51,Medium,52,Renew
+SUP-01800,Gutierrez-Snyder,Electronics,North Josephborough,Small,Motors,75.5,0.75,27.0,2,0,17,Renewed,923.81,Medium,60,Renew
+SUP-01801,Moran Ltd,Logistics,Davidmouth,Medium,Chips,87.8,0.86,1.0,1,0,38,Not Renewed,761.84,Low,45,Renegotiate
+SUP-01802,Ross-Huynh,Logistics,South Amber,Medium,Cleaning Agents,84.1,4.1,6.0,5,0,43,Renewed,652.1,Low,35,Renew
+SUP-01803,Martinez Group,Automotive,Lauratown,Large,Motors,98.6,3.28,4.0,0,1,16,Renewed,409.08,High,26,Renew
+SUP-01804,Goodwin and Sons,Logistics,New Kevintown,Medium,Cleaning Agents,74.5,1.35,10.0,0,0,43,Renewed,541.96,Medium,12,Terminate
+SUP-01805,"Hoffman, Stewart and Snyder",Chemicals,Juanchester,Medium,Transport Services,83.7,3.4,19.0,1,0,27,Not Renewed,78.37,High,87,Terminate
+SUP-01806,Mcknight Ltd,Logistics,Port Scottburgh,Small,Transport Services,84.8,2.43,11.0,1,0,35,Not Renewed,270.88,Medium,80,Renew
+SUP-01807,"Santos, Maddox and Strickland",Pharma,Lisaburgh,Medium,Cleaning Agents,97.9,4.27,1.0,1,0,31,Not Renewed,583.5,High,84,Renew
+SUP-01808,Harris-Fisher,Chemicals,East Evelyn,Medium,Transport Services,81.1,3.53,14.0,0,0,32,Not Renewed,821.96,High,44,Terminate
+SUP-01809,"Valencia, Foster and Walker",Chemicals,West Michaelton,Medium,Cleaning Agents,71.4,4.9,4.0,0,0,15,Renewed,535.32,Medium,44,Renew
+SUP-01810,"Nash, Bradshaw and Perez",Electronics,North Susanburgh,Medium,Chips,80.8,3.02,12.0,1,0,25,Renewed,702.06,High,92,Renegotiate
+SUP-01811,Hayes Inc,Logistics,East Christine,Large,Chips,96.0,2.69,0.0,2,0,21,Renewed,282.49,Medium,20,Renegotiate
+SUP-01812,Cox and Sons,Pharma,New Tanyaland,Medium,Vaccines,88.4,2.23,5.0,2,0,26,Renewed,519.97,Medium,94,Terminate
+SUP-01813,Elliott-Welch,Chemicals,Lake Luistown,Large,Transport Services,96.3,0.57,5.0,1,0,26,Renewed,207.59,High,45,Renew
+SUP-01814,Kim Inc,Electronics,Port John,Medium,Motors,85.3,1.22,15.0,2,1,35,Renewed,843.2,Medium,93,Renegotiate
+SUP-01815,Lopez-Wood,Logistics,Johnborough,Small,Chips,97.1,0.66,1.0,0,0,41,Renewed,741.28,Medium,61,Renegotiate
+SUP-01816,Wade-Harper,Logistics,New Lisa,Small,Cleaning Agents,86.2,2.06,12.0,2,1,34,Not Renewed,315.42,High,82,Renew
+SUP-01817,Nichols-Jackson,Chemicals,Port Johnshire,Small,Cleaning Agents,92.7,2.88,1.0,1,1,8,Renewed,801.93,High,27,Renew
+SUP-01818,"Murphy, Cochran and Kelley",Electronics,South Carrie,Large,Cleaning Agents,92.2,0.21,13.0,0,0,20,Renewed,671.52,Medium,63,Renegotiate
+SUP-01819,"Marshall, Barber and Hamilton",Automotive,East Eric,Medium,Vaccines,82.8,3.06,13.0,1,0,15,Not Renewed,526.41,Medium,14,Renew
+SUP-01820,"Thomas, Miles and Jones",Pharma,New Jennifer,Large,Chips,76.3,2.1,13.0,1,0,26,Not Renewed,817.3,High,63,Renegotiate
+SUP-01821,Boyle-Carson,Pharma,South Sophiafurt,Medium,Vaccines,79.6,2.17,27.0,1,0,36,Not Renewed,109.14,High,66,Renew
+SUP-01822,Adkins PLC,Logistics,North Jasonburgh,Large,Motors,82.6,2.1,9.0,0,1,23,Not Renewed,59.13,High,42,Renew
+SUP-01823,Stout-Oconnell,Pharma,South Kelly,Large,Motors,104.3,1.42,0.0,0,1,37,Not Renewed,182.11,Medium,94,Renew
+SUP-01824,Nelson-Stanley,Logistics,Willishaven,Medium,Cleaning Agents,,,1.0,0,0,15,Not Renewed,25.98,Medium,59,Terminate
+SUP-01825,Bond-Hernandez,Automotive,Anthonyshire,Medium,Cleaning Agents,84.1,1.73,16.0,1,0,21,Not Renewed,522.24,Medium,64,Renegotiate
+SUP-01826,Johnson Ltd,Automotive,West Amyberg,Small,Vaccines,74.0,3.57,2.0,2,0,28,Not Renewed,915.99,Low,35,Renegotiate
+SUP-01827,Miller-Hahn,Electronics,Lake Zacharychester,Small,Cleaning Agents,86.1,1.8,2.0,1,0,14,Renewed,427.13,High,44,Renegotiate
+SUP-01828,Dunn Inc,Electronics,Melissaland,Medium,Motors,61.3,4.94,19.0,3,0,7,Renewed,847.86,Medium,87,Renew
+SUP-01829,"Martinez, Robbins and Myers",Logistics,Christophermouth,Medium,Cleaning Agents,73.2,0.9,1.0,0,0,37,Not Renewed,113.92,Medium,53,Renegotiate
+SUP-01830,Barnes-Huang,Automotive,Hansonmouth,Small,Vaccines,86.5,0.92,19.0,0,2,16,Renewed,848.34,Low,27,Renegotiate
+SUP-01831,"Cummings, Wu and Ramirez",Chemicals,Michaelside,Medium,Chips,79.0,2.78,3.0,1,1,26,Renewed,534.15,High,75,Renegotiate
+SUP-01832,Decker-Zimmerman,Electronics,Port Kimberly,Large,Transport Services,90.2,2.16,1.0,0,1,18,Renewed,417.75,High,31,Renew
+SUP-01833,Carter LLC,Pharma,Christinafort,Medium,Motors,92.4,0.8,16.0,1,0,9,Not Renewed,765.5,Medium,71,Renegotiate
+SUP-01834,"Martinez, Henderson and Frank",Chemicals,Debramouth,Medium,Motors,92.5,6.6,8.0,2,0,29,Not Renewed,369.29,High,36,Renegotiate
+SUP-01835,Phillips Ltd,Chemicals,Davisberg,Medium,Transport Services,78.5,4.65,5.0,0,1,38,Renewed,821.06,Medium,35,Terminate
+SUP-01836,"Garcia, Meyer and Chandler",Pharma,Erinport,Medium,Cleaning Agents,85.8,2.5,13.0,0,1,6,Not Renewed,278.94,High,42,Renew
+SUP-01837,Peters Inc,Chemicals,North Barbara,Large,Transport Services,73.4,1.46,,1,0,19,Renewed,401.08,High,91,Renew
+SUP-01838,Fleming PLC,Electronics,Mitchellshire,Medium,Cleaning Agents,79.3,0.22,8.0,0,0,8,Not Renewed,625.9,Medium,87,Renegotiate
+SUP-01839,Mullen PLC,Logistics,West Arthur,Medium,Chips,76.8,1.69,18.0,0,1,22,Not Renewed,493.91,Low,50,Renew
+SUP-01840,"Wilson, Lara and Johnson",Chemicals,Edwardsberg,Small,Transport Services,93.6,0.77,8.0,0,2,21,Not Renewed,458.64,Medium,11,Renew
+SUP-01841,David Ltd,Automotive,Rhodeston,Medium,Motors,76.6,4.09,19.0,0,0,23,Renewed,229.77,Low,73,Renegotiate
+SUP-01842,Figueroa-Alexander,Automotive,Joshuaside,Small,Transport Services,77.6,1.75,6.0,1,1,36,Renewed,489.49,Low,23,Terminate
+SUP-01843,Knight and Sons,Electronics,Claytonburgh,Small,Transport Services,82.4,2.02,7.0,2,0,22,Renewed,855.84,High,55,Renegotiate
+SUP-01844,Hendrix Ltd,Pharma,Johnborough,Medium,Transport Services,89.6,3.14,13.0,0,1,39,Not Renewed,890.54,Low,56,Renegotiate
+SUP-01845,Chavez-Oconnell,Logistics,South Brycebury,Medium,Motors,77.1,2.45,12.0,3,0,12,Renewed,468.72,High,45,Renegotiate
+SUP-01846,Butler Inc,Chemicals,Port Jeanetteton,Small,Vaccines,98.8,5.48,2.0,1,1,6,Not Renewed,620.49,Low,91,Renew
+SUP-01847,"Gallegos, Joyce and Rodriguez",Pharma,East Paultown,Medium,Cleaning Agents,77.4,2.36,8.0,1,0,20,Renewed,543.91,Low,14,Renew
+SUP-01848,"Thomas, Bender and Medina",Pharma,Lake Richardview,Medium,Vaccines,93.0,5.22,2.0,1,2,46,Renewed,503.98,Low,57,Renew
+SUP-01849,"Clark, Burnett and Booker",Logistics,Sethville,Medium,Cleaning Agents,100.0,0.21,2.0,0,0,45,Renewed,983.74,High,76,Renew
+SUP-01850,"Rice, Stark and Stone",Logistics,Zacharychester,Medium,Vaccines,92.1,2.36,8.0,2,1,30,Not Renewed,566.48,High,69,Renew
+SUP-01851,Hughes-Webster,Pharma,Williamsport,Medium,Chips,65.8,4.51,15.0,1,2,39,Renewed,950.69,Medium,14,Renegotiate
+SUP-01852,Cole-Powers,Automotive,Walkerside,Small,Motors,87.0,3.09,6.0,2,0,7,Renewed,975.57,Medium,12,Renegotiate
+SUP-01853,Reyes-Mack,Electronics,Baileybury,Medium,Chips,75.2,1.75,4.0,0,0,8,Not Renewed,44.3,Medium,59,Renew
+SUP-01854,Ellis LLC,Pharma,Jacquelineport,Small,Cleaning Agents,81.1,6.12,5.0,0,1,9,Renewed,200.48,High,52,Renew
+SUP-01855,Morris Group,Electronics,Jacksontown,Large,Chips,,1.93,4.0,1,0,12,Renewed,247.63,High,62,Terminate
+SUP-01856,Nichols-Fox,Logistics,North Jordanfort,Medium,Vaccines,95.6,,10.0,4,0,44,Renewed,533.52,Medium,74,Renegotiate
+SUP-01857,Ford PLC,Pharma,Phillipsmouth,Medium,Cleaning Agents,94.8,5.0,24.0,0,1,45,Renewed,620.58,High,40,Renegotiate
+SUP-01858,"Gonzalez, Scott and Anderson",Pharma,West Steven,Medium,Motors,85.5,2.58,4.0,2,1,10,Not Renewed,178.47,Low,87,Renew
+SUP-01859,"Stewart, Price and Robinson",Electronics,Owensside,Small,Chips,89.6,1.73,5.0,2,1,17,Renewed,933.39,Medium,40,Renew
+SUP-01860,Brown Ltd,Logistics,Sandrafort,Large,Motors,,2.49,30.0,1,0,39,Renewed,403.89,High,79,Renew
+SUP-01861,Williams Inc,Logistics,Port Robert,Medium,Vaccines,,2.26,4.0,0,1,45,Not Renewed,611.21,Low,37,Renew
+SUP-01862,Barnes and Sons,Pharma,Johnshire,Small,Motors,91.7,3.03,14.0,0,2,29,Not Renewed,802.64,High,11,Terminate
+SUP-01863,Weber Ltd,Logistics,New Kathleenmouth,Medium,Vaccines,82.8,1.3,12.0,0,1,38,Renewed,85.2,Medium,60,Renew
+SUP-01864,"Gonzales, Le and Thompson",Chemicals,Danielhaven,Small,Transport Services,85.1,2.37,6.0,0,1,10,Renewed,888.73,High,18,Terminate
+SUP-01865,"Wilcox, Flores and Ramirez",Automotive,Mirandaside,Small,Transport Services,89.1,3.52,1.0,1,0,8,Not Renewed,316.93,Low,72,Renew
+SUP-01866,"Taylor, Drake and Bond",Electronics,Christopherville,Medium,Cleaning Agents,80.3,3.32,7.0,0,0,28,Renewed,461.99,Medium,54,Renegotiate
+SUP-01867,Kaufman Group,Pharma,Nancyside,Large,Transport Services,96.9,3.67,36.0,1,1,17,Renewed,545.55,High,80,Renew
+SUP-01868,Potter-Hall,Electronics,Howardton,Medium,Cleaning Agents,95.4,1.6,18.0,1,1,35,Not Renewed,749.34,High,83,Renew
+SUP-01869,Kelly-Tran,Automotive,Gibsonville,Medium,Transport Services,94.1,1.64,7.0,2,1,38,Renewed,42.37,Medium,52,Terminate
+SUP-01870,Key-Brooks,Automotive,Banksborough,Large,Cleaning Agents,,1.13,7.0,0,0,44,Not Renewed,151.83,Medium,63,Renew
+SUP-01871,"Smith, Dominguez and Dixon",Pharma,Bridgetbury,Small,Chips,98.5,2.71,,1,0,36,Not Renewed,239.07,Medium,69,Terminate
+SUP-01872,"Austin, Owens and Griffith",Chemicals,Stephenfurt,Large,Motors,81.0,1.74,21.0,2,1,7,Not Renewed,244.53,Low,22,Renegotiate
+SUP-01873,"Brown, Whitaker and Williams",Pharma,East Johnburgh,Medium,Vaccines,98.0,3.75,3.0,2,1,18,Renewed,870.17,High,73,Terminate
+SUP-01874,Holland PLC,Logistics,North Troy,Medium,Cleaning Agents,84.7,0.7,5.0,2,0,6,Not Renewed,15.45,Medium,14,Renegotiate
+SUP-01875,Russell LLC,Electronics,Chanchester,Small,Transport Services,89.8,1.51,,1,0,32,Not Renewed,993.47,Low,92,Renew
+SUP-01876,"Shah, Shelton and Graham",Automotive,Michaelburgh,Medium,Transport Services,85.7,5.37,3.0,1,0,14,Renewed,844.77,High,50,Renew
+SUP-01877,Young and Sons,Logistics,East Tylerhaven,Medium,Motors,95.2,1.56,6.0,0,0,29,Not Renewed,870.69,Medium,71,Renegotiate
+SUP-01878,Johnson Ltd,Electronics,West Tanya,Medium,Motors,85.6,3.81,18.0,1,0,37,Not Renewed,387.28,Medium,87,Terminate
+SUP-01879,Price-Sharp,Pharma,Newtonfurt,Medium,Vaccines,82.2,0.52,15.0,1,1,41,Not Renewed,82.51,Low,86,Renegotiate
+SUP-01880,Pope-Brewer,Electronics,Leslieside,Large,Chips,92.5,3.15,16.0,0,0,25,Renewed,559.95,High,60,Terminate
+SUP-01881,"Cordova, Moreno and Barker",Logistics,Port Mikayla,Medium,Vaccines,74.5,3.31,8.0,0,1,21,Not Renewed,674.08,Medium,16,Renew
+SUP-01882,"Lopez, Howard and Page",Electronics,Laurafort,Medium,Transport Services,95.0,1.29,12.0,1,0,47,Renewed,585.35,Medium,39,Renew
+SUP-01883,Moran-Byrd,Pharma,South Tiffany,Small,Cleaning Agents,92.8,2.9,,1,1,15,Not Renewed,399.06,High,27,Renew
+SUP-01884,Berry and Sons,Electronics,Roseburgh,Large,Chips,70.3,1.49,21.0,1,1,40,Not Renewed,706.22,High,68,Renew
+SUP-01885,Chen Ltd,Automotive,Bergchester,Small,Motors,96.8,2.67,9.0,0,1,20,Renewed,571.04,Medium,14,Renegotiate
+SUP-01886,"Carpenter, Morgan and Nichols",Pharma,Port Richard,Large,Chips,96.6,3.05,1.0,0,1,13,Renewed,687.06,High,16,Renew
+SUP-01887,"Lopez, White and Patton",Logistics,Mendezchester,Small,Transport Services,72.3,1.05,,0,1,34,Renewed,497.04,High,62,Renew
+SUP-01888,Williamson Ltd,Electronics,Lindabury,Small,Vaccines,79.6,4.59,0.0,0,0,21,Not Renewed,202.64,High,25,Renew
+SUP-01889,"Thomas, Goodman and Clarke",Electronics,South Beckyshire,Medium,Transport Services,93.1,0.1,9.0,0,1,30,Renewed,836.16,Low,58,Renegotiate
+SUP-01890,Hernandez-Payne,Logistics,Lake Victorstad,Medium,Chips,78.5,2.91,4.0,1,0,42,Not Renewed,208.73,Medium,42,Renew
+SUP-01891,James-Hall,Electronics,Lisachester,Medium,Transport Services,70.6,,0.0,3,0,25,Not Renewed,537.65,Medium,23,Renew
+SUP-01892,"Weaver, Owens and Carter",Pharma,Lake Tracystad,Medium,Transport Services,93.3,1.02,4.0,0,0,13,Renewed,290.82,Low,19,Renew
+SUP-01893,Berger LLC,Electronics,South Cherylfort,Small,Vaccines,90.5,3.13,6.0,0,0,7,Not Renewed,507.4,High,15,Renew
+SUP-01894,"Houston, Mitchell and Harris",Automotive,Fisherport,Small,Chips,95.8,1.33,15.0,0,1,25,Renewed,516.59,High,66,Renew
+SUP-01895,"Campbell, Page and Frank",Electronics,West Rebeccafort,Medium,Vaccines,92.7,0.08,7.0,2,0,33,Renewed,109.64,High,29,Renew
+SUP-01896,Smith-Powell,Chemicals,New Christine,Medium,Motors,81.7,2.8,,2,0,35,Renewed,505.67,High,18,Renew
+SUP-01897,Thompson LLC,Pharma,Port Michaelstad,Medium,Vaccines,77.9,1.25,8.0,0,1,20,Not Renewed,379.57,High,31,Renew
+SUP-01898,Reed Group,Pharma,Luketown,Small,Cleaning Agents,70.5,1.26,5.0,0,0,46,Not Renewed,735.13,Medium,80,Renew
+SUP-01899,"Melton, Dunlap and Hull",Automotive,Anitashire,Medium,Cleaning Agents,86.0,4.2,8.0,2,1,6,Renewed,646.83,High,50,Renew
+SUP-01900,Smith and Sons,Pharma,Port Veronicafurt,Medium,Transport Services,83.9,3.32,2.0,0,0,47,Not Renewed,774.4,High,49,Renew
+SUP-01901,Moody Group,Automotive,New Maureenburgh,Small,Motors,83.5,1.97,5.0,0,0,15,Not Renewed,797.48,Medium,61,Renegotiate
+SUP-01902,Martinez and Sons,Automotive,Myersside,Medium,Chips,95.3,2.54,3.0,1,0,10,Not Renewed,124.6,Low,15,Renegotiate
+SUP-01903,Stokes Inc,Automotive,Hullmouth,Medium,Cleaning Agents,64.4,1.91,4.0,0,0,6,Renewed,866.27,Medium,69,Renew
+SUP-01904,"Salas, Rhodes and Thompson",Logistics,South Jennifer,Medium,Cleaning Agents,97.0,4.37,,0,1,9,Renewed,669.49,Low,63,Renegotiate
+SUP-01905,Stewart Group,Pharma,Carolynburgh,Medium,Transport Services,84.7,4.25,0.0,2,2,32,Renewed,200.31,High,38,Renew
+SUP-01906,Allen Inc,Chemicals,Port Anna,Medium,Cleaning Agents,95.3,1.65,15.0,0,0,22,Not Renewed,593.87,High,61,Renegotiate
+SUP-01907,Lamb LLC,Pharma,Simonfurt,Medium,Chips,85.8,3.06,9.0,3,0,9,Not Renewed,71.52,High,34,Renew
+SUP-01908,Rollins Ltd,Pharma,Amandatown,Small,Cleaning Agents,90.1,1.44,5.0,0,0,44,Not Renewed,411.48,High,20,Renegotiate
+SUP-01909,Owen-Weber,Automotive,New Elizabeth,Small,Cleaning Agents,86.2,2.9,1.0,1,1,35,Not Renewed,694.2,Medium,22,Renew
+SUP-01910,"Robinson, Russo and Powell",Logistics,East Kevin,Medium,Motors,90.4,1.05,,2,0,45,Renewed,80.12,Medium,66,Terminate
+SUP-01911,"Curry, Young and Levy",Pharma,New Douglas,Large,Vaccines,78.1,2.38,3.0,2,0,14,Renewed,361.35,Low,11,Renew
+SUP-01912,"Wagner, Smith and Jackson",Pharma,Lake Danielhaven,Medium,Transport Services,68.1,1.07,19.0,0,0,16,Not Renewed,845.55,Medium,80,Renegotiate
+SUP-01913,Clark-Ford,Pharma,East Allen,Medium,Vaccines,95.4,1.83,4.0,3,1,39,Renewed,928.64,Medium,92,Renegotiate
+SUP-01914,"Krause, Byrd and Schmidt",Pharma,Moralesmouth,Small,Cleaning Agents,77.3,2.37,12.0,1,0,19,Renewed,814.73,Medium,46,Renegotiate
+SUP-01915,"Anthony, Padilla and Riley",Automotive,West Christinaburgh,Small,Vaccines,83.7,3.4,,1,1,24,Renewed,671.65,Low,31,Renew
+SUP-01916,Higgins and Sons,Pharma,Cantushire,Medium,Cleaning Agents,64.6,1.87,9.0,1,1,13,Not Renewed,840.11,Medium,82,Renew
+SUP-01917,Barnett Ltd,Chemicals,Hillview,Medium,Transport Services,83.3,0.12,10.0,0,1,21,Not Renewed,536.3,Medium,86,Renew
+SUP-01918,Daniels-Berry,Logistics,Curtisberg,Small,Vaccines,88.0,2.85,12.0,3,0,21,Renewed,995.16,High,49,Renew
+SUP-01919,Tran Inc,Automotive,South Paulaburgh,Medium,Vaccines,83.3,1.44,8.0,1,0,12,Renewed,932.37,High,33,Renegotiate
+SUP-01920,Lang and Sons,Logistics,New Williammouth,Medium,Motors,91.3,3.95,7.0,1,0,33,Not Renewed,849.29,Medium,28,Renew
+SUP-01921,Chang PLC,Automotive,Andrewmouth,Medium,Motors,80.9,3.62,,0,0,40,Not Renewed,477.24,High,32,Renew
+SUP-01922,"Waller, Collins and Hawkins",Electronics,Christopherborough,Medium,Cleaning Agents,81.1,1.19,8.0,1,0,13,Renewed,170.65,Medium,92,Renegotiate
+SUP-01923,"Mills, Dominguez and Brewer",Automotive,North Elizabeth,Large,Cleaning Agents,76.8,3.37,12.0,0,0,47,Not Renewed,854.73,Low,86,Renew
+SUP-01924,Ramos and Sons,Pharma,Lake Troyshire,Small,Transport Services,70.2,3.63,3.0,0,1,20,Not Renewed,165.61,High,42,Renew
+SUP-01925,"Cole, Kirk and Miranda",Automotive,Davidbury,Medium,Transport Services,76.7,3.08,2.0,2,0,40,Not Renewed,495.73,Medium,47,Renew
+SUP-01926,"Vazquez, Goodwin and Stewart",Logistics,Roseside,Large,Cleaning Agents,68.3,2.99,2.0,0,0,44,Not Renewed,676.27,Medium,21,Renew
+SUP-01927,"Lee, Bauer and Clark",Chemicals,Gilesport,Large,Vaccines,95.0,,14.0,0,0,16,Not Renewed,110.63,Medium,61,Renew
+SUP-01928,"Rice, Hernandez and Richards",Automotive,Heatherville,Small,Cleaning Agents,76.5,0.52,3.0,0,0,25,Not Renewed,936.54,Low,38,Renegotiate
+SUP-01929,Smith PLC,Automotive,Lake Wendyville,Small,Transport Services,83.6,,9.0,1,0,42,Renewed,567.64,High,62,Renegotiate
+SUP-01930,Ray PLC,Electronics,Port Kevinport,Small,Chips,82.5,1.96,8.0,1,0,25,Renewed,46.77,Medium,64,Renew
+SUP-01931,Cooper and Sons,Electronics,Dwaynehaven,Medium,Chips,96.0,0.36,23.0,1,0,40,Not Renewed,662.03,High,59,Renegotiate
+SUP-01932,Chen-Castro,Electronics,Susanfurt,Medium,Chips,73.8,3.06,15.0,7,0,29,Renewed,251.24,High,48,Renew
+SUP-01933,Hernandez-Smith,Electronics,Walterschester,Medium,Cleaning Agents,87.5,6.41,3.0,0,1,36,Not Renewed,217.73,Low,12,Renegotiate
+SUP-01934,"Porter, Owens and Fisher",Logistics,Kathyburgh,Small,Motors,78.7,1.68,13.0,2,0,35,Not Renewed,828.02,High,75,Renew
+SUP-01935,Mahoney PLC,Electronics,Lake Madeline,Large,Cleaning Agents,73.5,3.31,1.0,0,1,36,Renewed,219.29,Medium,12,Renegotiate
+SUP-01936,"Jarvis, Thompson and Johnson",Chemicals,Port Johnville,Medium,Transport Services,69.5,4.7,2.0,1,2,7,Not Renewed,232.1,High,73,Renegotiate
+SUP-01937,"Price, Austin and Morales",Automotive,Jamesfort,Medium,Motors,88.1,2.59,1.0,2,0,43,Renewed,792.35,High,73,Renegotiate
+SUP-01938,Martinez PLC,Chemicals,Carterville,Small,Chips,89.7,2.83,1.0,0,0,18,Not Renewed,973.93,Low,41,Renew
+SUP-01939,Butler-Turner,Automotive,Shanestad,Large,Transport Services,84.6,3.47,7.0,6,0,46,Renewed,641.01,Medium,51,Renegotiate
+SUP-01940,Guzman-Bush,Logistics,Carlosmouth,Medium,Cleaning Agents,85.4,3.44,10.0,1,1,8,Renewed,688.29,Low,85,Renegotiate
+SUP-01941,"Dean, Howell and Orr",Logistics,East Joel,Small,Transport Services,88.5,1.66,4.0,0,1,37,Not Renewed,625.65,Low,79,Renew
+SUP-01942,Jones Ltd,Logistics,Port Rhondabury,Medium,Vaccines,70.7,4.74,4.0,2,1,20,Renewed,777.21,High,87,Renew
+SUP-01943,Thornton-Ortega,Chemicals,Morrisonstad,Medium,Transport Services,69.4,2.75,9.0,3,0,9,Not Renewed,331.91,Medium,53,Renew
+SUP-01944,Jimenez-Martin,Chemicals,Chavezton,Medium,Cleaning Agents,77.7,,7.0,1,0,31,Renewed,292.79,Medium,69,Renegotiate
+SUP-01945,"Turner, Johnston and Shepherd",Chemicals,Lake Jonathan,Large,Motors,81.5,2.85,6.0,0,1,30,Not Renewed,127.92,Low,10,Renegotiate
+SUP-01946,"Clayton, English and Wade",Chemicals,Johnsonshire,Large,Cleaning Agents,82.4,2.48,22.0,1,0,43,Renewed,956.93,High,22,Terminate
+SUP-01947,Sullivan-Baker,Logistics,Morgantown,Large,Motors,76.6,2.16,7.0,2,1,39,Renewed,640.92,Medium,66,Renew
+SUP-01948,Parker LLC,Logistics,Port Diana,Medium,Motors,90.9,1.68,2.0,0,0,27,Not Renewed,50.47,Low,93,Renew
+SUP-01949,Taylor Inc,Logistics,North Coreystad,Large,Chips,96.7,0.29,3.0,1,0,40,Not Renewed,346.56,Medium,39,Renew
+SUP-01950,Huffman Ltd,Chemicals,Brendaview,Medium,Cleaning Agents,95.4,1.12,6.0,2,0,31,Renewed,81.77,Medium,88,Renegotiate
+SUP-01951,"Beck, Spears and Mcdonald",Electronics,Lake Jenna,Medium,Transport Services,74.6,3.14,1.0,1,0,16,Not Renewed,343.92,High,58,Terminate
+SUP-01952,Henderson Group,Automotive,Johnsonmouth,Large,Motors,84.4,0.85,12.0,1,0,28,Not Renewed,622.97,Medium,76,Renew
+SUP-01953,"Hall, Rodriguez and Palmer",Electronics,West Richard,Medium,Cleaning Agents,77.8,,5.0,0,1,18,Renewed,902.16,Low,53,Renew
+SUP-01954,Harris-Schneider,Logistics,Bryanstad,Small,Transport Services,74.0,4.14,8.0,2,0,21,Renewed,180.34,Medium,40,Renew
+SUP-01955,Martinez Group,Pharma,North Derrick,Medium,Motors,72.0,1.27,6.0,1,1,31,Not Renewed,136.98,High,57,Renegotiate
+SUP-01956,Bradley-Scott,Chemicals,Port Aliciamouth,Small,Chips,76.7,2.3,17.0,1,1,9,Not Renewed,91.93,High,83,Renegotiate
+SUP-01957,"Proctor, Taylor and Miller",Automotive,Port Juan,Large,Chips,77.7,4.38,3.0,2,0,43,Not Renewed,575.95,Medium,75,Renegotiate
+SUP-01958,Thompson Ltd,Logistics,Greenfort,Medium,Transport Services,82.6,1.43,9.0,0,0,41,Renewed,665.45,Low,42,Renew
+SUP-01959,Allen and Sons,Logistics,West Debraton,Medium,Cleaning Agents,82.1,5.16,15.0,0,1,23,Renewed,553.04,High,51,Renegotiate
+SUP-01960,Gibbs-Richmond,Pharma,New Cassieberg,Small,Motors,87.0,3.35,6.0,1,1,9,Renewed,615.0,High,29,Renew
+SUP-01961,Smith PLC,Pharma,Curtisberg,Medium,Vaccines,109.5,3.3,18.0,0,0,30,Renewed,958.75,High,21,Renew
+SUP-01962,Nash-Underwood,Automotive,Lloydville,Small,Vaccines,109.0,,3.0,1,1,26,Renewed,473.11,Medium,34,Renew
+SUP-01963,"Kemp, Oneill and Moss",Pharma,Juanside,Medium,Transport Services,69.2,5.12,16.0,2,0,11,Renewed,789.02,Medium,52,Renegotiate
+SUP-01964,Smith and Sons,Automotive,South Emilyburgh,Medium,Motors,88.9,0.12,7.0,1,0,20,Not Renewed,472.32,Medium,91,Renew
+SUP-01965,Carroll-Harper,Pharma,Jacquelinetown,Large,Motors,87.1,4.9,,5,0,27,Not Renewed,928.69,Medium,82,Terminate
+SUP-01966,"Reyes, George and Winters",Electronics,South Andrewborough,Medium,Chips,61.1,3.36,19.0,4,0,40,Renewed,101.87,High,28,Renegotiate
+SUP-01967,Rivera-Holland,Logistics,West Jessicafort,Medium,Cleaning Agents,85.3,1.25,16.0,1,0,7,Renewed,397.33,Medium,47,Renew
+SUP-01968,"Lee, Brown and Rodriguez",Automotive,Port Manuel,Medium,Cleaning Agents,94.2,3.33,31.0,1,1,21,Not Renewed,445.0,High,49,Renegotiate
+SUP-01969,"Evans, Scott and Rodriguez",Electronics,Michaelfort,Small,Cleaning Agents,101.5,1.16,4.0,2,0,31,Renewed,713.35,Medium,59,Renew
+SUP-01970,Barnes Group,Chemicals,South Gregoryhaven,Large,Vaccines,93.0,2.54,4.0,3,1,17,Not Renewed,781.98,High,39,Renew
+SUP-01971,Robinson Ltd,Chemicals,Jonesstad,Medium,Transport Services,107.9,4.9,11.0,1,0,15,Renewed,310.4,Low,21,Renew
+SUP-01972,Moore-Jones,Logistics,East Adam,Large,Motors,72.8,3.73,4.0,2,1,39,Renewed,512.78,Medium,60,Terminate
+SUP-01973,White PLC,Pharma,East Johnchester,Small,Cleaning Agents,75.1,2.99,3.0,3,0,8,Renewed,921.13,High,32,Renegotiate
+SUP-01974,Wright Ltd,Pharma,North Lucas,Large,Cleaning Agents,93.1,3.88,1.0,0,0,45,Not Renewed,229.06,High,27,Terminate
+SUP-01975,Tate-Martinez,Chemicals,West William,Small,Motors,72.1,0.41,8.0,0,1,15,Renewed,363.67,Medium,54,Renegotiate
+SUP-01976,"Morgan, Wolf and Dunn",Logistics,North Brianstad,Large,Motors,75.7,3.93,8.0,2,2,41,Renewed,525.46,High,87,Renew
+SUP-01977,"Buckley, Ross and Rios",Chemicals,Schmidtshire,Medium,Cleaning Agents,91.2,3.12,14.0,3,1,33,Renewed,60.49,High,52,Renew
+SUP-01978,Schneider Group,Pharma,Lake Rebecca,Medium,Transport Services,101.2,3.76,7.0,1,1,23,Not Renewed,710.84,High,76,Terminate
+SUP-01979,Dean-Pineda,Pharma,Hubbardmouth,Small,Cleaning Agents,75.2,2.31,6.0,1,0,12,Not Renewed,919.6,Medium,64,Renegotiate
+SUP-01980,"Thompson, Ellis and Santana",Pharma,Port Regina,Medium,Transport Services,80.9,4.84,3.0,3,0,14,Renewed,204.03,High,64,Terminate
+SUP-01981,Norris-Taylor,Chemicals,North Kenneth,Medium,Vaccines,92.3,0.58,11.0,0,1,28,Not Renewed,586.6,Low,73,Renew
+SUP-01982,Holland-Logan,Chemicals,New Jillfort,Medium,Chips,85.3,1.37,7.0,0,1,47,Renewed,475.44,High,80,Renew
+SUP-01983,Thomas-Sullivan,Electronics,Bryanmouth,Small,Transport Services,74.7,4.48,6.0,0,0,14,Renewed,231.52,Medium,12,Renew
+SUP-01984,"Martin, Shaw and Thompson",Pharma,Kimberlyport,Medium,Vaccines,84.8,1.12,16.0,0,0,39,Not Renewed,556.36,Medium,94,Renew
+SUP-01985,Smith and Sons,Logistics,Wilsonville,Medium,Chips,106.2,2.67,5.0,1,0,32,Renewed,81.95,Medium,12,Renew
+SUP-01986,Dougherty-Evans,Electronics,South Jamesville,Large,Cleaning Agents,83.4,5.54,0.0,1,0,22,Not Renewed,67.11,Medium,34,Renew
+SUP-01987,Cross LLC,Pharma,South Deborahport,Medium,Motors,85.8,1.54,3.0,1,1,10,Renewed,930.69,High,90,Renegotiate
+SUP-01988,Matthews Ltd,Chemicals,South Dianachester,Small,Chips,101.8,1.64,6.0,0,0,19,Not Renewed,715.62,Medium,57,Renew
+SUP-01989,Jennings and Sons,Pharma,Kempborough,Medium,Motors,91.0,,4.0,0,1,45,Not Renewed,47.71,High,23,Renew
+SUP-01990,Wells and Sons,Logistics,Marymouth,Large,Vaccines,72.3,3.07,0.0,0,0,24,Not Renewed,166.95,High,41,Terminate
+SUP-01991,Stephens Inc,Logistics,Jamieburgh,Large,Transport Services,86.5,2.2,12.0,1,0,44,Not Renewed,18.82,Medium,33,Renegotiate
+SUP-01992,Kelley Ltd,Chemicals,Dayberg,Large,Motors,75.6,4.91,2.0,1,0,7,Renewed,338.84,High,61,Renew
+SUP-01993,"White, Gregory and Hughes",Logistics,North Claire,Medium,Transport Services,73.7,1.64,20.0,3,1,26,Renewed,757.37,Medium,90,Renew
+SUP-01994,Jackson Inc,Pharma,Richardside,Small,Chips,98.9,1.39,4.0,2,0,47,Renewed,403.16,High,16,Renegotiate
+SUP-01995,"Harper, Atkins and Bush",Pharma,Port Katrina,Large,Chips,76.8,2.68,2.0,0,0,10,Renewed,76.93,High,54,Renew
+SUP-01996,Wilson LLC,Chemicals,Johnton,Large,Motors,79.2,2.58,13.0,0,0,28,Renewed,991.4,High,79,Renegotiate
+SUP-01997,Durham-Medina,Pharma,East Garyside,Medium,Transport Services,72.5,2.65,4.0,0,1,21,Not Renewed,552.36,High,50,Renegotiate
+SUP-01998,"Humphrey, Ayers and Griffin",Pharma,Jefferystad,Small,Cleaning Agents,83.3,4.11,,1,0,31,Renewed,955.92,Low,51,Renew
+SUP-01999,Johnson-Richardson,Logistics,Ericville,Medium,Transport Services,96.5,2.72,0.0,1,0,24,Not Renewed,877.76,High,54,Renegotiate
+SUP-02000,"Brown, Adams and Davis",Electronics,New Angelashire,Medium,Chips,81.1,3.36,2.0,2,0,29,Renewed,304.43,Medium,75,Renegotiate
+SUP-02001,"Barrett, Rios and Bradford",Chemicals,West Billyton,Medium,Cleaning Agents,66.4,4.49,6.0,0,1,14,Renewed,170.87,Medium,86,Terminate
+SUP-02002,Roy-Brennan,Logistics,North Mark,Medium,Vaccines,74.3,4.28,12.0,0,0,17,Not Renewed,369.01,Medium,64,Terminate
+SUP-02003,Byrd Ltd,Electronics,New Anthonymouth,Medium,Vaccines,78.7,1.94,12.0,1,1,43,Not Renewed,658.3,High,58,Terminate
+SUP-02004,Simmons-Brown,Automotive,Rossborough,Medium,Chips,92.4,1.25,33.0,2,1,45,Not Renewed,45.36,Medium,72,Terminate
+SUP-02005,"Cox, Gray and Blair",Pharma,Melissaview,Medium,Vaccines,100.9,1.4,15.0,1,0,8,Not Renewed,699.21,Medium,25,Renew
+SUP-02006,Williams-Haynes,Automotive,New Andrew,Small,Vaccines,97.3,2.62,12.0,1,0,34,Renewed,106.82,High,10,Terminate
+SUP-02007,Lewis-Nelson,Chemicals,South Andrea,Medium,Motors,91.2,4.25,7.0,1,1,23,Renewed,391.47,Low,49,Renegotiate
+SUP-02008,Mosley-Reese,Logistics,Lake Lindaborough,Large,Chips,88.0,3.8,12.0,0,1,32,Renewed,806.66,High,50,Renew
+SUP-02009,"Ross, Sanchez and Barton",Automotive,East Alexandra,Small,Cleaning Agents,85.2,5.37,6.0,0,0,31,Not Renewed,14.93,High,38,Renew
+SUP-02010,"Robinson, Dougherty and Foster",Automotive,Port Jessica,Medium,Cleaning Agents,77.8,5.48,6.0,1,0,9,Not Renewed,204.69,Medium,81,Terminate
+SUP-02011,"Phillips, Harrell and Carter",Pharma,West Barry,Medium,Transport Services,80.0,0.87,10.0,1,0,15,Renewed,994.82,Low,83,Renew
+SUP-02012,Baker PLC,Chemicals,South Maria,Medium,Chips,90.1,2.87,1.0,1,1,29,Renewed,397.78,High,68,Renegotiate
+SUP-02013,"Hartman, Cain and Roberts",Logistics,Melissaside,Medium,Cleaning Agents,75.2,1.32,25.0,0,0,28,Not Renewed,627.9,High,59,Renew
+SUP-02014,Murray-Rodriguez,Chemicals,North Dianaport,Medium,Chips,88.1,2.85,3.0,3,0,32,Renewed,49.35,High,27,Renegotiate
+SUP-02015,Day Group,Electronics,West Sara,Large,Chips,,0.84,7.0,0,0,25,Not Renewed,303.15,Medium,84,Renew
+SUP-02016,Garrett Group,Chemicals,Clayland,Small,Vaccines,88.1,2.65,4.0,0,0,26,Renewed,31.92,Medium,88,Renew
+SUP-02017,Patterson-Harrison,Pharma,Klinestad,Medium,Vaccines,,1.26,6.0,2,0,17,Renewed,167.97,Medium,31,Renew
+SUP-02018,Miller PLC,Automotive,South Danny,Small,Motors,89.8,1.96,8.0,0,1,19,Not Renewed,58.31,High,84,Renegotiate
+SUP-02019,"Buchanan, Gray and Stewart",Logistics,Juliatown,Medium,Chips,100.0,3.32,11.0,1,0,34,Renewed,998.24,High,27,Renew
+SUP-02020,"Butler, Willis and Crawford",Pharma,Garrettburgh,Medium,Cleaning Agents,88.3,3.72,2.0,1,1,18,Not Renewed,424.69,Low,45,Renew
+SUP-02021,Torres-Day,Electronics,Katieton,Small,Transport Services,105.4,1.46,8.0,0,1,9,Not Renewed,738.64,High,46,Renew
+SUP-02022,Hebert-Rosario,Automotive,Amberchester,Medium,Transport Services,75.6,,25.0,1,0,46,Renewed,936.52,Medium,56,Terminate
+SUP-02023,Cruz-Bradshaw,Chemicals,South Roy,Small,Cleaning Agents,99.1,1.57,2.0,1,0,9,Renewed,938.26,High,82,Terminate
+SUP-02024,Hall and Sons,Automotive,Lake Cristina,Medium,Cleaning Agents,75.0,6.4,5.0,0,0,21,Renewed,492.82,High,67,Renew
+SUP-02025,Phelps LLC,Logistics,South Brian,Medium,Transport Services,68.2,3.45,15.0,0,1,10,Renewed,818.94,High,28,Renegotiate
+SUP-02026,"Miller, Mclean and Flores",Automotive,South Timothy,Medium,Vaccines,89.8,3.77,11.0,0,0,42,Not Renewed,815.38,High,17,Renew
+SUP-02027,"Diaz, Smith and Thomas",Chemicals,Nicolemouth,Medium,Motors,71.8,2.88,0.0,1,1,22,Renewed,387.89,High,42,Renew
+SUP-02028,Ryan PLC,Electronics,Richmondchester,Medium,Cleaning Agents,89.9,,4.0,2,0,36,Renewed,861.62,Low,30,Renew
+SUP-02029,Lewis PLC,Chemicals,West Adamtown,Medium,Vaccines,82.1,2.78,3.0,2,0,30,Not Renewed,923.91,High,78,Renew
+SUP-02030,Ingram and Sons,Automotive,Patrickstad,Large,Vaccines,104.0,2.4,1.0,2,2,42,Renewed,302.84,Medium,34,Renew
+SUP-02031,Mendoza-Page,Electronics,New Kimberlymouth,Medium,Motors,91.7,0.34,8.0,1,0,43,Not Renewed,558.27,Low,65,Terminate
+SUP-02032,"Jackson, Ingram and Ellison",Logistics,New Ricardoshire,Large,Motors,103.1,2.53,6.0,1,1,10,Renewed,706.38,High,34,Renegotiate
+SUP-02033,"Rodriguez, Taylor and Casey",Automotive,East Pennyshire,Small,Cleaning Agents,84.3,2.07,11.0,2,0,35,Renewed,551.53,High,50,Renegotiate
+SUP-02034,Mitchell-Torres,Pharma,Garybury,Large,Transport Services,92.1,2.38,14.0,0,0,14,Renewed,388.8,High,14,Renew
+SUP-02035,"Moyer, Beck and Goodwin",Logistics,New Sabrinastad,Medium,Vaccines,84.7,4.17,4.0,1,1,38,Not Renewed,939.7,Medium,27,Renew
+SUP-02036,"Williams, Nelson and Phillips",Chemicals,Morenostad,Medium,Transport Services,87.5,1.18,1.0,0,0,19,Renewed,130.87,Medium,45,Renegotiate
+SUP-02037,Johnson-Bautista,Pharma,West Tonyafort,Medium,Motors,,1.48,5.0,1,0,42,Renewed,799.28,Medium,48,Renew
+SUP-02038,Morgan Group,Automotive,Richville,Medium,Chips,102.5,2.51,1.0,2,0,46,Not Renewed,147.72,Medium,11,Renew
+SUP-02039,Martin-Johnston,Logistics,Stevenstad,Small,Vaccines,88.7,2.69,10.0,0,1,8,Renewed,376.92,Low,15,Terminate
+SUP-02040,Torres and Sons,Logistics,Matthewborough,Large,Chips,103.3,0.5,2.0,0,0,39,Not Renewed,777.7,High,55,Renew
+SUP-02041,Bell Group,Pharma,Riverashire,Medium,Vaccines,87.1,2.42,,4,0,24,Renewed,747.15,High,31,Renew
+SUP-02042,"Clark, Reeves and Dennis",Pharma,Ryanville,Small,Chips,83.9,,14.0,0,0,21,Renewed,909.69,Low,71,Renew
+SUP-02043,"Goodman, Wilson and Campbell",Logistics,Nashview,Medium,Vaccines,80.0,1.18,13.0,0,0,25,Renewed,365.92,Low,17,Renegotiate
+SUP-02044,"Thompson, Rangel and Holloway",Automotive,East Amyland,Large,Motors,87.3,0.23,0.0,1,0,12,Renewed,51.19,High,26,Renegotiate
+SUP-02045,"Black, Snyder and Harrison",Logistics,South Alvinside,Small,Vaccines,81.2,3.14,9.0,0,0,22,Not Renewed,529.53,Medium,31,Renew
+SUP-02046,Lopez-Frederick,Electronics,Spencerport,Large,Vaccines,62.3,3.44,7.0,3,0,33,Renewed,913.99,Medium,27,Renegotiate
+SUP-02047,Baxter-Allen,Logistics,Lake Robert,Small,Vaccines,94.9,3.07,2.0,2,0,24,Renewed,198.92,High,91,Renegotiate
+SUP-02048,Thomas-Craig,Chemicals,Kramerstad,Small,Transport Services,84.0,1.27,4.0,0,0,12,Not Renewed,569.15,High,89,Renegotiate
+SUP-02049,"Perez, Hill and Martinez",Chemicals,North Carriemouth,Large,Cleaning Agents,78.7,3.16,22.0,4,1,35,Not Renewed,676.84,High,94,Renew
+SUP-02050,Weaver Ltd,Pharma,Bellfurt,Small,Cleaning Agents,85.0,1.28,14.0,0,0,9,Not Renewed,743.36,Medium,94,Terminate
+SUP-02051,Christensen PLC,Logistics,Colemanhaven,Small,Cleaning Agents,93.1,4.25,16.0,0,1,41,Renewed,401.92,High,84,Renegotiate
+SUP-02052,"Ramirez, Decker and West",Logistics,Anthonyland,Small,Transport Services,74.7,4.32,12.0,1,0,38,Not Renewed,635.44,High,29,Renew
+SUP-02053,"Moore, Diaz and Matthews",Electronics,Lake Timothyfort,Large,Transport Services,93.5,,2.0,1,0,6,Renewed,96.52,High,30,Terminate
+SUP-02054,Huerta-Berger,Pharma,Tateville,Medium,Motors,85.1,2.11,7.0,2,2,40,Renewed,433.99,Medium,14,Terminate
+SUP-02055,Rhodes PLC,Logistics,South Robertmouth,Small,Cleaning Agents,92.6,3.1,2.0,2,0,12,Renewed,14.46,High,13,Renegotiate
+SUP-02056,"Morgan, Jackson and Rush",Chemicals,Port Davidport,Medium,Transport Services,69.0,0.93,8.0,0,0,43,Renewed,925.87,High,90,Renegotiate
+SUP-02057,"Olson, Reyes and Harrison",Electronics,Port Christopher,Medium,Vaccines,102.2,2.68,6.0,1,1,27,Not Renewed,219.5,Low,74,Renew
+SUP-02058,Lewis Ltd,Automotive,Griffinside,Medium,Cleaning Agents,97.4,0.65,24.0,1,1,33,Renewed,625.06,High,54,Renegotiate
+SUP-02059,Perez-Woods,Automotive,New Danaburgh,Medium,Chips,106.9,1.21,12.0,2,0,21,Renewed,178.78,High,61,Renegotiate
+SUP-02060,Booker-Dickerson,Automotive,Christopherstad,Small,Cleaning Agents,82.7,2.33,6.0,1,0,45,Renewed,48.08,Medium,77,Renegotiate
+SUP-02061,Tran-Jacobs,Pharma,Lake Miguel,Large,Cleaning Agents,100.2,0.54,1.0,1,0,41,Not Renewed,144.01,High,42,Renegotiate
+SUP-02062,Norman Group,Electronics,North Ryan,Medium,Vaccines,99.2,3.19,8.0,0,0,7,Not Renewed,651.56,Low,66,Renew
+SUP-02063,Brock LLC,Electronics,East Stephenburgh,Medium,Cleaning Agents,100.2,0.11,6.0,1,0,46,Not Renewed,594.76,Low,76,Renew
+SUP-02064,"Burke, Patterson and Levy",Pharma,South Coreyberg,Large,Vaccines,94.0,2.16,10.0,3,0,32,Renewed,376.92,Low,78,Renew
+SUP-02065,Jones Inc,Logistics,Adamsburgh,Medium,Chips,105.9,2.5,14.0,1,1,16,Not Renewed,635.04,Medium,30,Renew
+SUP-02066,Wong-Kim,Electronics,Newtonfurt,Small,Transport Services,94.0,,1.0,0,0,9,Renewed,448.84,Medium,70,Renew
+SUP-02067,Wilson Ltd,Automotive,Johnton,Large,Cleaning Agents,81.0,4.05,2.0,2,1,22,Renewed,562.94,Medium,63,Renew
+SUP-02068,Young Group,Logistics,West Marcusmouth,Small,Transport Services,87.9,1.51,11.0,1,0,6,Renewed,588.42,Medium,68,Renegotiate
+SUP-02069,Gamble Inc,Electronics,New Jessica,Large,Motors,75.8,4.9,23.0,0,0,44,Not Renewed,85.92,Low,67,Terminate
+SUP-02070,"Cook, Park and Kelly",Electronics,Maloneberg,Medium,Chips,70.6,2.0,14.0,0,0,37,Renewed,699.56,Medium,78,Renew
+SUP-02071,Lewis PLC,Chemicals,Lake Samanthastad,Medium,Vaccines,106.0,1.05,4.0,2,0,11,Renewed,354.44,Medium,16,Renew
+SUP-02072,"Sanders, Anderson and Garrison",Logistics,Rodriguezland,Large,Motors,68.4,1.73,14.0,0,1,7,Renewed,646.6,High,82,Renew
+SUP-02073,"Choi, Mckay and Fitzpatrick",Logistics,West Christina,Medium,Vaccines,78.2,1.45,11.0,0,1,32,Not Renewed,336.31,Medium,78,Renegotiate
+SUP-02074,Sutton-Ramos,Pharma,South Christopher,Large,Transport Services,88.2,2.6,7.0,1,1,21,Renewed,246.59,High,14,Renew
+SUP-02075,"Garcia, Shaw and Moore",Logistics,Evanstown,Small,Vaccines,93.2,2.91,0.0,2,0,10,Renewed,16.99,Medium,65,Renegotiate
+SUP-02076,Park-Lewis,Chemicals,New Davidstad,Medium,Cleaning Agents,47.9,1.98,,1,0,46,Renewed,233.37,Medium,77,Terminate
+SUP-02077,"Jones, Yates and Moore",Electronics,Sancheztown,Small,Cleaning Agents,69.1,2.25,16.0,0,1,23,Renewed,23.51,Medium,78,Renegotiate
+SUP-02078,"Barrera, Marks and Diaz",Pharma,Millerchester,Medium,Cleaning Agents,78.4,4.23,13.0,4,0,18,Not Renewed,445.01,Low,12,Renew
+SUP-02079,Kim Group,Pharma,Lake Amanda,Medium,Motors,,0.34,7.0,0,1,30,Not Renewed,879.91,Medium,14,Renew
+SUP-02080,Ferrell Ltd,Logistics,North Jennifer,Medium,Chips,105.6,1.4,10.0,1,0,41,Renewed,203.11,Low,82,Renew
+SUP-02081,Thompson-Vega,Electronics,South Rebekahberg,Medium,Motors,77.3,2.52,1.0,1,0,10,Renewed,616.62,Medium,61,Renew
+SUP-02082,"Lee, Davis and Mcgee",Chemicals,Lisashire,Small,Motors,90.8,0.35,27.0,1,0,36,Not Renewed,105.21,High,77,Terminate
+SUP-02083,"Reed, Matthews and Kent",Automotive,Port Daniel,Small,Transport Services,68.3,2.81,4.0,1,1,9,Renewed,480.38,Low,73,Terminate
+SUP-02084,Austin Group,Logistics,North Heather,Medium,Transport Services,85.4,1.47,10.0,1,0,24,Renewed,428.9,High,64,Renew
+SUP-02085,"Jackson, Davis and Hart",Electronics,East Catherineside,Medium,Transport Services,87.1,3.11,7.0,2,1,14,Renewed,867.43,Medium,59,Renegotiate
+SUP-02086,Miller-Weiss,Pharma,Mcleanside,Small,Motors,90.3,3.5,1.0,0,1,17,Renewed,920.34,Low,72,Renew
+SUP-02087,Mason-Huang,Pharma,Warebury,Medium,Transport Services,86.0,3.39,13.0,1,1,25,Renewed,819.95,Medium,32,Renew
+SUP-02088,Allen PLC,Logistics,Homouth,Small,Chips,90.8,5.6,13.0,1,0,11,Renewed,826.98,High,92,Renegotiate
+SUP-02089,"Johnson, Rivera and Campbell",Electronics,Vanessamouth,Medium,Transport Services,93.6,1.93,5.0,1,2,17,Not Renewed,501.85,High,35,Renew
+SUP-02090,"Foster, George and Mercado",Electronics,Lake Alyssamouth,Large,Vaccines,87.5,3.29,13.0,0,0,27,Renewed,991.6,High,87,Renew
+SUP-02091,Hernandez-Weaver,Pharma,East Nicholas,Medium,Transport Services,101.6,3.0,19.0,2,0,27,Renewed,828.39,High,12,Renew
+SUP-02092,Mendez and Sons,Automotive,New Anna,Medium,Vaccines,88.5,1.71,0.0,0,0,21,Not Renewed,394.8,Medium,39,Renew
+SUP-02093,Mcneil and Sons,Electronics,Lake Christopherburgh,Large,Motors,79.9,1.98,15.0,0,0,28,Not Renewed,475.03,Medium,88,Renew
+SUP-02094,Jones-House,Chemicals,Charlottemouth,Medium,Vaccines,60.8,,20.0,2,0,25,Renewed,412.19,Medium,40,Renew
+SUP-02095,Turner-Olson,Pharma,Julieborough,Medium,Motors,84.2,4.12,8.0,1,1,16,Renewed,995.33,Medium,28,Terminate
+SUP-02096,Farmer-Melton,Electronics,North Erinfort,Small,Transport Services,97.5,2.54,1.0,0,0,40,Renewed,612.91,Medium,11,Renew
+SUP-02097,"Clark, Cook and Foster",Electronics,Shannonburgh,Small,Transport Services,93.4,0.63,12.0,3,1,22,Renewed,349.15,Medium,38,Renegotiate
+SUP-02098,Dean PLC,Chemicals,Rodriguezburgh,Small,Transport Services,66.3,2.9,6.0,1,0,22,Not Renewed,364.94,High,19,Renew
+SUP-02099,Hunt Ltd,Logistics,East Hollyport,Small,Chips,73.7,2.43,2.0,0,0,33,Renewed,600.69,High,69,Terminate
+SUP-02100,Carter and Sons,Electronics,Marcuston,Medium,Transport Services,80.7,4.31,,0,0,42,Not Renewed,518.55,High,37,Terminate
+SUP-02101,"Rodriguez, Mckinney and Mcdonald",Electronics,Melanieville,Medium,Vaccines,78.7,1.15,2.0,0,0,35,Not Renewed,80.79,Medium,64,Renew
+SUP-02102,"Ewing, Winters and Holloway",Logistics,Johnsonside,Small,Motors,94.0,3.15,2.0,2,0,19,Renewed,29.23,High,19,Renew
+SUP-02103,Kelley LLC,Electronics,South Danielle,Medium,Vaccines,91.3,2.51,11.0,1,1,21,Not Renewed,942.96,Medium,17,Terminate
+SUP-02104,"Knight, Harvey and Boyd",Pharma,Port Michaelburgh,Medium,Transport Services,78.8,1.37,8.0,1,1,28,Renewed,887.46,High,31,Renew
+SUP-02105,Cook LLC,Chemicals,Hurleybury,Large,Cleaning Agents,84.3,1.82,15.0,0,0,9,Not Renewed,825.4,Low,32,Renegotiate
+SUP-02106,Taylor Ltd,Electronics,Port Sharonmouth,Large,Cleaning Agents,76.7,2.48,,1,0,47,Renewed,572.64,Low,32,Renew
+SUP-02107,"Benton, Bates and Melton",Pharma,Thompsonstad,Medium,Transport Services,78.2,2.63,4.0,0,1,24,Renewed,118.81,Low,94,Renew
+SUP-02108,"Crawford, Freeman and Richards",Pharma,Port Jose,Medium,Cleaning Agents,79.7,,29.0,2,0,35,Not Renewed,930.13,Medium,17,Renew
+SUP-02109,Humphrey LLC,Automotive,Port Ernest,Medium,Transport Services,77.0,5.3,23.0,1,1,32,Not Renewed,43.86,High,12,Renew
+SUP-02110,Collins LLC,Automotive,Zacharyberg,Medium,Motors,78.7,2.18,7.0,2,2,30,Not Renewed,162.55,Medium,85,Terminate
+SUP-02111,"Russo, Nichols and Thompson",Electronics,South James,Medium,Vaccines,85.2,3.37,28.0,3,2,25,Renewed,614.51,High,76,Renew
+SUP-02112,Ferrell-Williams,Automotive,Michaelton,Medium,Transport Services,84.4,3.93,4.0,1,0,16,Renewed,97.77,Medium,22,Terminate
+SUP-02113,Colon PLC,Electronics,New Michaelview,Medium,Chips,83.8,2.57,1.0,2,0,23,Renewed,248.64,Low,26,Renew
+SUP-02114,Conrad-Oneill,Logistics,Mccluretown,Medium,Chips,84.6,3.28,11.0,1,1,13,Renewed,64.82,High,15,Renew
+SUP-02115,"Patton, Ferguson and Johnson",Pharma,Lisaland,Large,Transport Services,68.1,1.34,3.0,1,0,19,Renewed,718.12,High,65,Renew
+SUP-02116,Ballard LLC,Electronics,New Jenniferberg,Medium,Cleaning Agents,97.5,2.68,3.0,3,1,45,Not Renewed,971.37,Low,82,Renegotiate
+SUP-02117,Perez Group,Pharma,Reillyville,Medium,Vaccines,79.7,2.38,7.0,2,2,14,Not Renewed,40.36,High,50,Renew
+SUP-02118,"Woods, Flores and Young",Electronics,Port Robertburgh,Medium,Cleaning Agents,78.5,2.46,11.0,1,0,16,Not Renewed,68.66,High,56,Terminate
+SUP-02119,Wallace Group,Logistics,East Nicole,Medium,Motors,83.6,2.21,10.0,1,1,23,Renewed,417.28,High,54,Renew
+SUP-02120,Jacobs PLC,Electronics,West Tammyborough,Medium,Chips,82.9,4.89,12.0,1,0,6,Renewed,698.5,High,89,Renew
+SUP-02121,"Pacheco, Johnson and Hansen",Automotive,Earlstad,Small,Vaccines,74.5,0.88,7.0,0,0,24,Renewed,175.27,Medium,41,Renew
+SUP-02122,"Mercado, Gordon and West",Pharma,West Donald,Medium,Transport Services,91.3,2.95,3.0,2,0,7,Renewed,299.05,Low,74,Renegotiate
+SUP-02123,Swanson Ltd,Electronics,West Tanya,Large,Transport Services,91.0,0.92,14.0,0,0,37,Not Renewed,748.06,Medium,47,Renegotiate
+SUP-02124,Williams PLC,Pharma,East Johnathan,Small,Cleaning Agents,72.1,2.71,5.0,0,1,12,Renewed,451.55,Medium,20,Renegotiate
+SUP-02125,"Willis, Vega and Harris",Logistics,Lake Pennyberg,Medium,Vaccines,85.0,1.65,13.0,1,0,7,Not Renewed,808.73,Low,36,Renegotiate
+SUP-02126,Rose Group,Chemicals,West Robin,Medium,Motors,85.8,0.29,10.0,1,0,16,Not Renewed,263.34,High,42,Renew
+SUP-02127,"Myers, Bradley and Simon",Chemicals,West Daleborough,Small,Cleaning Agents,97.5,4.9,1.0,0,2,36,Not Renewed,959.75,Low,20,Renew
+SUP-02128,Brown-Hall,Pharma,Michellebury,Large,Transport Services,81.8,6.54,4.0,0,0,26,Renewed,187.39,High,17,Renew
+SUP-02129,"Morris, Compton and Fischer",Automotive,Port Jonathonhaven,Medium,Motors,107.6,3.68,5.0,0,0,24,Renewed,329.25,High,21,Renew
+SUP-02130,"Warren, Clay and Hayes",Chemicals,Joshuaview,Small,Chips,84.3,5.05,1.0,1,0,13,Renewed,901.22,Low,92,Renew
+SUP-02131,"Garcia, Gonzalez and Erickson",Automotive,North Waynechester,Medium,Cleaning Agents,72.6,2.86,12.0,0,1,29,Not Renewed,41.37,Low,79,Renew
+SUP-02132,"Miller, Hubbard and Warner",Logistics,Howardton,Medium,Vaccines,79.2,2.19,9.0,1,0,29,Renewed,266.94,Medium,67,Renegotiate
+SUP-02133,Perez PLC,Pharma,Jacobview,Small,Cleaning Agents,,1.41,16.0,1,0,14,Not Renewed,330.4,High,62,Terminate
+SUP-02134,Avila-Johnson,Logistics,Riverabury,Medium,Transport Services,80.8,4.91,1.0,2,0,42,Not Renewed,761.14,Medium,88,Renew
+SUP-02135,Smith-Lopez,Chemicals,East Jeremystad,Small,Vaccines,108.0,6.99,17.0,0,1,16,Not Renewed,573.76,Medium,36,Terminate
+SUP-02136,"Schmidt, Stark and Hill",Logistics,Smithborough,Small,Transport Services,98.9,0.22,5.0,1,1,15,Not Renewed,554.4,Medium,60,Renegotiate
+SUP-02137,"Mosley, Knight and Price",Electronics,Port Janice,Small,Transport Services,86.7,2.79,5.0,2,0,14,Renewed,411.67,High,33,Renew
+SUP-02138,"Williams, Williams and Price",Automotive,North Jessica,Medium,Vaccines,82.3,1.62,3.0,2,1,15,Renewed,124.7,Medium,60,Renew
+SUP-02139,Moody-Richardson,Pharma,Stevenland,Medium,Vaccines,,1.72,14.0,0,2,9,Not Renewed,736.87,Medium,45,Renew
+SUP-02140,"Oneill, Stark and Carrillo",Logistics,Lake Rodney,Small,Cleaning Agents,85.1,0.07,5.0,2,0,31,Renewed,906.86,Medium,43,Renew
+SUP-02141,Hicks LLC,Chemicals,Richardhaven,Large,Motors,90.2,2.7,20.0,0,1,10,Renewed,483.42,Low,24,Renew
+SUP-02142,"Bailey, Gonzalez and Moore",Logistics,Hernandezland,Medium,Chips,71.8,3.18,17.0,0,1,38,Renewed,804.5,Low,81,Renegotiate
+SUP-02143,"Baker, Williams and Foster",Chemicals,Jonesville,Medium,Vaccines,,3.54,7.0,1,0,10,Renewed,216.54,Medium,45,Renew
+SUP-02144,"Hess, Pacheco and Frye",Chemicals,Walkermouth,Medium,Motors,,2.22,13.0,2,1,6,Renewed,265.35,High,29,Terminate
+SUP-02145,"Lopez, Miller and Benson",Chemicals,East Lisa,Medium,Transport Services,65.4,4.61,,1,0,41,Not Renewed,18.5,Low,18,Renegotiate
+SUP-02146,Dillon-Morton,Electronics,Port Davidberg,Medium,Transport Services,87.7,0.06,3.0,2,0,34,Renewed,144.85,Low,49,Renew
+SUP-02147,Murray Ltd,Chemicals,New Johnside,Large,Cleaning Agents,83.2,2.37,8.0,1,0,16,Renewed,828.99,Medium,46,Renew
+SUP-02148,Olson-Peters,Electronics,New Marymouth,Medium,Chips,79.4,0.81,7.0,2,1,26,Renewed,999.25,High,19,Renegotiate
+SUP-02149,Davis Inc,Electronics,South David,Small,Chips,,2.89,4.0,0,1,23,Renewed,674.33,Medium,41,Renew
+SUP-02150,"Russell, Richard and Kerr",Pharma,Josetown,Small,Motors,,0.94,4.0,0,0,9,Not Renewed,585.97,Low,25,Renegotiate
+SUP-02151,"Costa, White and Scott",Automotive,Mendezshire,Large,Cleaning Agents,73.7,2.78,3.0,0,0,39,Not Renewed,564.94,High,91,Terminate
+SUP-02152,Wilson-Powers,Logistics,New Craigstad,Medium,Cleaning Agents,70.6,5.32,5.0,1,2,19,Renewed,301.98,Low,83,Renew
+SUP-02153,"Jackson, Marsh and Thompson",Logistics,Whitebury,Small,Vaccines,89.3,1.15,7.0,0,0,23,Renewed,573.26,High,23,Terminate
+SUP-02154,Green-Collins,Automotive,Port Joshuaton,Medium,Transport Services,84.1,1.86,3.0,0,1,16,Renewed,964.19,High,64,Renegotiate
+SUP-02155,"Marshall, Contreras and Jacobs",Electronics,Millerhaven,Medium,Vaccines,88.1,3.59,9.0,0,0,30,Not Renewed,181.2,High,77,Terminate
+SUP-02156,Allen and Sons,Logistics,South Aliciafort,Small,Cleaning Agents,82.1,,18.0,1,0,43,Not Renewed,191.39,High,44,Renegotiate
+SUP-02157,Boone-Castillo,Chemicals,North Ashley,Large,Transport Services,89.7,0.06,18.0,0,1,18,Renewed,130.36,Medium,13,Renegotiate
+SUP-02158,Sheppard-Douglas,Automotive,South Jeffrey,Small,Motors,96.3,2.14,2.0,1,1,40,Not Renewed,12.51,Low,77,Terminate
+SUP-02159,"Gibbs, Washington and Camacho",Pharma,Nicoleside,Small,Chips,78.2,2.42,9.0,1,1,43,Renewed,451.15,Low,49,Renegotiate
+SUP-02160,Olson Ltd,Automotive,Xaviermouth,Medium,Transport Services,89.4,1.93,2.0,2,1,45,Renewed,728.85,High,90,Renegotiate
+SUP-02161,Cardenas Group,Automotive,Port Theresa,Small,Cleaning Agents,97.8,3.64,2.0,0,0,44,Renewed,918.9,High,14,Renew
+SUP-02162,Smith-Watson,Pharma,Port Jessicafurt,Small,Vaccines,88.0,0.91,6.0,1,0,23,Renewed,190.2,High,66,Renew
+SUP-02163,Davis-Clark,Logistics,Port Kerri,Medium,Vaccines,62.9,4.05,24.0,0,0,8,Not Renewed,695.25,High,23,Renew
+SUP-02164,"Vazquez, Wheeler and Smith",Logistics,Nicoleside,Small,Vaccines,77.7,1.73,13.0,1,0,38,Renewed,335.91,Low,68,Renew
+SUP-02165,"Aguilar, Hall and Rogers",Automotive,Lake Julian,Medium,Transport Services,85.6,3.84,8.0,0,0,8,Renewed,382.79,Medium,69,Renegotiate
+SUP-02166,"Boone, Greene and Jenkins",Automotive,North Christinaland,Medium,Vaccines,92.9,1.99,12.0,2,0,32,Renewed,269.15,High,38,Terminate
+SUP-02167,"Costa, Roth and Butler",Logistics,West Brandonmouth,Medium,Transport Services,79.0,2.51,17.0,0,0,13,Renewed,359.06,Medium,13,Renegotiate
+SUP-02168,Moreno-Douglas,Chemicals,Port Nicole,Small,Transport Services,86.4,,17.0,1,1,31,Renewed,738.27,Medium,93,Renegotiate
+SUP-02169,Smith-Flores,Automotive,Bellburgh,Medium,Vaccines,101.0,4.27,6.0,1,0,42,Renewed,961.65,Low,19,Renew
+SUP-02170,"Carter, Wells and Brown",Pharma,New Amanda,Small,Transport Services,79.8,3.44,6.0,1,0,15,Renewed,842.87,High,45,Renegotiate
+SUP-02171,Clark LLC,Chemicals,Duncantown,Medium,Vaccines,75.0,5.98,5.0,3,1,37,Renewed,535.43,Medium,45,Terminate
+SUP-02172,Foster-Wilson,Automotive,Hickshaven,Medium,Motors,69.4,1.51,10.0,3,0,37,Not Renewed,274.7,Low,91,Renew
+SUP-02173,"Griffin, Owens and Rodgers",Automotive,Danielchester,Medium,Motors,,2.05,9.0,1,0,40,Renewed,611.85,Medium,77,Terminate
+SUP-02174,Lopez and Sons,Pharma,Tammyburgh,Small,Motors,81.3,2.52,3.0,0,0,23,Not Renewed,147.36,Low,92,Renew
+SUP-02175,"Guzman, Turner and Fritz",Electronics,New Melissaview,Small,Motors,96.3,3.96,9.0,1,1,24,Not Renewed,620.9,High,19,Renew
+SUP-02176,Thomas Inc,Electronics,Matthewmouth,Medium,Vaccines,94.0,2.48,2.0,3,0,20,Renewed,311.92,Medium,39,Terminate
+SUP-02177,"Huber, Davidson and Mann",Chemicals,West Stephanie,Medium,Motors,94.2,2.44,12.0,1,0,19,Not Renewed,355.84,Medium,26,Renegotiate
+SUP-02178,Shepherd and Sons,Pharma,Watkinshaven,Small,Motors,92.1,1.16,5.0,1,0,44,Renewed,658.3,High,67,Renew
+SUP-02179,Williams-Walker,Chemicals,Kimberlyville,Medium,Motors,86.7,5.75,,0,0,26,Not Renewed,938.69,Low,88,Renegotiate
+SUP-02180,"Ortiz, Barnett and Houston",Pharma,Susanbury,Small,Chips,60.2,2.69,4.0,0,0,25,Not Renewed,278.07,High,52,Terminate
+SUP-02181,"Burns, Wilson and Wilson",Logistics,North Lanceton,Medium,Transport Services,74.8,0.63,3.0,0,0,30,Renewed,988.51,High,72,Renew
+SUP-02182,Anderson-Beck,Chemicals,East Scott,Small,Chips,78.6,,16.0,0,1,39,Not Renewed,694.75,Medium,78,Renegotiate
+SUP-02183,Roberts-Perez,Automotive,Fostermouth,Medium,Motors,85.5,3.68,16.0,0,0,9,Renewed,956.38,Medium,10,Renew
+SUP-02184,Brown LLC,Pharma,Port Trevor,Medium,Motors,67.7,7.1,6.0,0,1,34,Renewed,723.7,Medium,90,Renew
+SUP-02185,Coleman and Sons,Chemicals,South Ann,Medium,Transport Services,93.4,2.81,3.0,0,0,17,Not Renewed,739.33,Medium,17,Terminate
+SUP-02186,"Anderson, Adkins and Franklin",Automotive,Elizabethview,Small,Chips,80.7,3.09,17.0,2,0,26,Not Renewed,414.78,High,58,Terminate
+SUP-02187,Martin-Lee,Logistics,Wadechester,Small,Vaccines,93.8,1.97,19.0,0,1,43,Not Renewed,367.25,Medium,22,Renegotiate
+SUP-02188,Hardy-Gray,Electronics,Hansenton,Small,Chips,87.1,6.6,10.0,0,1,39,Renewed,882.63,High,58,Renew
+SUP-02189,"Thomas, Jordan and Webb",Pharma,Lake Ashley,Medium,Motors,90.1,2.93,6.0,1,1,40,Renewed,242.7,High,68,Renew
+SUP-02190,"Davies, Lee and Davis",Automotive,Castillofort,Medium,Chips,86.8,3.83,1.0,1,1,27,Not Renewed,914.15,Low,22,Renegotiate
+SUP-02191,Hopkins Group,Electronics,Lake Jennifer,Medium,Cleaning Agents,115.5,,5.0,2,0,27,Renewed,267.08,Medium,56,Renegotiate
+SUP-02192,"Rogers, Carter and Potts",Chemicals,East Sue,Medium,Motors,76.7,1.33,2.0,3,0,38,Not Renewed,704.57,High,13,Renew
+SUP-02193,"Vasquez, Luna and Brown",Automotive,Sandyhaven,Medium,Motors,86.5,,11.0,2,0,9,Renewed,25.31,High,40,Renew
+SUP-02194,Johnson Ltd,Automotive,Vickishire,Medium,Motors,79.0,0.28,6.0,0,0,39,Renewed,155.23,High,53,Renew
+SUP-02195,Zimmerman Group,Automotive,Rodriguezmouth,Medium,Transport Services,97.0,0.79,14.0,0,0,45,Not Renewed,459.86,Medium,74,Renegotiate
+SUP-02196,"Owen, Mccarthy and Pacheco",Chemicals,Jonesview,Medium,Vaccines,86.0,2.05,10.0,1,0,47,Renewed,621.28,Low,48,Renew
+SUP-02197,Schwartz-Jordan,Pharma,Dyershire,Large,Chips,106.4,3.55,2.0,0,0,26,Renewed,18.65,High,41,Renew
+SUP-02198,Smith-Martinez,Electronics,New Derek,Small,Chips,92.6,3.71,,1,1,25,Renewed,209.63,Low,12,Terminate
+SUP-02199,"Morton, Miller and Smith",Electronics,Port Walterchester,Medium,Cleaning Agents,81.2,4.19,30.0,1,0,15,Renewed,281.62,High,84,Renegotiate
+SUP-02200,"Martinez, Washington and Bryant",Electronics,Garciafort,Small,Cleaning Agents,101.4,3.87,0.0,1,0,43,Renewed,426.27,Medium,41,Renegotiate
