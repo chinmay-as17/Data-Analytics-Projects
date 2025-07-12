@@ -1,0 +1,5 @@
+Warehouse,InQuantity,OutQuantity,NetStock
+West,1712,1641,71
+North,1641,1601,40
+East,2052,2008,44
+South,1644,2053,-409
