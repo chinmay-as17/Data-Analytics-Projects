@@ -1,101 +1,103 @@
-# 📦 Warehouse Slotting Optimizer - Step 1: Load & Explore Data
+# 📦 Warehouse Slotting & 7-Day Demand Forecast Optimizer
 
-import pandas as pd  # For working with data
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from statsmodels.tsa.arima.model import ARIMA
 
-# Load the CSV file
+# -------------------------------
+# STEP 1: Load & Explore Data
+# -------------------------------
 df = pd.read_csv('data/warehouse_inventory.csv')
 
-# Show the first 5 rows
 print("\n🔍 Preview of Data:")
 print(df.head())
 
-# Print shape of the data
-print(f"\n📏 Total Rows: {df.shape[0]}, Columns: {df.shape[1]}")
-
-# Show column names
-print("\n🧱 Column Names:")
-print(df.columns.tolist())
-
-# Show basic stats
-print("\n📊 Basic Statistics:")
+print(f"\n📏 Rows: {df.shape[0]}, Columns: {df.shape[1]}")
+print("\n🧱 Column Names:", df.columns.tolist())
+print("\n📊 Statistics:")
 print(df.describe(include='all'))
-
-# Show if any data is missing
-print("\n🚨 Null / Missing Values:")
+print("\n🚨 Missing Values:")
 print(df.isnull().sum())
 
-# 🎯 STEP 2: Classify SKUs into Fast / Medium / Slow movers
+# -------------------------------
+# STEP 2: Classify SKUs (Fast / Medium / Slow)
+# -------------------------------
+high = df['Daily_Picks'].quantile(0.7)
+low = df['Daily_Picks'].quantile(0.3)
 
-# Get the thresholds
-high_threshold = df['Daily_Picks'].quantile(0.7)
-low_threshold = df['Daily_Picks'].quantile(0.3)
-
-# Define a function to classify each row
-def classify_movement(picks):
-    if picks >= high_threshold:
+def classify(picks):
+    if picks >= high:
         return 'Fast Mover'
-    elif picks <= low_threshold:
+    elif picks <= low:
         return 'Slow Mover'
     else:
         return 'Medium Mover'
 
-# Apply the classification to the dataframe
-df['Movement_Class'] = df['Daily_Picks'].apply(classify_movement)
-
-# Print the results
-print("\n✅ Movement Classification Added:")
+df['Movement_Class'] = df['Daily_Picks'].apply(classify)
+print("\n✅ Movement Classification:")
 print(df[['SKU', 'Daily_Picks', 'Movement_Class']])
 
-# Optional: Save to output folder for Excel/opening later
 df.to_csv('output/slotting_classification.csv', index=False)
-print("\n📁 Output saved to: output/slotting_classification.csv")
 
-import matplotlib.pyplot as plt
+# -------------------------------
+# STEP 3: Visualize Movement Classes
+# -------------------------------
+counts = df['Movement_Class'].value_counts()
 
-# 🎨 STEP 3: Visualize the Movement Classes
-
-# Count how many SKUs fall in each category
-movement_counts = df['Movement_Class'].value_counts()
-
-# 📊 Bar Chart
+# Bar Chart
 plt.figure(figsize=(6,4))
-movement_counts.plot(kind='bar', color=['green', 'orange', 'red'])
+counts.plot(kind='bar', color=['green','orange','red'])
 plt.title('SKU Movement Classification')
-plt.xlabel('Movement Class')
+plt.xlabel('Class')
 plt.ylabel('Number of SKUs')
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.tight_layout()
 plt.savefig('output/bar_chart.png')
-print("📊 Bar chart saved to output/bar_chart.png")
 plt.show()
 
-# 🥧 Pie Chart
+# Pie Chart
 plt.figure(figsize=(5,5))
-movement_counts.plot(kind='pie', autopct='%1.1f%%', startangle=140, colors=['green', 'orange', 'red'])
+counts.plot(kind='pie', autopct='%1.1f%%', startangle=140, colors=['green','orange','red'])
 plt.title('SKU Movement Distribution')
 plt.ylabel('')
 plt.tight_layout()
 plt.savefig('output/pie_chart.png')
-print("🥧 Pie chart saved to output/pie_chart.png")
 plt.show()
 
-# 🤖 STEP 4: Warehouse Slotting Logic
-
-def assign_zone(movement_class):
-    if movement_class == 'Fast Mover':
+# -------------------------------
+# STEP 4: Assign Warehouse Zones
+# -------------------------------
+def assign_zone(movement):
+    if movement == 'Fast Mover':
         return 'Front'
-    elif movement_class == 'Medium Mover':
+    elif movement == 'Medium Mover':
         return 'Middle'
     else:
         return 'Back'
 
-# Apply the logic to create a new column
 df['Storage_Zone'] = df['Movement_Class'].apply(assign_zone)
+print("\n🏷️ Slotting Sample:")
+print(df[['SKU','Movement_Class','Storage_Zone']])
 
-# Show sample of the result
-print("\n🏷️ Slotting Suggestions (Sample):")
-print(df[['SKU', 'Movement_Class', 'Storage_Zone']])
+# -------------------------------
+# STEP 5: 7-Day Forecast using ARIMA
+# -------------------------------
+# Simulate Sales if not present
+if 'Sales' not in df.columns:
+    np.random.seed(42)
+    df['Sales'] = df['Daily_Picks'] + np.random.randint(-5,5,len(df))
 
-# Save final result
-df.to_csv('output/final_slotting_plan.csv', index=False)
-print("✅ Final slotting plan saved to output/final_slotting_plan.csv")
+def forecast_7_days(series):
+    try:
+        model = ARIMA(series, order=(1,1,1))
+        fit = model.fit()
+        return list(fit.forecast(7))
+    except:
+        return [series.iloc[-1]]*7
+
+df['7_Day_Forecast'] = df['Sales'].apply(lambda x: forecast_7_days(df['Sales']))
+
+# Save final CSV
+df.to_csv('output/final_slotting_forecast.csv', index=False)
+print("\n✅ Final slotting + forecast saved: output/final_slotting_forecast.csv")
